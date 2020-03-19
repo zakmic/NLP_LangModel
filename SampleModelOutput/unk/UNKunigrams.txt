@@ -1,0 +1,5552 @@
+[a]	2
+[the ]	2102
+[ruling ]	6
+[class]	3
+[its ]	94
+[resources ]	6
+[and ]	535
+[means ]	5
+[of ]	1375
+[<UNK>]	1
+[EOS]	877
+[i]	4
+[<UNK>]	1
+[to ]	673
+[him ]	30
+[that ]	228
+[<UNK>]	1
+[shall ]	2
+[be ]	120
+[<UNK>]	1
+[was ]	382
+[a ]	464
+[truism ]	2
+[early ]	21
+[medieval ]	3
+[society]	4
+[because ]	18
+[lords ]	30
+[<UNK>]	1
+[large ]	11
+[<UNK>]	1
+[land ]	7
+[at ]	107
+[time ]	20
+[when ]	57
+[opportunities ]	6
+[for ]	272
+[exploitation ]	4
+[were ]	183
+[particularly ]	8
+[<UNK>]	1
+[could ]	72
+[add ]	2
+[this ]	79
+[profit ]	10
+[from ]	128
+[tolls ]	4
+[customs ]	8
+[on ]	175
+[increasing ]	6
+[<UNK>]	1
+[they ]	117
+[hardly ]	7
+[<UNK>]	1
+[substantial ]	10
+[increase ]	7
+[in ]	668
+[their ]	256
+[course ]	10
+[eleventh ]	16
+[century]	48
+[but ]	120
+[<UNK>]	1
+[<UNK>]	1
+[princes]	24
+[' ]	40
+[point ]	15
+[view]	6
+[lay ]	22
+[fact ]	18
+[<UNK>]	1
+[now ]	24
+[more ]	59
+[widely ]	2
+[<UNK>]	1
+[than ]	46
+[had ]	150
+[been ]	63
+[past]	4
+[some ]	43
+[cases]	3
+[most ]	28
+[strikingly ]	2
+[normandy]	17
+[landed ]	2
+[gains ]	2
+[castellans ]	19
+[made ]	20
+[expense ]	2
+[comital ]	23
+[demesne]	11
+[there ]	55
+[thus ]	6
+[real ]	4
+[danger]	2
+[not ]	91
+[<UNK>]	1
+[<UNK>]	1
+[gap ]	4
+[between ]	42
+[princes ]	40
+[other ]	48
+[lesser ]	6
+[lords]	15
+[just ]	13
+[display ]	5
+[<UNK>]	1
+[increasingly ]	4
+[important ]	22
+[elements ]	2
+[princely ]	32
+[political ]	33
+[<UNK>]	1
+[renewed ]	6
+[<UNK>]	1
+[<UNK>]	1
+[themselves ]	13
+[therefore ]	18
+[demanded]	2
+[<UNK>]	1
+[<UNK>]	1
+[it ]	174
+[seems ]	5
+[likely ]	9
+[joined ]	3
+[with ]	155
+[laymen ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[characterized ]	3
+[french ]	26
+[countryside]	3
+[proof ]	9
+[is ]	51
+[<UNK>]	1
+[famous ]	7
+[letter ]	8
+[archbishop ]	2
+[rheims ]	3
+[baldwin ]	10
+[v ]	17
+[flanders]	22
+[<UNK>]	1
+[his ]	280
+[activities ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[areas ]	6
+[<UNK>]	1
+[after ]	24
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[last ]	9
+[<UNK>]	1
+[<UNK>]	1
+[evidence ]	6
+[an ]	78
+[interest ]	5
+[agricultural ]	3
+[<UNK>]	1
+[wine-growing ]	2
+[developed ]	3
+[markedly ]	5
+[lands ]	6
+[much ]	16
+[<UNK>]	1
+[by ]	199
+[dukes ]	7
+[burgundy ]	9
+[aquitaine ]	14
+[perhaps ]	9
+[also ]	34
+[<UNK>]	1
+[ducal ]	5
+[<UNK>]	1
+[hand]	10
+[<UNK>]	1
+[duke ]	20
+[who ]	59
+[granted ]	4
+[out ]	16
+[larger ]	4
+[part ]	13
+[demesne ]	12
+[feudal ]	23
+[<UNK>]	1
+[or ]	82
+[count ]	35
+[toulouse]	12
+[slow ]	3
+[<UNK>]	1
+[lands]	6
+[major ]	5
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[trade ]	4
+[<UNK>]	1
+[again]	5
+[counts ]	27
+[flanders ]	22
+[<UNK>]	1
+[robert ]	26
+[frisian ]	3
+[ii ]	22
+[<UNK>]	1
+[protection ]	10
+[merchants ]	6
+[crossing ]	2
+[county ]	10
+[peace ]	14
+[<UNK>]	1
+[<UNK>]	1
+[least ]	17
+[as ]	251
+[<UNK>]	1
+[coinage ]	3
+[suitable ]	2
+[<UNK>]	1
+[small ]	6
+[<UNK>]	1
+[sufficiently ]	2
+[<UNK>]	1
+[able ]	2
+[rely ]	2
+[supply]	2
+[<UNK>]	1
+[normandy ]	13
+[<UNK>]	1
+[beginning ]	8
+[wealth ]	3
+[reckoned ]	2
+[monetary ]	3
+[terms]	4
+[implication ]	2
+[coins ]	4
+[circulated ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[around ]	6
+[<UNK>]	1
+[<UNK>]	1
+[norman ]	15
+[<UNK>]	1
+[<UNK>]	1
+[rapid ]	4
+[<UNK>]	1
+[here ]	12
+[may ]	22
+[have ]	57
+[connection ]	6
+[temporary ]	5
+[weakening ]	2
+[control ]	9
+[over ]	28
+[<UNK>]	1
+[<UNK>]	1
+[following ]	7
+[richard ]	3
+[ii]	14
+['s ]	231
+[death]	2
+[production ]	3
+[<UNK>]	1
+[useful ]	4
+[<UNK>]	1
+[aquitaine]	8
+[too]	4
+[likely]	2
+[silver ]	2
+[<UNK>]	1
+[those ]	64
+[charles ]	8
+[<UNK>]	1
+[until ]	10
+[serious ]	6
+[financial ]	8
+[crisis ]	4
+[<UNK>]	1
+[brought ]	15
+[william ]	42
+[ix]	3
+[crusading ]	11
+[<UNK>]	1
+[then ]	14
+[<UNK>]	1
+[<UNK>]	1
+[followed ]	2
+[<UNK>]	1
+[further ]	6
+[<UNK>]	1
+[which ]	109
+[<UNK>]	1
+[period ]	6
+[marked ]	7
+[economic ]	7
+[<UNK>]	1
+[toulouse ]	12
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[value ]	4
+[second ]	20
+[half ]	12
+[century ]	25
+[them ]	29
+[relevant ]	3
+[needs ]	4
+[<UNK>]	1
+[classes]	4
+[was]	12
+[<UNK>]	1
+[nothing ]	5
+[<UNK>]	1
+[about ]	15
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[mercantile ]	3
+[gain]	2
+[<UNK>]	1
+[assistance ]	4
+[growth ]	2
+[went ]	4
+[hand ]	7
+[administrative ]	10
+[reform ]	4
+[<UNK>]	1
+[channelling ]	2
+[profits ]	3
+[<UNK>]	1
+[into ]	43
+[<UNK>]	1
+[policy ]	5
+[<UNK>]	1
+[<UNK>]	1
+[regard ]	2
+[demesnes]	3
+[<UNK>]	1
+[rights ]	16
+[scattered ]	2
+[<UNK>]	1
+[<UNK>]	1
+[chiefly ]	2
+[<UNK>]	1
+[support]	5
+[whether ]	7
+[earth ]	2
+[heaven]	5
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[assets]	2
+[<UNK>]	1
+[business-like ]	2
+[<UNK>]	1
+[<UNK>]	1
+[church]	13
+[gained ]	3
+[so ]	51
+[older ]	3
+[<UNK>]	1
+[mind]	2
+[was  ]	2
+[prominent ]	3
+[propagating ]	2
+[newer ]	2
+[<UNK>]	1
+[monastic ]	11
+[reformers ]	2
+[<UNK>]	1
+[cluny ]	4
+[st ]	44
+[<UNK>]	1
+[renowned ]	3
+[<UNK>]	1
+[determination ]	4
+[ensure ]	2
+[what ]	21
+[once ]	8
+[houses ]	10
+[should ]	17
+[<UNK>]	1
+[<UNK>]	1
+[property]	2
+[inspired ]	4
+[<UNK>]	1
+[churchmen]	2
+[both ]	23
+[bishops ]	14
+[<UNK>]	1
+[appointed ]	2
+[officials ]	14
+[called ]	8
+[prévôts ]	5
+[task ]	8
+[<UNK>]	1
+[<UNK>]	1
+[dues ]	2
+[<UNK>]	1
+[<UNK>]	1
+[lost ]	2
+[eudes ]	8
+[blois ]	9
+[employed ]	5
+[prévôt ]	2
+[<UNK>]	1
+[see ]	11
+[p. ]	7
+[<UNK>]	1
+[these ]	29
+[<UNK>]	1
+[predecessors ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[viscounts]	2
+[rewarded]	2
+[<UNK>]	1
+[<UNK>]	1
+[profits]	2
+[<UNK>]	1
+[office ]	2
+[often ]	7
+[sold ]	2
+[highest ]	2
+[<UNK>]	1
+[would ]	35
+[<UNK>]	1
+[losses ]	3
+[assiduity ]	2
+[<UNK>]	1
+[later ]	21
+[became ]	17
+[<UNK>]	1
+[<UNK>]	1
+[always ]	8
+[<UNK>]	1
+[<UNK>]	1
+[sometimes ]	2
+[even ]	33
+[<UNK>]	1
+[<UNK>]	1
+[told ]	2
+[murder ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[house ]	12
+[<UNK>]	1
+[inhabitants ]	6
+[town]	8
+[despite ]	8
+[<UNK>]	1
+[man ]	7
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[might ]	41
+[<UNK>]	1
+[upper ]	2
+[peasantry ]	3
+[lower ]	5
+[<UNK>]	1
+[aristocracy]	4
+[introduction ]	2
+[new ]	55
+[estates ]	3
+[piecemeal ]	2
+[<UNK>]	1
+[only ]	31
+[where ]	35
+[any ]	19
+[case ]	16
+[solid ]	8
+[<UNK>]	1
+[complete ]	3
+[network ]	2
+[<UNK>]	1
+[created ]	8
+[before ]	19
+[end ]	17
+[elsewhere]	7
+[appearance ]	10
+[depended ]	3
+[favourable ]	5
+[<UNK>]	1
+[did ]	21
+[<UNK>]	1
+[all ]	61
+[<UNK>]	1
+[duties ]	5
+[varied ]	3
+[place ]	9
+[fulfilled ]	3
+[judicial ]	9
+[well ]	22
+[functions]	2
+[others ]	8
+[military ]	30
+[role]	2
+[<UNK>]	1
+[<UNK>]	1
+[reflected ]	2
+[promoted ]	3
+[<UNK>]	1
+[power ]	8
+[feature ]	5
+[scene]	2
+[<UNK>]	1
+[proved ]	9
+[difficult ]	3
+[except ]	3
+[appointing ]	2
+[<UNK>]	1
+[it]	23
+[<UNK>]	1
+[grants ]	4
+[church ]	11
+[<UNK>]	1
+[chances ]	4
+[<UNK>]	1
+[granted]	4
+[<UNK>]	1
+[middle ]	8
+[<UNK>]	1
+[consuetudines ]	7
+[ecclesiastical ]	16
+[dues]	2
+[revenues ]	5
+[secular ]	11
+[process ]	6
+[attrition]	2
+[moment ]	3
+[weakness ]	3
+[<UNK>]	1
+[great ]	27
+[<UNK>]	1
+[conqueror]	6
+[years ]	7
+[fulk ]	26
+[le ]	32
+[réchin ]	5
+[provided ]	19
+[perfect ]	2
+[opportunity ]	5
+[establish ]	4
+[hereditary ]	3
+[rights]	5
+[<UNK>]	1
+[own ]	40
+[benefit ]	5
+[<UNK>]	1
+[hitherto ]	7
+[very ]	13
+[endowments ]	2
+[<UNK>]	1
+[ninth ]	5
+[tenth ]	8
+[centuries ]	6
+[<UNK>]	1
+[without ]	14
+[<UNK>]	1
+[<UNK>]	1
+[carolingian ]	26
+[taxes ]	2
+[like ]	17
+[<UNK>]	1
+[<UNK>]	1
+[revived ]	8
+[<UNK>]	1
+[measure]	2
+[nevertheless]	3
+[must ]	13
+[<UNK>]	1
+[social ]	21
+[<UNK>]	1
+[<UNK>]	1
+[expansion ]	4
+[beyond ]	7
+[west ]	11
+[frankish ]	5
+[frontiers ]	3
+[pursued ]	5
+[burgundy]	8
+[brief ]	3
+[periods ]	2
+[anjou]	7
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[annexation ]	2
+[tougher ]	2
+[conquest ]	4
+[<UNK>]	1
+[restore ]	2
+[dominant ]	2
+[position ]	13
+[far ]	17
+[<UNK>]	1
+[men ]	31
+[within ]	33
+[principalities]	4
+[justice]	8
+[<UNK>]	1
+[raymond ]	14
+[iii ]	2
+[rouergue ]	3
+[<UNK>]	1
+[leaving ]	2
+[conques ]	2
+[abbey]	5
+[among ]	19
+[<UNK>]	1
+[estate ]	5
+[pallas ]	3
+[<UNK>]	1
+[monastery]	2
+[right ]	12
+[challenged ]	4
+[lady ]	4
+[garsinde]	3
+[wife ]	2
+[bernard ]	4
+[<UNK>]	1
+[declared ]	7
+[<UNK>]	1
+[her ]	13
+[first ]	21
+[<UNK>]	1
+[raymond]	2
+[whom ]	9
+[taken ]	6
+[force]	3
+[monks]	3
+[attempt ]	5
+[obtain ]	6
+[judgement ]	5
+[favour ]	5
+[<UNK>]	1
+[trial ]	3
+[arranged ]	2
+[itself]	3
+[abbot ]	13
+[travelled ]	2
+[knights ]	20
+[vassals]	5
+[put ]	6
+[chosen ]	3
+[<UNK>]	1
+[certain ]	3
+[bernard]	3
+[garsinde ]	3
+[<UNK>]	1
+[<UNK>]	1
+[accompanied ]	6
+[following]	2
+[each ]	14
+[<UNK>]	1
+[<UNK>]	1
+[cause ]	6
+[<UNK>]	1
+[<UNK>]	1
+[decided ]	3
+[though ]	35
+[receive ]	2
+[<UNK>]	1
+[<UNK>]	1
+[claims]	3
+[<UNK>]	1
+[drawn ]	6
+[up]	2
+[point]	2
+[one ]	45
+[noble ]	5
+[<UNK>]	1
+[<UNK>]	1
+[accept ]	2
+[verdict]	3
+[arose ]	3
+[demanded ]	2
+[decision ]	5
+[arbitration ]	5
+[battle]	5
+[<UNK>]	1
+[<UNK>]	1
+[terrified ]	2
+[monks ]	10
+[<UNK>]	1
+[find ]	2
+[way ]	12
+[blocked ]	3
+[same ]	13
+[young ]	9
+[lord ]	20
+[fifty ]	2
+[knights]	10
+[threatened ]	4
+[<UNK>]	1
+[foy ]	2
+[sent ]	3
+[<UNK>]	1
+[aggressive ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[armed ]	5
+[<UNK>]	1
+[away]	3
+[<UNK>]	1
+[divine ]	2
+[intervention ]	5
+[reached ]	4
+[<UNK>]	1
+[abandoned ]	3
+[case]	5
+[so]	7
+[least]	7
+[story ]	4
+[presented ]	4
+[angers ]	2
+[miracles ]	2
+[<UNK>]	1
+[however]	6
+[subsequent ]	3
+[narrative ]	2
+[that]	12
+[whatever ]	3
+[short-term ]	2
+[effects ]	2
+[<UNK>]	1
+[claims ]	7
+[again ]	8
+[husband]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[standing ]	4
+[<UNK>]	1
+[hard ]	3
+[<UNK>]	1
+[immediately ]	2
+[unacceptable ]	2
+[party ]	2
+[felt ]	2
+[itself ]	3
+[<UNK>]	1
+[judgement]	2
+[<UNK>]	1
+[offered ]	8
+[<UNK>]	1
+[blow]	2
+[contemporary ]	4
+[occurred ]	3
+[<UNK>]	1
+[<UNK>]	1
+[marmoutier ]	4
+[<UNK>]	1
+[geoffrey ]	39
+[martel]	3
+[court ]	16
+[bouchard ]	3
+[<UNK>]	1
+[back ]	9
+[mill ]	2
+[<UNK>]	1
+[bouchard]	2
+[<UNK>]	1
+[earlier ]	12
+[bestowed ]	4
+[<UNK>]	1
+[finally ]	2
+[<UNK>]	1
+[abbot]	2
+[complaint ]	3
+[true]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[allow ]	3
+[possession ]	2
+[rest ]	4
+[life]	6
+[strictly ]	2
+[legal ]	13
+[<UNK>]	1
+[wrongs ]	2
+[played ]	4
+[<UNK>]	1
+[role ]	7
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[strength ]	3
+[pp. ]	3
+[<UNK>]	1
+[if ]	36
+[chose ]	4
+[<UNK>]	1
+[aristocratic ]	13
+[disputes ]	7
+[he ]	106
+[forced ]	6
+[resort ]	5
+[matters ]	3
+[<UNK>]	1
+[powerful ]	6
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[against ]	31
+[supporters ]	2
+[essential ]	4
+[position]	4
+[<UNK>]	1
+[expressed ]	2
+[anger ]	2
+[knight ]	4
+[walter ]	3
+[killed ]	2
+[<UNK>]	1
+[accepted ]	2
+[two ]	17
+[<UNK>]	1
+[price ]	3
+[peace]	11
+[<UNK>]	1
+[mixture ]	4
+[<UNK>]	1
+[persuasion]	3
+[rather ]	23
+[bring ]	3
+[<UNK>]	1
+[<UNK>]	1
+[another ]	4
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[rare ]	3
+[<UNK>]	1
+[punishment ]	3
+[criminal ]	4
+[high ]	10
+[<UNK>]	1
+[delinquent ]	2
+[vassal ]	7
+[<UNK>]	1
+[himself ]	10
+[lord]	18
+[performed ]	3
+[act ]	4
+[<UNK>]	1
+[which]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[system ]	3
+[worked ]	2
+[<UNK>]	1
+[crimes ]	2
+[fully ]	4
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[justice ]	16
+[obtaining ]	2
+[<UNK>]	1
+[men]	10
+[known ]	5
+[<UNK>]	1
+[related ]	2
+[marriage]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[personal ]	10
+[authority]	9
+[<UNK>]	1
+[<UNK>]	1
+[hugh ]	9
+[achieved ]	5
+[reputation ]	2
+[attracted ]	4
+[many ]	14
+[court]	14
+[ties]	2
+[growing ]	9
+[expectation ]	2
+[ought ]	4
+[resolve ]	3
+[consequence]	6
+[feeble ]	3
+[met ]	5
+[requests ]	2
+[<UNK>]	1
+[difficulty ]	4
+[path ]	5
+[<UNK>]	1
+[courts ]	13
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[convenient ]	2
+[<UNK>]	1
+[summoned ]	6
+[<UNK>]	1
+[<UNK>]	1
+[vendôme ]	3
+[<UNK>]	1
+[ix ]	4
+[trying ]	2
+[answer ]	2
+[<UNK>]	1
+[every ]	4
+[<UNK>]	1
+[place]	3
+[found ]	12
+[moved ]	4
+[on]	5
+[simple ]	6
+[truth]	2
+[may]	2
+[<UNK>]	1
+[<UNK>]	1
+[use ]	14
+[delay ]	2
+[<UNK>]	1
+[reluctant ]	3
+[<UNK>]	1
+[jurisdiction ]	7
+[lack ]	2
+[<UNK>]	1
+[<UNK>]	1
+[parties ]	4
+[almost ]	10
+[automatically ]	3
+[exacerbated ]	2
+[<UNK>]	1
+[alternative ]	2
+[episcopal ]	6
+[<UNK>]	1
+[of  ]	3
+[god]	7
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[judges]	2
+[yet ]	27
+[chance ]	2
+[problems ]	6
+[<UNK>]	1
+[operated ]	3
+[<UNK>]	1
+[principles]	2
+[<UNK>]	1
+[arbitrary ]	4
+[capable ]	2
+[producing ]	3
+[<UNK>]	1
+[already ]	4
+[escaped ]	4
+[grasp ]	2
+[<UNK>]	1
+[passed ]	2
+[<UNK>]	1
+[<UNK>]	1
+[local ]	14
+[castellans]	5
+[<UNK>]	1
+[<UNK>]	1
+[imposed ]	3
+[penalties ]	3
+[peasants ]	4
+[<UNK>]	1
+[<UNK>]	1
+[derived ]	5
+[solely ]	3
+[<UNK>]	1
+[whose ]	18
+[held ]	14
+[sufficient ]	2
+[<UNK>]	1
+[<UNK>]	1
+[number ]	6
+[<UNK>]	1
+[apparently ]	2
+[low ]	3
+[spasmodic ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[martel ]	6
+[gilles ]	4
+[success ]	3
+[asserting ]	4
+[superiority ]	5
+[south]	5
+[remembered]	2
+[tradition ]	5
+[<UNK>]	1
+[murder]	2
+[rape]	2
+[arson]	2
+[justiciable ]	2
+[higher ]	9
+[<UNK>]	1
+[et ]	2
+[<UNK>]	1
+[survival ]	3
+[represent ]	2
+[practice ]	7
+[count]	17
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[fair ]	3
+[times ]	3
+[precedents ]	2
+[<UNK>]	1
+[philip ]	22
+[1 ]	2
+[son ]	12
+[louis ]	81
+[vi ]	19
+[policing ]	2
+[royal ]	82
+[less ]	17
+[<UNK>]	1
+[significantly]	2
+[confirming ]	3
+[<UNK>]	1
+[advocates ]	2
+[communities ]	6
+[<UNK>]	1
+[evolution ]	5
+[customary ]	7
+[law ]	9
+[across ]	11
+[whole ]	15
+[francia]	7
+[simply ]	9
+[<UNK>]	1
+[claimed ]	8
+[<UNK>]	1
+[<UNK>]	1
+[customs]	3
+[conqueror ]	6
+[towards ]	7
+[securing ]	2
+[uniformity ]	3
+[<UNK>]	1
+[duchy]	5
+[<UNK>]	1
+[<UNK>]	1
+[active ]	3
+[<UNK>]	1
+[iii]	2
+[resources]	2
+[exact ]	3
+[date ]	3
+[charter]	4
+[gave ]	3
+[full ]	5
+[<UNK>]	1
+[service ]	12
+[owed ]	9
+[area ]	9
+[vendôme]	2
+[still ]	11
+[<UNK>]	1
+[<UNK>]	1
+[document ]	3
+[<UNK>]	1
+[charter ]	8
+[provides ]	4
+[<UNK>]	1
+[<UNK>]	1
+[castle-guard ]	4
+[april]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[paid ]	5
+[months ]	3
+[directly ]	6
+[treasury]	2
+[town ]	10
+[produced ]	19
+[tax ]	2
+[<UNK>]	1
+[year ]	2
+[<UNK>]	1
+[<UNK>]	1
+[time]	5
+[<UNK>]	1
+[return ]	11
+[fiefs ]	9
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[three ]	7
+[<UNK>]	1
+[move ]	5
+[them]	18
+[<UNK>]	1
+[heavy]	2
+[obligation]	2
+[mercenary ]	2
+[forces ]	4
+[<UNK>]	1
+[pay ]	4
+[<UNK>]	1
+[duty]	3
+[characteristic ]	4
+[<UNK>]	1
+[castle-guard]	2
+[goes ]	3
+[<UNK>]	1
+[<UNK>]	1
+[area]	3
+[<UNK>]	1
+[ost ]	2
+[chevauchée ]	3
+[long ]	17
+[short ]	6
+[<UNK>]	1
+[<UNK>]	1
+[direct ]	6
+[mounted ]	3
+[warrior ]	2
+[fief]	6
+[unusually ]	3
+[specific ]	3
+[this]	6
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[under ]	17
+[angevin ]	15
+[control]	5
+[<UNK>]	1
+[view ]	10
+[limited ]	3
+[<UNK>]	1
+[does ]	3
+[mention ]	2
+[<UNK>]	1
+[above ]	6
+[<UNK>]	1
+[usefulness ]	2
+[<UNK>]	1
+[<UNK>]	1
+[sense ]	10
+[term ]	3
+[<UNK>]	1
+[campaigning ]	2
+[pushing ]	3
+[argument ]	3
+[too ]	7
+[deny ]	2
+[significance ]	3
+[field]	2
+[<UNK>]	1
+[v]	6
+[de ]	17
+[lusignan ]	2
+[entitled ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[recorded ]	4
+[castellan ]	11
+[amboise]	7
+[army ]	5
+[<UNK>]	1
+[200 ]	2
+[<UNK>]	1
+[<UNK>]	1
+[figures ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[large]	2
+[emergency]	2
+[how ]	7
+[<UNK>]	1
+[members ]	7
+[lisiard ]	2
+[household ]	14
+[<UNK>]	1
+[<UNK>]	1
+[expect ]	2
+[prince]	16
+[will ]	5
+[lived ]	3
+[<UNK>]	1
+[gates]	2
+[closest ]	2
+[<UNK>]	1
+[who]	3
+[several ]	4
+[years]	2
+[service]	10
+[<UNK>]	1
+[rewarded ]	2
+[<UNK>]	1
+[<UNK>]	1
+[enjoyed ]	9
+[came ]	7
+[described ]	2
+[<UNK>]	1
+[regular ]	9
+[<UNK>]	1
+[source ]	6
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[regarded ]	7
+[exclusively ]	2
+[late ]	9
+[<UNK>]	1
+[roots ]	4
+[are ]	13
+[thought ]	4
+[old]	2
+[received ]	7
+[<UNK>]	1
+[help ]	2
+[battle ]	5
+[thibaud ]	6
+[blois]	4
+[foot-soldiers ]	3
+[suggests ]	5
+[either ]	6
+[<UNK>]	1
+[presence ]	3
+[<UNK>]	1
+[<UNK>]	1
+[obligation ]	8
+[ban ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[concerned ]	3
+[battles]	2
+[expeditions]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[locality]	2
+[pattern ]	2
+[future]	3
+[sizeable ]	2
+[level]	2
+[<UNK>]	1
+[dependent ]	3
+[ability ]	2
+[<UNK>]	1
+[support ]	7
+[supplicius ]	5
+[refusal ]	2
+[assist ]	3
+[fulk]	3
+[<UNK>]	1
+[homage]	6
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[1051]	2
+[campaign ]	3
+[planned ]	2
+[aggression ]	3
+[outside ]	7
+[<UNK>]	1
+[grounds ]	2
+[assisting ]	3
+[<UNK>]	1
+[<UNK>]	1
+[territorial ]	3
+[expedition ]	2
+[combined ]	5
+[prospect ]	3
+[gain ]	6
+[notable ]	7
+[adventure]	3
+[such ]	10
+[<UNK>]	1
+[<UNK>]	1
+[england]	8
+[widespread ]	4
+[prince ]	14
+[surrounded ]	5
+[<UNK>]	1
+[present ]	6
+[<UNK>]	1
+[numbers ]	5
+[reason ]	3
+[being ]	7
+[do ]	10
+[ties ]	2
+[fidelity]	5
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[occasions ]	2
+[<UNK>]	1
+[<UNK>]	1
+[troops ]	5
+[fought ]	6
+[little ]	13
+[discussed ]	2
+[sources]	2
+[henry ]	41
+[<UNK>]	1
+[treaty ]	3
+[1101 ]	2
+[<UNK>]	1
+[we ]	2
+[know ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[year]	4
+[shows ]	4
+[money ]	3
+[decisive ]	5
+[element ]	2
+[warfare]	3
+[glimpse ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[encouraged ]	2
+[<UNK>]	1
+[<UNK>]	1
+[corner ]	2
+[<UNK>]	1
+[totally ]	2
+[changed ]	3
+[character ]	11
+[<UNK>]	1
+[i ]	13
+[hiring ]	2
+[probably ]	6
+[<UNK>]	1
+[has ]	13
+[conjectured ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[fighting ]	3
+[pay]	2
+[population]	2
+[towns ]	16
+[<UNK>]	1
+[conflicts ]	3
+[throughout ]	6
+[collect ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[consequence ]	5
+[<UNK>]	1
+[burden ]	2
+[<UNK>]	1
+[mere ]	6
+[<UNK>]	1
+[<UNK>]	1
+[fast ]	2
+[western ]	4
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[b]	2
+[<UNK>]	1
+[eleventh-century ]	11
+[diplomatic ]	2
+[vocabulary ]	2
+[north ]	3
+[occasional ]	2
+[<UNK>]	1
+[<UNK>]	1
+[school ]	4
+[historians]	4
+[organization ]	3
+[the  ]	8
+[thirteenth ]	4
+[centuries]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[believe ]	2
+[vassalage ]	3
+[<UNK>]	1
+[society ]	4
+[<UNK>]	1
+[although ]	8
+[word ]	4
+[imply ]	2
+[importance ]	9
+[<UNK>]	1
+[institution]	2
+[reflect ]	2
+[intellectual ]	3
+[change]	5
+[<UNK>]	1
+[awareness ]	3
+[need ]	3
+[greater ]	10
+[<UNK>]	1
+[realm ]	2
+[<UNK>]	1
+[written ]	17
+[fulbert ]	3
+[<UNK>]	1
+[<UNK>]	1
+[terms ]	6
+[<UNK>]	1
+[easily ]	4
+[<UNK>]	1
+[warriors ]	2
+[<UNK>]	1
+[fulbert]	2
+[application ]	4
+[ideas ]	2
+[ancient ]	10
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[entirely ]	3
+[vivid ]	2
+[<UNK>]	1
+[churchmen ]	4
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[used ]	8
+[words ]	6
+[fidelis ]	4
+[vassus ]	2
+[<UNK>]	1
+[sworn ]	5
+[fidelity ]	2
+[signs ]	2
+[contemporaries ]	2
+[saw ]	9
+[relationship ]	6
+[indeed]	3
+[william]	4
+[concern ]	2
+[matter ]	5
+[<UNK>]	1
+[iv ]	7
+[lusignan]	2
+[<UNK>]	1
+[embittered ]	2
+[<UNK>]	1
+[keep ]	6
+[word]	3
+[renounced ]	2
+[oath ]	2
+['s  ]	2
+[<UNK>]	1
+[safety ]	4
+[poitiers ]	3
+[<UNK>]	1
+[implied ]	6
+[<UNK>]	1
+[obliged ]	4
+[promote ]	3
+[interests ]	6
+[<UNK>]	1
+[bound ]	6
+[injure ]	2
+[him]	12
+[logic ]	2
+[distinction]	3
+[defined ]	4
+[fulfilling ]	2
+[close ]	3
+[make ]	11
+[<UNK>]	1
+[while ]	14
+[days]	2
+[journey ]	4
+[making ]	5
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[matter]	2
+[differences ]	2
+[perception ]	3
+[partly ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[lordship ]	8
+[<UNK>]	1
+[<UNK>]	1
+[vassals ]	4
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[lent ]	3
+[<UNK>]	1
+[aid ]	2
+[<UNK>]	1
+[<UNK>]	1
+[charters]	7
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[family]	15
+[entered ]	3
+[cluny]	3
+[<UNK>]	1
+[monk]	2
+[life ]	6
+[up ]	17
+[relationship]	3
+[fief ]	5
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[heavily ]	2
+[<UNK>]	1
+[clearly ]	7
+[defined]	2
+[<UNK>]	1
+[masters]	2
+[can ]	11
+[<UNK>]	1
+[involved ]	2
+[were]	5
+[then]	4
+[<UNK>]	1
+[knightly ]	4
+[occasion]	4
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[emphasize ]	4
+[dependence ]	3
+[<UNK>]	1
+[<UNK>]	1
+[homage ]	10
+[anjou ]	13
+[recognized ]	9
+[<UNK>]	1
+[<UNK>]	1
+[no ]	31
+[bond ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[castellany ]	2
+[<UNK>]	1
+[taking ]	5
+[<UNK>]	1
+[scarcely ]	2
+[forget ]	3
+[<UNK>]	1
+[nature ]	4
+[tenure]	2
+[<UNK>]	1
+[however ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[produce ]	3
+[normal ]	2
+[francia ]	2
+[whole]	2
+[<UNK>]	1
+[<UNK>]	1
+[independent ]	5
+[<UNK>]	1
+[<UNK>]	1
+[remained ]	6
+[<UNK>]	1
+[nevertheless ]	8
+[claim ]	10
+[fortifications ]	3
+[best ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[absent ]	4
+[<UNK>]	1
+[concession ]	3
+[<UNK>]	1
+[rebellion ]	4
+[inheritance]	4
+[<UNK>]	1
+[<UNK>]	1
+[réchin]	8
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[down ]	4
+[castle ]	4
+[<UNK>]	1
+[blinded ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[convert ]	2
+[symbol ]	3
+[<UNK>]	1
+[<UNK>]	1
+[perform ]	2
+[<UNK>]	1
+[purely ]	2
+[<UNK>]	1
+[duty ]	4
+[<UNK>]	1
+[powers ]	7
+[privileges ]	7
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[ironically]	2
+[factor ]	3
+[<UNK>]	1
+[precision ]	2
+[<UNK>]	1
+[demands ]	4
+[ile ]	2
+[france ]	11
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[term]	6
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[conferred ]	5
+[independence ]	4
+[<UNK>]	1
+[<UNK>]	1
+[weapon]	2
+[amboise ]	3
+[<UNK>]	1
+[<UNK>]	1
+[montpellier ]	2
+[exploited ]	6
+[<UNK>]	1
+[<UNK>]	1
+[bishop ]	13
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[bribed ]	2
+[mouvance ]	3
+[extending ]	3
+[return]	3
+[required ]	6
+[recognize ]	3
+[since ]	12
+[better ]	3
+[man]	3
+[mount ]	2
+[scale ]	4
+[rank ]	2
+[<UNK>]	1
+[la ]	5
+[<UNK>]	1
+[<UNK>]	1
+[acceptance ]	3
+[duke]	2
+[person ]	6
+[property ]	2
+[breach ]	4
+[<UNK>]	1
+[more]	2
+[assisted ]	2
+[campaigns]	2
+[pleasure ]	2
+[<UNK>]	1
+[similar ]	6
+[obtained ]	7
+[family ]	12
+[<UNK>]	1
+[capetians ]	3
+[<UNK>]	1
+[families ]	4
+[france]	15
+[mâcon]	3
+[chalon]	2
+[<UNK>]	1
+[apex ]	3
+[pyramid ]	2
+[king ]	39
+[took ]	7
+[excluding ]	2
+[south ]	5
+[brittany]	3
+[<UNK>]	1
+[<UNK>]	1
+[pious ]	6
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[take ]	7
+[<UNK>]	1
+[order ]	6
+[<UNK>]	1
+[committing ]	2
+[<UNK>]	1
+[<UNK>]	1
+[showed ]	3
+[confidence ]	4
+[intention ]	4
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[rollo ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[successors]	2
+[rendered ]	2
+[services ]	4
+[<UNK>]	1
+[elevated ]	2
+[robert]	3
+[<UNK>]	1
+[<UNK>]	1
+[you ]	3
+[<UNK>]	1
+[come ]	4
+[your ]	4
+[<UNK>]	1
+[me ]	2
+[<UNK>]	1
+[my ]	3
+[<UNK>]	1
+[eudes]	3
+[eyes]	3
+[champagne ]	9
+[<UNK>]	1
+[subject ]	8
+[king]	18
+[grant ]	5
+[grant]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[guy ]	3
+[geoffrey]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[status ]	4
+[<UNK>]	1
+[i. ]	2
+[<UNK>]	1
+[lawyers ]	4
+[fundamental ]	3
+[monarchy]	2
+[<UNK>]	1
+[interestingly]	2
+[<UNK>]	1
+[independence]	5
+[absence ]	5
+[sought ]	7
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[prepared ]	7
+[<UNK>]	1
+[brother ]	3
+[ceremony ]	4
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[heaven ]	2
+[<UNK>]	1
+[<UNK>]	1
+[title ]	2
+[infringing ]	2
+[earthly ]	6
+[patron ]	4
+[saint ]	3
+[become ]	5
+[absorbed ]	2
+[world]	5
+[example ]	9
+[different ]	9
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[c]	2
+[families]	4
+[<UNK>]	1
+[<UNK>]	1
+[rome]	2
+[fell ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[daughter]	2
+[<UNK>]	1
+[force ]	6
+[play ]	2
+[creation ]	3
+[marriage ]	14
+[alliances ]	2
+[<UNK>]	1
+[approach ]	2
+[grew ]	10
+[<UNK>]	1
+[<UNK>]	1
+[ottonian ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[neither ]	2
+[capetian ]	9
+[nor ]	3
+[salian ]	2
+[<UNK>]	1
+[<UNK>]	1
+[predecessors]	2
+[result ]	2
+[<UNK>]	1
+[patrilineal ]	2
+[descent ]	2
+[<UNK>]	1
+[<UNK>]	1
+[she ]	2
+[done ]	3
+[grandfather]	2
+[pious]	3
+[daughter ]	2
+[nevers ]	4
+[<UNK>]	1
+[strengthened ]	3
+[hold ]	2
+[upon ]	2
+[<UNK>]	1
+[generations ]	2
+[<UNK>]	1
+[behind ]	11
+[change ]	5
+[concentration ]	2
+[possession]	2
+[symbolic ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[wives]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[dowries ]	2
+[prove ]	3
+[<UNK>]	1
+[heiress ]	2
+[rennes ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[otherwise ]	2
+[weak ]	4
+[<UNK>]	1
+[died ]	2
+[dowry ]	2
+[war ]	7
+[broke ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[wife]	2
+[<UNK>]	1
+[sister]	4
+[<UNK>]	1
+[death ]	14
+[<UNK>]	1
+[<UNK>]	1
+[auvergne]	3
+[forgotten]	2
+[<UNK>]	1
+[gains]	2
+[create ]	4
+[territory ]	3
+[good ]	15
+[<UNK>]	1
+[failed ]	4
+[succession ]	8
+[father ]	5
+[generation ]	4
+[succeeded ]	3
+[<UNK>]	1
+[gascony]	3
+[<UNK>]	1
+[<UNK>]	1
+[father]	6
+[<UNK>]	1
+[kingdom ]	4
+[seen ]	9
+[preparatory ]	2
+[step ]	7
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[advantage ]	4
+[<UNK>]	1
+[<UNK>]	1
+[pressure ]	6
+[<UNK>]	1
+[<UNK>]	1
+[six ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[usually ]	5
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[prosperity ]	3
+[settled ]	3
+[conditions ]	2
+[<UNK>]	1
+[common ]	8
+[unusual ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[stated ]	3
+[principle ]	2
+[<UNK>]	1
+[observed ]	2
+[<UNK>]	1
+[accepting ]	2
+[<UNK>]	1
+[succeed]	2
+[age ]	2
+[<UNK>]	1
+[<UNK>]	1
+[rule]	3
+[<UNK>]	1
+[frisian]	3
+[facts ]	4
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[younger ]	4
+[sons ]	7
+[rufus ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[contemporaries]	3
+[besides]	5
+[<UNK>]	1
+[<UNK>]	1
+[various ]	2
+[<UNK>]	1
+[occasion ]	4
+[<UNK>]	1
+[opposition ]	4
+[accession ]	4
+[<UNK>]	1
+[<UNK>]	1
+[crisis]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[dispute ]	6
+[<UNK>]	1
+[primogeniture ]	3
+[<UNK>]	1
+[<UNK>]	1
+[heirs ]	2
+[<UNK>]	1
+[<UNK>]	1
+[fathers ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[offer ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[heir]	3
+[<UNK>]	1
+[proved]	2
+[<UNK>]	1
+[surprising ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[dared ]	4
+[<UNK>]	1
+[england ]	6
+[<UNK>]	1
+[blood ]	2
+[<UNK>]	1
+[mother ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[strove ]	3
+[nobility ]	2
+[<UNK>]	1
+[emperor ]	6
+[<UNK>]	1
+[through ]	10
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[connections ]	3
+[<UNK>]	1
+[<UNK>]	1
+[mind ]	2
+[<UNK>]	1
+[history ]	9
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[open ]	4
+[<UNK>]	1
+[harmony ]	2
+[evaded ]	2
+[achievements ]	3
+[outstanding ]	5
+[indeed ]	4
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[d]	2
+[courts]	4
+[aristocracy ]	6
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[entourage ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[hundred ]	3
+[visit ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[provide ]	5
+[food ]	2
+[<UNK>]	1
+[<UNK>]	1
+[horses ]	2
+[<UNK>]	1
+[few ]	6
+[places ]	7
+[afford ]	3
+[<UNK>]	1
+[<UNK>]	1
+[end]	3
+[<UNK>]	1
+[room ]	2
+[ceremonial]	3
+[<UNK>]	1
+[caught ]	3
+[hearing ]	2
+[<UNK>]	1
+[sitting ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[below]	2
+[carrying ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[franks ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[confirmed ]	6
+[<UNK>]	1
+[<UNK>]	1
+[house]	5
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[warriors]	3
+[primitive ]	3
+[<UNK>]	1
+[castles ]	5
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[if]	2
+[<UNK>]	1
+[or]	3
+[<UNK>]	1
+[pilgrims ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[self-interest]	2
+[companionship ]	3
+[rarely ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[petty ]	2
+[<UNK>]	1
+[city ]	6
+[god ]	2
+[iv]	4
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[festivals ]	2
+[<UNK>]	1
+[rich ]	2
+[<UNK>]	1
+[fine ]	2
+[dress]	2
+[celebrated ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[cathedral ]	2
+[centres ]	5
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[omer]	2
+[<UNK>]	1
+[counts]	3
+[<UNK>]	1
+[nobles ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[christian ]	3
+[worship ]	2
+[<UNK>]	1
+[warm ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[special ]	3
+[prayers ]	2
+[genealogies ]	4
+[<UNK>]	1
+[aubin]	2
+[suggest ]	3
+[occasionally ]	4
+[call ]	2
+[laudes ]	2
+[<UNK>]	1
+[litany ]	2
+[addressed ]	3
+[<UNK>]	1
+[<UNK>]	1
+[christ ]	2
+[<UNK>]	1
+[eternal ]	2
+[earth]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[pope]	3
+[<UNK>]	1
+[magnates ]	2
+[<UNK>]	1
+[<UNK>]	1
+[memory ]	3
+[true ]	6
+[christ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[ranks ]	5
+[<UNK>]	1
+[presumed ]	2
+[<UNK>]	1
+[allowing ]	2
+[name ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[saints ]	2
+[guarantee ]	3
+[perpetual ]	2
+[<UNK>]	1
+[soon ]	4
+[legitimated ]	2
+[<UNK>]	1
+[followers ]	2
+[possible ]	8
+[propaganda ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[ones]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[abbots ]	2
+[press ]	2
+[protection]	5
+[charters ]	18
+[plentiful ]	2
+[<UNK>]	1
+[available ]	3
+[draw ]	3
+[<UNK>]	1
+[witnesses]	3
+[friends ]	3
+[allies ]	2
+[discuss ]	2
+[future ]	6
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[disputes]	2
+[heightened ]	2
+[activity]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[ways]	2
+[wore ]	2
+[returning ]	3
+[countryside ]	2
+[standard ]	4
+[living ]	3
+[<UNK>]	1
+[exploit ]	4
+[<UNK>]	1
+[revival ]	4
+[facilitated ]	3
+[<UNK>]	1
+[<UNK>]	1
+[inevitably]	2
+[<UNK>]	1
+[lavish ]	2
+[<UNK>]	1
+[monasteries ]	3
+[visited]	2
+[thierry ]	5
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[filled ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[turn ]	4
+[benedictine ]	2
+[environment ]	2
+[reception ]	2
+[<UNK>]	1
+[<UNK>]	1
+[placed ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[expectations]	2
+[<UNK>]	1
+[bruges]	5
+[<UNK>]	1
+[chartres]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[attracting ]	2
+[<UNK>]	1
+[sound ]	2
+[investment]	2
+[<UNK>]	1
+[trusted ]	2
+[servants]	3
+[relied ]	2
+[households ]	6
+[retained ]	2
+[core ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[duchy ]	6
+[subordination]	2
+[ready ]	2
+[jerusalem ]	7
+[<UNK>]	1
+[<UNK>]	1
+[byzantium]	2
+[<UNK>]	1
+[<UNK>]	1
+[martial ]	3
+[bearing ]	2
+[<UNK>]	1
+[<UNK>]	1
+[free ]	6
+[birth ]	4
+[<UNK>]	1
+[<UNK>]	1
+[german ]	2
+[<UNK>]	1
+[relatives ]	2
+[neighbouring ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[effective ]	3
+[<UNK>]	1
+[ceased ]	2
+[exclusive ]	2
+[distinguishing ]	2
+[households]	3
+[countess ]	3
+[adela ]	2
+[issued ]	2
+[noted ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[chaplain ]	3
+[clerks]	6
+[<UNK>]	1
+[<UNK>]	1
+[minister ]	2
+[spiritual ]	3
+[letters]	3
+[stephen ]	3
+[<UNK>]	1
+[crusade]	5
+[<UNK>]	1
+[began ]	8
+[bishoprics ]	2
+[<UNK>]	1
+[<UNK>]	1
+[practice]	3
+[<UNK>]	1
+[learned ]	11
+[<UNK>]	1
+[<UNK>]	1
+[master]	2
+[chaplains ]	2
+[<UNK>]	1
+[<UNK>]	1
+[roles ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[done]	2
+[<UNK>]	1
+[<UNK>]	1
+[officers]	3
+[income ]	2
+[<UNK>]	1
+[charge ]	4
+[<UNK>]	1
+[<UNK>]	1
+[chamberlains ]	2
+[appeared ]	3
+[everywhere ]	6
+[<UNK>]	1
+[<UNK>]	1
+[satisfy ]	3
+[material ]	3
+[needs]	3
+[marshals ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[pointed ]	2
+[developments]	3
+[firstly]	2
+[<UNK>]	1
+[<UNK>]	1
+[ways ]	3
+[charlemagne ]	3
+[<UNK>]	1
+[stewards]	2
+[<UNK>]	1
+[<UNK>]	1
+[appointment ]	2
+[officers ]	2
+[<UNK>]	1
+[past ]	3
+[respect ]	2
+[<UNK>]	1
+[degree ]	9
+[<UNK>]	1
+[<UNK>]	1
+[champagne]	5
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[status]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[witnesses ]	2
+[decades ]	3
+[<UNK>]	1
+[along ]	6
+[<UNK>]	1
+[officials]	4
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[these]	3
+[<UNK>]	1
+[<UNK>]	1
+[behaviour ]	3
+[example]	6
+[<UNK>]	1
+[allies]	2
+[sake ]	2
+[education ]	3
+[<UNK>]	1
+[meet ]	2
+[<UNK>]	1
+[depend]	2
+[<UNK>]	1
+[english ]	11
+[public ]	10
+[schools ]	4
+[<UNK>]	1
+[set ]	15
+[<UNK>]	1
+[<UNK>]	1
+[combat]	2
+[riding ]	2
+[literacy]	2
+[acquire ]	3
+[learning ]	4
+[educated ]	3
+[<UNK>]	1
+[business]	3
+[education]	2
+[<UNK>]	1
+[<UNK>]	1
+[clerks ]	11
+[function ]	5
+[<UNK>]	1
+[deeds ]	7
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[poems]	2
+[surely ]	2
+[<UNK>]	1
+[<UNK>]	1
+[centre ]	2
+[<UNK>]	1
+[<UNK>]	1
+[distinguished ]	7
+[poet ]	2
+[all]	4
+[<UNK>]	1
+[flemish ]	10
+[<UNK>]	1
+[<UNK>]	1
+[chancellor ]	4
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[us]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[standards]	2
+[<UNK>]	1
+[<UNK>]	1
+[sources ]	5
+[<UNK>]	1
+[twelfth ]	21
+[writing ]	2
+[<UNK>]	1
+[<UNK>]	1
+[prerogative ]	2
+[spread ]	2
+[swelling ]	2
+[servants ]	5
+[ordinary ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[twelfth-century ]	17
+[<UNK>]	1
+[<UNK>]	1
+[book ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[literary ]	4
+[forms ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[cultural ]	2
+[writings ]	2
+[<UNK>]	1
+[themselves]	2
+[<UNK>]	1
+[<UNK>]	1
+[restored ]	2
+[classical ]	5
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[said ]	4
+[historian]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[aspects ]	2
+[<UNK>]	1
+[general ]	2
+[<UNK>]	1
+[revealing ]	3
+[<UNK>]	1
+[gesta ]	18
+[consulum ]	2
+[andegavorum ]	2
+[off ]	4
+[<UNK>]	1
+[ambaziensium ]	2
+[dominorum ]	2
+[touraine ]	4
+[<UNK>]	1
+[<UNK>]	1
+[reliable ]	2
+[<UNK>]	1
+[compiled ]	2
+[rulers ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[marmoutier]	4
+[version ]	4
+[series ]	2
+[<UNK>]	1
+[form ]	5
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[papal ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[especially ]	4
+[<UNK>]	1
+[model ]	6
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[framework ]	2
+[<UNK>]	1
+[<UNK>]	1
+[author ]	6
+[context ]	2
+[lengthy ]	5
+[<UNK>]	1
+[conventional ]	2
+[genealogy ]	7
+[kings ]	12
+[<UNK>]	1
+[origins ]	6
+[<UNK>]	1
+[historians ]	2
+[merovingian ]	3
+[times]	5
+[<UNK>]	1
+[<UNK>]	1
+[legendary ]	2
+[<UNK>]	1
+[<UNK>]	1
+[circles ]	3
+[<UNK>]	1
+[<UNK>]	1
+[link ]	2
+[<UNK>]	1
+[boulogne ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[ancestry ]	2
+[<UNK>]	1
+[legend ]	2
+[<UNK>]	1
+[attempts ]	2
+[<UNK>]	1
+[give ]	2
+[<UNK>]	1
+[<UNK>]	1
+[old ]	11
+[roman ]	11
+[<UNK>]	1
+[<UNK>]	1
+[continued ]	7
+[houses]	3
+[<UNK>]	1
+[sharp ]	3
+[contrast ]	4
+[<UNK>]	1
+[forester ]	2
+[reign ]	11
+[<UNK>]	1
+[<UNK>]	1
+[choice ]	2
+[humble ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[clear ]	4
+[knew ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[earlier]	2
+[<UNK>]	1
+[kinship ]	2
+[human ]	6
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[learning]	2
+[<UNK>]	1
+[line ]	2
+[choose ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[possible]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[associate ]	2
+[<UNK>]	1
+[<UNK>]	1
+[thirteenth-century ]	2
+[<UNK>]	1
+[one]	4
+[having ]	6
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[associations ]	3
+[hunting ]	2
+[appropriate ]	2
+[<UNK>]	1
+[author]	2
+[highlighted ]	3
+[individual ]	2
+[history]	4
+[modem ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[insist ]	2
+[<UNK>]	1
+[lines ]	2
+[<UNK>]	1
+[<UNK>]	1
+[considerations ]	3
+[<UNK>]	1
+[<UNK>]	1
+[quite ]	3
+[<UNK>]	1
+[clearest ]	3
+[comes ]	2
+[<UNK>]	1
+[treatment ]	2
+[grisegonelle]	3
+[<UNK>]	1
+[<UNK>]	1
+[account ]	4
+[preserved ]	4
+[tradition]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[chivalric ]	3
+[<UNK>]	1
+[mighty ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[victor ]	2
+[invading ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[drawing ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[song ]	2
+[<UNK>]	1
+[<UNK>]	1
+[charlemagne]	2
+[<UNK>]	1
+[figure ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[built ]	2
+[<UNK>]	1
+[<UNK>]	1
+[portrayed ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[defenders ]	2
+[stern ]	3
+[<UNK>]	1
+[aim ]	5
+[work ]	8
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[successors ]	2
+[<UNK>]	1
+[<UNK>]	1
+[earliest ]	3
+[finished ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[bel]	7
+[<UNK>]	1
+[<UNK>]	1
+[largely ]	5
+[study ]	5
+[<UNK>]	1
+[successor ]	5
+[breton ]	2
+[<UNK>]	1
+[influential ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[john ]	11
+[<UNK>]	1
+[dedicated ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[people ]	5
+[<UNK>]	1
+[traditional ]	4
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[focus ]	2
+[good]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[helped ]	2
+[sang ]	3
+[offices]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[responded ]	2
+[illiterate ]	3
+[crowned ]	2
+[<UNK>]	1
+[cliché ]	2
+[favoured ]	2
+[<UNK>]	1
+[sprang ]	2
+[<UNK>]	1
+[adding ]	2
+[<UNK>]	1
+[<UNK>]	1
+[till ]	3
+[<UNK>]	1
+[detailed ]	2
+[events]	2
+[<UNK>]	1
+[politics ]	2
+[<UNK>]	1
+[original ]	3
+[<UNK>]	1
+[style ]	3
+[maintained ]	3
+[<UNK>]	1
+[coronation ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[somewhat ]	2
+[<UNK>]	1
+[<UNK>]	1
+[ancestors ]	2
+[formidable ]	3
+[<UNK>]	1
+[<UNK>]	1
+[gerald ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[sword ]	2
+[<UNK>]	1
+[purposes ]	2
+[<UNK>]	1
+[piety ]	2
+[mould]	2
+[obligations ]	2
+[<UNK>]	1
+[<UNK>]	1
+[chief ]	10
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[1155]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[canon ]	6
+[florent]	2
+[wrote ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[overlords ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[dynasty ]	3
+[<UNK>]	1
+[crucial ]	3
+[domination ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[determined ]	3
+[maximize ]	2
+[piece ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[model]	3
+[together]	2
+[<UNK>]	1
+[<UNK>]	1
+[witness ]	2
+[originality ]	2
+[<UNK>]	1
+[loire ]	2
+[valley ]	2
+[<UNK>]	1
+[renaissance]	2
+[feoda ]	6
+[<UNK>]	1
+[<UNK>]	1
+[order]	4
+[<UNK>]	1
+[<UNK>]	1
+[innovative ]	4
+[<UNK>]	1
+[potential ]	7
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[information]	2
+[<UNK>]	1
+[names ]	3
+[<UNK>]	1
+[county]	8
+[liege ]	3
+[<UNK>]	1
+[procedure ]	2
+[establishing ]	2
+[<UNK>]	1
+[statements ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[eastern ]	2
+[<UNK>]	1
+[<UNK>]	1
+[results ]	2
+[list ]	4
+[treasury ]	2
+[<UNK>]	1
+[troyes]	3
+[<UNK>]	1
+[kept ]	3
+[up-to-date]	2
+[copy ]	2
+[outremer]	3
+[<UNK>]	1
+[<UNK>]	1
+[left ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[henry]	4
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[castellanies ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[doubt ]	4
+[rightful ]	2
+[therefore]	4
+[<UNK>]	1
+[fief-holders ]	2
+[appear]	3
+[<UNK>]	1
+[<UNK>]	1
+[inquest ]	7
+[<UNK>]	1
+[internal ]	3
+[<UNK>]	1
+[certainly ]	4
+[compelled ]	2
+[extent ]	2
+[perceived ]	2
+[truth ]	2
+[<UNK>]	1
+[<UNK>]	1
+[consolidating ]	2
+[<UNK>]	1
+[<UNK>]	1
+[war]	4
+[noticeably ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[superior ]	2
+[<UNK>]	1
+[<UNK>]	1
+[conflict]	3
+[<UNK>]	1
+[advanced ]	2
+[<UNK>]	1
+[<UNK>]	1
+[recently ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[contract ]	2
+[<UNK>]	1
+[<UNK>]	1
+[amount ]	2
+[<UNK>]	1
+[<UNK>]	1
+[cases ]	2
+[<UNK>]	1
+[<UNK>]	1
+[complicated ]	4
+[inhibiting ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[overcome ]	2
+[<UNK>]	1
+[capitalize ]	3
+[<UNK>]	1
+[makes ]	3
+[<UNK>]	1
+[seem ]	4
+[<UNK>]	1
+[<UNK>]	1
+[proceedings ]	4
+[<UNK>]	1
+[processes ]	3
+[<UNK>]	1
+[enough ]	3
+[method ]	3
+[assumption ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[integration ]	2
+[<UNK>]	1
+[<UNK>]	1
+[comment ]	2
+[proliferation ]	3
+[country]	2
+[increased ]	5
+[<UNK>]	1
+[<UNK>]	1
+[common]	2
+[notably ]	3
+[montpellier]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[judgements ]	3
+[<UNK>]	1
+[writing]	2
+[everywhere]	2
+[<UNK>]	1
+[small]	3
+[strongly ]	2
+[<UNK>]	1
+[reliance ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[interpretation ]	5
+[<UNK>]	1
+[<UNK>]	1
+[now]	2
+[<UNK>]	1
+[<UNK>]	1
+[wider ]	2
+[processes]	2
+[contract]	2
+[bel ]	7
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[reach ]	3
+[next ]	2
+[<UNK>]	1
+[committed ]	2
+[communities]	5
+[towns]	8
+[groups ]	3
+[peasants]	2
+[won ]	4
+[struggles ]	2
+[<UNK>]	1
+[<UNK>]	1
+[attested ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[gradually ]	2
+[inclined ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[principle]	2
+[record ]	2
+[given ]	5
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[judges ]	2
+[confined ]	4
+[<UNK>]	1
+[documents ]	3
+[<UNK>]	1
+[verdict ]	2
+[favour]	3
+[fear ]	3
+[<UNK>]	1
+[<UNK>]	1
+[naturally ]	4
+[<UNK>]	1
+[<UNK>]	1
+[never ]	5
+[documentary ]	2
+[<UNK>]	1
+[<UNK>]	1
+[easy ]	2
+[scriptoria ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[out]	2
+[answer]	2
+[<UNK>]	1
+[insistence ]	2
+[proper ]	4
+[confirmation ]	4
+[<UNK>]	1
+[empire ]	3
+[chancery]	3
+[<UNK>]	1
+[chanceries ]	3
+[<UNK>]	1
+[<UNK>]	1
+[welcomed ]	3
+[population ]	3
+[formulae ]	2
+[<UNK>]	1
+[<UNK>]	1
+[demand ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[chancery ]	6
+[<UNK>]	1
+[<UNK>]	1
+[streamlined ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[succinctly ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[anglo-norman ]	2
+[<UNK>]	1
+[writs ]	2
+[<UNK>]	1
+[king-duke]	3
+[<UNK>]	1
+[central ]	3
+[<UNK>]	1
+[innovation]	2
+[throne ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[dispositive ]	2
+[<UNK>]	1
+[random ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[writs]	2
+[letters ]	2
+[everyday ]	4
+[affairs]	2
+[<UNK>]	1
+[intended ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[eyes ]	2
+[<UNK>]	1
+[<UNK>]	1
+[situation]	3
+[<UNK>]	1
+[<UNK>]	1
+[definition]	2
+[government ]	7
+[world ]	4
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[highly ]	3
+[<UNK>]	1
+[<UNK>]	1
+[formative ]	3
+[<UNK>]	1
+[power]	3
+[<UNK>]	1
+[<UNK>]	1
+[= ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[reminded ]	2
+[decade ]	2
+[reign]	7
+[adviser ]	3
+[suger]	12
+[denis ]	7
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[devotion ]	2
+[monarchy ]	2
+[suger ]	16
+[louis]	10
+[bishop]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[franks]	3
+[<UNK>]	1
+[confident ]	2
+[<UNK>]	1
+[inaugurated ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[head ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[missing ]	2
+[counterpart]	3
+[commitment ]	2
+[abstract ]	7
+[notion ]	4
+[<UNK>]	1
+[imperial ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[hierarchy]	3
+[for]	2
+[pseudo-dionysius]	2
+[ordering ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[concepts ]	3
+[<UNK>]	1
+[<UNK>]	1
+[proclaimed ]	2
+[<UNK>]	1
+[vii]	17
+[x ]	4
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[auvergne ]	4
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[counties ]	2
+[<UNK>]	1
+[reasserting ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[practical ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[augustus ]	2
+[<UNK>]	1
+[bonds ]	3
+[realm]	7
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[solution ]	3
+[problem ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[denis]	5
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[ground ]	3
+[kings]	6
+[exception ]	2
+[<UNK>]	1
+[<UNK>]	1
+[devoted ]	3
+[rebuilding ]	2
+[abbey ]	10
+[hailed ]	2
+[<UNK>]	1
+[<UNK>]	1
+[architecture]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[hierarchies ]	2
+[theory ]	3
+[integrating ]	2
+[<UNK>]	1
+[influence]	2
+[<UNK>]	1
+[surprisingly]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[vexin ]	2
+[<UNK>]	1
+[natural ]	3
+[<UNK>]	1
+[<UNK>]	1
+[formed ]	4
+[<UNK>]	1
+[<UNK>]	1
+[state ]	2
+[<UNK>]	1
+[<UNK>]	1
+[crown ]	12
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[1124]	4
+[<UNK>]	1
+[invasion]	2
+[bore ]	3
+[troops]	2
+[later]	2
+[<UNK>]	1
+[<UNK>]	1
+[essentially ]	2
+[kingship ]	4
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[our ]	4
+[vi]	9
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[1152]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[doctrine ]	2
+[<UNK>]	1
+[movement ]	5
+[new]	2
+[<UNK>]	1
+[temporal ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[frederick ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[inherent ]	2
+[fewer ]	2
+[<UNK>]	1
+[far]	2
+[vision ]	2
+[<UNK>]	1
+[<UNK>]	1
+[below ]	3
+[martyrs ]	2
+[rung ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[reformers]	2
+[happy ]	3
+[<UNK>]	1
+[imitated ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[established ]	7
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[image ]	4
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[dynasty]	2
+[holy ]	3
+[<UNK>]	1
+[kingdom]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[rivals]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[guibert ]	2
+[<UNK>]	1
+[disapproved ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[kingship]	2
+[<UNK>]	1
+[<UNK>]	1
+[vigour ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[philip]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[expanded ]	3
+[including ]	2
+[<UNK>]	1
+[eleanor]	2
+[<UNK>]	1
+[meant ]	2
+[<UNK>]	1
+[<UNK>]	1
+[resulted ]	3
+[berry ]	2
+[<UNK>]	1
+[<UNK>]	1
+[records ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[energy ]	2
+[<UNK>]	1
+[<UNK>]	1
+[son]	3
+[dramatic ]	2
+[extension ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[hospitality]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[mark ]	3
+[as  ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[equally ]	4
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[province]	3
+[1173]	2
+[<UNK>]	1
+[bringing ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[expeditions ]	3
+[<UNK>]	1
+[1171 ]	2
+[undertaken ]	2
+[protect ]	3
+[suppress ]	3
+[<UNK>]	1
+[<UNK>]	1
+[resistance ]	2
+[<UNK>]	1
+[<UNK>]	1
+[considerable ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[nevers]	6
+[<UNK>]	1
+[<UNK>]	1
+[burgundian ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[acquired ]	5
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[influence ]	3
+[<UNK>]	1
+[<UNK>]	1
+[tactics ]	2
+[<UNK>]	1
+[modest ]	3
+[pursuits ]	2
+[remarkable ]	2
+[augustus]	4
+[<UNK>]	1
+[<UNK>]	1
+[expand ]	2
+[<UNK>]	1
+[fideles ]	3
+[objective ]	3
+[<UNK>]	1
+[<UNK>]	1
+[crown]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[suggested ]	3
+[<UNK>]	1
+[<UNK>]	1
+[persons ]	2
+[achievement ]	3
+[<UNK>]	1
+[<UNK>]	1
+[clermont]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[massif ]	2
+[opened ]	2
+[<UNK>]	1
+[<UNK>]	1
+[patronage ]	2
+[<UNK>]	1
+[<UNK>]	1
+[succession]	2
+[1180]	4
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[vii ]	12
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[allowed ]	8
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[gothia]	3
+[provence ]	2
+[<UNK>]	1
+[extended ]	2
+[<UNK>]	1
+[<UNK>]	1
+[assemblies ]	4
+[<UNK>]	1
+[because]	2
+[<UNK>]	1
+[face ]	3
+[corporate ]	2
+[body ]	3
+[<UNK>]	1
+[<UNK>]	1
+[assembly ]	2
+[orléans ]	2
+[<UNK>]	1
+[<UNK>]	1
+[1155 ]	3
+[<UNK>]	1
+[<UNK>]	1
+[addition ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[accordance ]	3
+[<UNK>]	1
+[lateran ]	4
+[council ]	2
+[<UNK>]	1
+[violation ]	2
+[<UNK>]	1
+[<UNK>]	1
+[necessarily ]	2
+[<UNK>]	1
+[<UNK>]	1
+[action ]	2
+[lacked ]	2
+[forceful ]	2
+[<UNK>]	1
+[<UNK>]	1
+[moral ]	2
+[<UNK>]	1
+[commoner ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[1124 ]	2
+[<UNK>]	1
+[wars ]	5
+[command ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[abounded]	2
+[<UNK>]	1
+[incidence ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[campaigns ]	5
+[defence ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[inside ]	3
+[<UNK>]	1
+[operating ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[langres ]	2
+[four ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[long-term ]	3
+[conflict ]	2
+[achieved]	2
+[still]	3
+[<UNK>]	1
+[council]	4
+[right]	2
+[<UNK>]	1
+[<UNK>]	1
+[violence ]	2
+[<UNK>]	1
+[<UNK>]	1
+[led ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[according ]	5
+[<UNK>]	1
+[agreed ]	2
+[quarrel ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[methods ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[vézelay]	4
+[<UNK>]	1
+[participate ]	2
+[<UNK>]	1
+[insisted ]	2
+[<UNK>]	1
+[<UNK>]	1
+[punished ]	2
+[<UNK>]	1
+[<UNK>]	1
+[reigns ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[limoges ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[justified ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[immunity ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[interests]	4
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[expedition]	2
+[<UNK>]	1
+[<UNK>]	1
+[monastery ]	2
+[<UNK>]	1
+[1119]	2
+[<UNK>]	1
+[<UNK>]	1
+[immunity]	3
+[turned ]	2
+[distant ]	2
+[<UNK>]	1
+[<UNK>]	1
+[discipline ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[castles]	2
+[<UNK>]	1
+[<UNK>]	1
+[monopoly ]	3
+[authorities]	2
+[<UNK>]	1
+[pariage ]	2
+[agreement ]	3
+[chapter ]	2
+[enclave ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[lordship]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[expanding ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[complaints ]	2
+[secure ]	4
+[<UNK>]	1
+[equally]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[sets ]	2
+[tooth]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[appeal ]	5
+[trigger ]	2
+[<UNK>]	1
+[autonomy]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[causing ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[prohibition ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[law]	10
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[consolidated ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[systematic ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[canvas ]	2
+[drew ]	3
+[<UNK>]	1
+[effected ]	2
+[during ]	2
+[corona ]	2
+[describe ]	2
+[<UNK>]	1
+[generation]	4
+[impersonal ]	2
+[<UNK>]	1
+[phrase ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[map]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[burghers ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[rural ]	3
+[<UNK>]	1
+[territory]	2
+[<UNK>]	1
+[tillers ]	2
+[<UNK>]	1
+[neighbours]	3
+[<UNK>]	1
+[<UNK>]	1
+[villages ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[employment ]	2
+[<UNK>]	1
+[settlement ]	3
+[rapidly ]	4
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[walls ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[cities ]	5
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[urban ]	8
+[character]	2
+[<UNK>]	1
+[walls]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[levelled ]	2
+[prevent ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[stone ]	2
+[churches ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[cloth ]	2
+[<UNK>]	1
+[<UNK>]	1
+[transformation ]	2
+[ghent]	3
+[<UNK>]	1
+[<UNK>]	1
+[greatest ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[laon ]	2
+[wine ]	2
+[laon]	3
+[<UNK>]	1
+[servile ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[privilege ]	3
+[commune ]	2
+[<UNK>]	1
+[<UNK>]	1
+[1112]	2
+[<UNK>]	1
+[commune]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[burghers]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[followed]	2
+[<UNK>]	1
+[punish ]	2
+[1128]	2
+[<UNK>]	1
+[recognition ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[serfs]	2
+[guaranteed ]	2
+[<UNK>]	1
+[liberties]	4
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[1127]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[donatian]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[erembalds]	2
+[<UNK>]	1
+[prominence ]	2
+[<UNK>]	1
+[aroused ]	2
+[<UNK>]	1
+[refused ]	2
+[<UNK>]	1
+[<UNK>]	1
+[lowly ]	3
+[barred ]	2
+[allegation ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[equal ]	2
+[<UNK>]	1
+[<UNK>]	1
+[clito]	2
+[curthose]	4
+[<UNK>]	1
+[<UNK>]	1
+[clito ]	5
+[<UNK>]	1
+[feared ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[cared ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[ypres ]	2
+[<UNK>]	1
+[ghent ]	2
+[bruges ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[thierry]	2
+[<UNK>]	1
+[<UNK>]	1
+[emerge ]	2
+[affected ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[industrial ]	2
+[rulers]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[competence ]	3
+[échevins ]	4
+[boni ]	5
+[homines ]	5
+[<UNK>]	1
+[<UNK>]	1
+[alsace ]	6
+[<UNK>]	1
+[<UNK>]	1
+[subvert ]	3
+[<UNK>]	1
+[<UNK>]	1
+[community]	3
+[<UNK>]	1
+[external ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[movement]	3
+[<UNK>]	1
+[day-to-day ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[loans ]	2
+[1147]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[provoked ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[final ]	2
+[cities]	2
+[<UNK>]	1
+[launched ]	3
+[privileges]	2
+[<UNK>]	1
+[why ]	3
+[<UNK>]	1
+[<UNK>]	1
+[necessary ]	4
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[ensured ]	4
+[<UNK>]	1
+[<UNK>]	1
+[competent ]	3
+[wished ]	2
+[formal ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[literacy ]	2
+[<UNK>]	1
+[<UNK>]	1
+[supplemented ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[punishing ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[prohibitions ]	2
+[<UNK>]	1
+[overlord]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[tried ]	2
+[bourges]	3
+[<UNK>]	1
+[assumed ]	2
+[<UNK>]	1
+[bourges ]	2
+[community ]	3
+[<UNK>]	1
+[<UNK>]	1
+[rules ]	5
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[seigneurial ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[lorris ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[etampes]	2
+[orléans]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[home ]	2
+[day]	3
+[labour ]	2
+[twice ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[lorris]	2
+[privileged ]	3
+[<UNK>]	1
+[<UNK>]	1
+[strong]	3
+[<UNK>]	1
+[self-government ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[mayor ]	2
+[<UNK>]	1
+[protected ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[authority ]	9
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[franchises ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[needed ]	4
+[concessions ]	2
+[suffered ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[pragmatic ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[alphonse ]	2
+[jourdain ]	2
+[rebellious ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[skill ]	4
+[limiting ]	2
+[<UNK>]	1
+[elsewhere ]	2
+[remarked]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[rebels]	3
+[ponce ]	2
+[<UNK>]	1
+[maintain ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[literal ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[vulnerable]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[benefited ]	2
+[<UNK>]	1
+[communal ]	2
+[raised ]	2
+[<UNK>]	1
+[self-governing ]	3
+[merely ]	3
+[<UNK>]	1
+[constituted ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[strong ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[slowly ]	3
+[<UNK>]	1
+[blocks]	2
+[<UNK>]	1
+[<UNK>]	1
+[ages]	3
+[pays ]	2
+[droit ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[things ]	2
+[<UNK>]	1
+[<UNK>]	1
+[framework]	2
+[<UNK>]	1
+[<UNK>]	1
+[castellan]	2
+[<UNK>]	1
+[contacts ]	2
+[welcome ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[achieve ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[governed ]	2
+[<UNK>]	1
+[fixed ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[competence]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[sword]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[arnoul ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[bearer ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[augustinian ]	2
+[enemies]	2
+[king-duke ]	2
+[<UNK>]	1
+[<UNK>]	1
+[peace-keeping ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[coercion ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[function]	2
+[effect ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[demonstrated ]	2
+[techniques ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[yield ]	2
+[principles ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[judge]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[kind ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[susceptible ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[others]	3
+[necessitated ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[salisbury ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[subjects ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[delegation ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[forth ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[reference ]	2
+[potent ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[meaning ]	2
+[<UNK>]	1
+[<UNK>]	1
+[concept ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[goliardic ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[intellectuals ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[fruit ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[intellectuals]	2
+[<UNK>]	1
+[salisbury]	2
+[<UNK>]	1
+[<UNK>]	1
+[ideal]	2
+[<UNK>]	1
+[<UNK>]	1
+[hang ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[bellay]	2
+[<UNK>]	1
+[<UNK>]	1
+[justify ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[mixed ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[efficiency]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[bureaucracies ]	2
+[<UNK>]	1
+[own]	2
+[<UNK>]	1
+[policraticus ]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[state]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[ruler ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[arms]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[hands]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[baillis ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[administrators ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[sauce ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[liable ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[system]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[exchequer ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[ends ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[grote ]	2
+[bref ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[enormous ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[relied]	2
+[warfare ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[siege-engines ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[skilled ]	2
+[<UNK>]	1
+[supply ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[supplied ]	3
+[<UNK>]	1
+[represented ]	2
+[<UNK>]	1
+[elaborate ]	2
+[<UNK>]	1
+[ones ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[plundering ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[usual ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[slaughtered ]	2
+[<UNK>]	1
+[<UNK>]	1
+[grand ]	2
+[<UNK>]	1
+[feuds ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[interest]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[explaining ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[caused ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[level ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[rouen]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[maintenance ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[crusading]	3
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[crusade ]	4
+[<UNK>]	1
+[1095]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[fervent ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[antioch]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[prestige ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[jerusalem]	3
+[outremer ]	4
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[sacrifice ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[joint ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[barons ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[1147 ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[francorum ]	2
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[<UNK>]	1
+[EOF]	3

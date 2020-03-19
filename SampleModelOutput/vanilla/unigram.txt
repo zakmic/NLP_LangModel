@@ -1,0 +1,5552 @@
+[a]	2
+[the ]	2102
+[ruling ]	6
+[class]	3
+[its ]	94
+[resources ]	6
+[and ]	535
+[means ]	5
+[of ]	1375
+[self-aggrandizement]	1
+[EOS]	877
+[i]	4
+[wealth]	1
+[to ]	673
+[him ]	30
+[that ]	228
+[hath ]	1
+[shall ]	2
+[be ]	120
+[given]	1
+[was ]	382
+[a ]	464
+[truism ]	2
+[early ]	21
+[medieval ]	3
+[society]	4
+[because ]	18
+[lords ]	30
+[owned ]	1
+[large ]	11
+[tracts ]	1
+[land ]	7
+[at ]	107
+[time ]	20
+[when ]	57
+[opportunities ]	6
+[for ]	272
+[exploitation ]	4
+[were ]	183
+[particularly ]	8
+[favourable]	1
+[could ]	72
+[add ]	2
+[this ]	79
+[profit ]	10
+[from ]	128
+[tolls ]	4
+[customs ]	8
+[on ]	175
+[increasing ]	6
+[trade]	1
+[they ]	117
+[hardly ]	7
+[avoid ]	1
+[substantial ]	10
+[increase ]	7
+[in ]	668
+[their ]	256
+[course ]	10
+[eleventh ]	16
+[century]	48
+[but ]	120
+[fly ]	1
+[ointment]	1
+[princes]	24
+[' ]	40
+[point ]	15
+[view]	6
+[lay ]	22
+[fact ]	18
+[advantages ]	1
+[now ]	24
+[more ]	59
+[widely ]	2
+[shared ]	1
+[than ]	46
+[had ]	150
+[been ]	63
+[past]	4
+[some ]	43
+[cases]	3
+[most ]	28
+[strikingly ]	2
+[normandy]	17
+[landed ]	2
+[gains ]	2
+[castellans ]	19
+[made ]	20
+[expense ]	2
+[comital ]	23
+[demesne]	11
+[there ]	55
+[thus ]	6
+[real ]	4
+[danger]	2
+[not ]	91
+[impoverishment]	1
+[closing ]	1
+[gap ]	4
+[between ]	42
+[princes ]	40
+[other ]	48
+[lesser ]	6
+[lords]	15
+[just ]	13
+[display ]	5
+[liberality ]	1
+[increasingly ]	4
+[important ]	22
+[elements ]	2
+[princely ]	32
+[political ]	33
+[armouries]	1
+[renewed ]	6
+[effort ]	1
+[enrich ]	1
+[themselves ]	13
+[therefore ]	18
+[demanded]	2
+[prima ]	1
+[facie]	1
+[it ]	174
+[seems ]	5
+[likely ]	9
+[joined ]	3
+[with ]	155
+[laymen ]	3
+[ecclesiastics ]	1
+[encouraging ]	1
+[extensive ]	1
+[forest ]	1
+[clearance ]	1
+[characterized ]	3
+[french ]	26
+[countryside]	3
+[proof ]	9
+[is ]	51
+[lacking]	1
+[famous ]	7
+[letter ]	8
+[archbishop ]	2
+[rheims ]	3
+[baldwin ]	10
+[v ]	17
+[flanders]	22
+[praising ]	1
+[his ]	280
+[activities ]	2
+[draining ]	1
+[ditching ]	1
+[coastal ]	1
+[areas ]	6
+[presumably ]	1
+[after ]	24
+[dunkirk ]	1
+[inundation ]	1
+[1014–42 ]	1
+[last ]	9
+[subsided]	1
+[explicit ]	1
+[evidence ]	6
+[an ]	78
+[interest ]	5
+[agricultural ]	3
+[expansion]	1
+[wine-growing ]	2
+[developed ]	3
+[markedly ]	5
+[lands ]	6
+[much ]	16
+[visited ]	1
+[by ]	199
+[dukes ]	7
+[burgundy ]	9
+[aquitaine ]	14
+[perhaps ]	9
+[also ]	34
+[suggestive ]	1
+[ducal ]	5
+[initiative]	1
+[hand]	10
+[unlikely ]	1
+[duke ]	20
+[who ]	59
+[granted ]	4
+[out ]	16
+[larger ]	4
+[part ]	13
+[demesne ]	12
+[feudal ]	23
+[tenures]	1
+[or ]	82
+[count ]	35
+[toulouse]	12
+[slow ]	3
+[consolidate ]	1
+[lands]	6
+[major ]	5
+[contributor ]	1
+[progress]	1
+[encouragement ]	1
+[trade ]	4
+[widespread]	1
+[again]	5
+[counts ]	27
+[flanders ]	22
+[vanguard]	1
+[robert ]	26
+[frisian ]	3
+[ii ]	22
+[offering ]	1
+[protection ]	10
+[merchants ]	6
+[crossing ]	2
+[county ]	10
+[peace ]	14
+[duration ]	1
+[fairs]	1
+[least ]	17
+[as ]	251
+[provision ]	1
+[coinage ]	3
+[suitable ]	2
+[reasonably ]	1
+[small ]	6
+[deals ]	1
+[sufficiently ]	2
+[abundant ]	1
+[able ]	2
+[rely ]	2
+[supply]	2
+[here]	1
+[normandy ]	13
+[outstanding]	1
+[beginning ]	8
+[wealth ]	3
+[reckoned ]	2
+[monetary ]	3
+[terms]	4
+[implication ]	2
+[coins ]	4
+[circulated ]	2
+[freely ]	1
+[borne ]	1
+[fécamp ]	1
+[treasure ]	1
+[discovered ]	1
+[1954]	1
+[around ]	6
+[1020]	1
+[quality ]	1
+[norman ]	15
+[declined ]	1
+[concomitant ]	1
+[rapid ]	4
+[quantity]	1
+[here ]	12
+[may ]	22
+[have ]	57
+[connection ]	6
+[temporary ]	5
+[weakening ]	2
+[control ]	9
+[over ]	28
+[minting]	1
+[troubles ]	1
+[following ]	7
+[richard ]	3
+[ii]	14
+['s ]	231
+[death]	2
+[production ]	3
+[currency ]	1
+[useful ]	4
+[traders]	1
+[aquitaine]	8
+[too]	4
+[likely]	2
+[silver ]	2
+[modelled ]	1
+[those ]	64
+[charles ]	8
+[bald ]	1
+[until ]	10
+[serious ]	6
+[financial ]	8
+[crisis ]	4
+[1103]	1
+[brought ]	15
+[william ]	42
+[ix]	3
+[crusading ]	11
+[expenses]	1
+[then ]	14
+[coin ]	1
+[devalued]	1
+[followed ]	2
+[1112 ]	1
+[further ]	6
+[devaluation]	1
+[which ]	109
+[preceded ]	1
+[period ]	6
+[marked ]	7
+[economic ]	7
+[growth]	1
+[toulouse ]	12
+[also]	1
+[steadily ]	1
+[falling ]	1
+[value ]	4
+[second ]	20
+[half ]	12
+[century ]	25
+[them ]	29
+[relevant ]	3
+[needs ]	4
+[merchant ]	1
+[classes]	4
+[was]	12
+[course]	1
+[nothing ]	5
+[disinterested ]	1
+[about ]	15
+[debasement]	1
+[instance]	1
+[consistent ]	1
+[mercantile ]	3
+[gain]	2
+[deliberate ]	1
+[assistance ]	4
+[growth ]	2
+[went ]	4
+[hand ]	7
+[administrative ]	10
+[reform ]	4
+[aimed ]	1
+[channelling ]	2
+[profits ]	3
+[firmly ]	1
+[into ]	43
+[treasuries]	1
+[policy ]	5
+[indicated ]	1
+[ceasing ]	1
+[regard ]	2
+[demesnes]	3
+[ragbags ]	1
+[rights ]	16
+[scattered ]	2
+[pieces ]	1
+[land]	1
+[chiefly ]	2
+[buying ]	1
+[support]	5
+[whether ]	7
+[earth ]	2
+[heaven]	5
+[viewing ]	1
+[instead ]	1
+[permanent ]	1
+[assets]	2
+[cultivated ]	1
+[business-like ]	2
+[fashion]	1
+[ironically ]	1
+[church]	13
+[gained ]	3
+[so ]	51
+[older ]	3
+[cast ]	1
+[mind]	2
+[was  ]	2
+[prominent ]	3
+[propagating ]	2
+[newer ]	2
+[outlook]	1
+[monastic ]	11
+[reformers ]	2
+[odilo ]	1
+[cluny ]	4
+[st ]	44
+[vanne ]	1
+[renowned ]	3
+[consolidation ]	1
+[determination ]	4
+[ensure ]	2
+[what ]	21
+[once ]	8
+[houses ]	10
+[should ]	17
+[remain ]	1
+[inalienable ]	1
+[property]	2
+[inspired ]	4
+[objective]	1
+[churchmen]	2
+[both ]	23
+[bishops ]	14
+[abbots]	1
+[appointed ]	2
+[officials ]	14
+[called ]	8
+[prévôts ]	5
+[task ]	8
+[collecting ]	1
+[rents ]	1
+[dues ]	2
+[estates]	1
+[examples ]	1
+[lost ]	2
+[eudes ]	8
+[blois ]	9
+[employed ]	5
+[prévôt ]	2
+[1004 ]	1
+[see ]	11
+[p. ]	7
+[196]	1
+[these ]	29
+[differed ]	1
+[predecessors ]	2
+[tax- ]	1
+[rent-collectors]	1
+[vicarii ]	1
+[viscounts]	2
+[rewarded]	2
+[beneficium ]	1
+[cut ]	1
+[profits]	2
+[initially]	1
+[office ]	2
+[often ]	7
+[sold ]	2
+[highest ]	2
+[bidder]	1
+[would ]	35
+[recoup ]	1
+[losses ]	3
+[assiduity ]	2
+[collecting]	1
+[later ]	21
+[became ]	17
+[hereditary]	1
+[job ]	1
+[always ]	8
+[excited ]	1
+[unpopularity]	1
+[sometimes ]	2
+[even ]	33
+[ademar ]	1
+[chabannes ]	1
+[told ]	2
+[murder ]	2
+[jean ]	1
+[d'angély ]	1
+[1026]	1
+[destruction ]	1
+[house ]	12
+[angry ]	1
+[inhabitants ]	6
+[town]	8
+[despite ]	8
+[risks]	1
+[man ]	7
+[ambition ]	1
+[reward ]	1
+[ample]	1
+[prévôté ]	1
+[might ]	41
+[bridge ]	1
+[upper ]	2
+[peasantry ]	3
+[lower ]	5
+[echelons ]	1
+[aristocracy]	4
+[introduction ]	2
+[new ]	55
+[estates ]	3
+[piecemeal ]	2
+[affair]	1
+[only ]	31
+[where ]	35
+[any ]	19
+[case ]	16
+[solid ]	8
+[block]	1
+[complete ]	3
+[network ]	2
+[prévôtés ]	1
+[created ]	8
+[before ]	19
+[end ]	17
+[elsewhere]	7
+[appearance ]	10
+[depended ]	3
+[favourable ]	5
+[opportunity]	1
+[did ]	21
+[employ ]	1
+[all ]	61
+[employed]	1
+[duties ]	5
+[varied ]	3
+[place ]	9
+[fulfilled ]	3
+[judicial ]	9
+[well ]	22
+[functions]	2
+[others ]	8
+[military ]	30
+[role]	2
+[performing ]	1
+[tasks ]	1
+[reflected ]	2
+[promoted ]	3
+[territorialization ]	1
+[power ]	8
+[feature ]	5
+[scene]	2
+[husbanding ]	1
+[proved ]	9
+[difficult ]	3
+[except ]	3
+[appointing ]	2
+[administer ]	1
+[it]	23
+[huge ]	1
+[grants ]	4
+[church ]	11
+[rarer ]	1
+[chances ]	4
+[resuming ]	1
+[granted]	4
+[from  ]	1
+[middle ]	8
+[gifts ]	1
+[consuetudines ]	7
+[ecclesiastical ]	16
+[dues]	2
+[revenues ]	5
+[secular ]	11
+[process ]	6
+[attrition]	2
+[moment ]	3
+[weakness ]	3
+[fortunes ]	1
+[great ]	27
+[minority ]	1
+[conqueror]	6
+[years ]	7
+[fulk ]	26
+[le ]	32
+[réchin ]	5
+[provided ]	19
+[perfect ]	2
+[opportunity ]	5
+[establish ]	4
+[hereditary ]	3
+[rights]	5
+[exercise ]	1
+[own ]	40
+[benefit ]	5
+[prerogatives ]	1
+[hitherto ]	7
+[very ]	13
+[endowments ]	2
+[accumulated ]	1
+[ninth ]	5
+[tenth ]	8
+[centuries ]	6
+[curtailed ]	1
+[without ]	14
+[disaster ]	1
+[climate ]	1
+[carolingian ]	26
+[taxes ]	2
+[like ]	17
+[fodrum ]	1
+[pedagium ]	1
+[revived ]	8
+[compensated ]	1
+[measure]	2
+[nevertheless]	3
+[must ]	13
+[supposed ]	1
+[social ]	21
+[inducements ]	1
+[policies ]	1
+[expansion ]	4
+[beyond ]	7
+[west ]	11
+[frankish ]	5
+[frontiers ]	3
+[pursued ]	5
+[burgundy]	8
+[brief ]	3
+[periods ]	2
+[anjou]	7
+[plunder ]	1
+[boost ]	1
+[revenues]	1
+[annexation ]	2
+[tougher ]	2
+[conquest ]	4
+[train]	1
+[restore ]	2
+[dominant ]	2
+[position ]	13
+[far ]	17
+[richest ]	1
+[men ]	31
+[within ]	33
+[principalities]	4
+[justice]	8
+[1010 ]	1
+[raymond ]	14
+[iii ]	2
+[rouergue ]	3
+[died]	1
+[leaving ]	2
+[conques ]	2
+[abbey]	5
+[among ]	19
+[gifts]	1
+[estate ]	5
+[pallas ]	3
+[narbonne]	1
+[monastery]	2
+[right ]	12
+[challenged ]	4
+[lady ]	4
+[garsinde]	3
+[wife ]	2
+[bernard ]	4
+[velu]	1
+[declared ]	7
+[belonged ]	1
+[her ]	13
+[first ]	21
+[husband ]	1
+[raymond]	2
+[whom ]	9
+[taken ]	6
+[force]	3
+[monks]	3
+[attempt ]	5
+[obtain ]	6
+[judgement ]	5
+[favour ]	5
+[abortive]	1
+[trial ]	3
+[arranged ]	2
+[itself]	3
+[abbot ]	13
+[travelled ]	2
+[knights ]	20
+[vassals]	5
+[put ]	6
+[chosen ]	3
+[arbitrator]	1
+[certain ]	3
+[bernard]	3
+[garsinde ]	3
+[velu ]	1
+[arrived]	1
+[accompanied ]	6
+[following]	2
+[each ]	14
+[side ]	1
+[pleaded ]	1
+[cause ]	6
+[noisily]	1
+[arbitrator  ]	1
+[decided ]	3
+[though ]	35
+[receive ]	2
+[recompense ]	1
+[abandoning ]	1
+[claims]	3
+[concord ]	1
+[drawn ]	6
+[up]	2
+[point]	2
+[one ]	45
+[noble ]	5
+[followers]	1
+[unwilling ]	1
+[accept ]	2
+[verdict]	3
+[arose ]	3
+[demanded ]	2
+[decision ]	5
+[arbitration ]	5
+[battle]	5
+[tumult ]	1
+[ensued]	1
+[terrified ]	2
+[monks ]	10
+[escape]	1
+[find ]	2
+[way ]	12
+[blocked ]	3
+[same ]	13
+[young ]	9
+[lord ]	20
+[fifty ]	2
+[knights]	10
+[threatened ]	4
+[juncture]	1
+[foy ]	2
+[sent ]	3
+[storm]	1
+[aggressive ]	2
+[aristocrat ]	1
+[struck ]	1
+[lightning]	1
+[armed ]	5
+[ran ]	1
+[away]	3
+[news ]	1
+[divine ]	2
+[intervention ]	5
+[reached ]	4
+[her]	1
+[abandoned ]	3
+[case]	5
+[so]	7
+[least]	7
+[story ]	4
+[presented ]	4
+[angers ]	2
+[miracles ]	2
+[clear]	1
+[however]	6
+[subsequent ]	3
+[narrative ]	2
+[that]	12
+[whatever ]	3
+[short-term ]	2
+[effects ]	2
+[thunderbolt]	1
+[claims ]	7
+[again ]	8
+[husband]	3
+[episode ]	1
+[narrator ]	1
+[takes ]	1
+[standing ]	4
+[disputed]	1
+[hard ]	3
+[arrange]	1
+[immediately ]	2
+[unacceptable ]	2
+[party ]	2
+[felt ]	2
+[itself ]	3
+[loser ]	1
+[judgement]	2
+[compensation ]	1
+[offered ]	8
+[soften ]	1
+[blow]	2
+[contemporary ]	4
+[occurred ]	3
+[1037 ]	1
+[1054]	1
+[marmoutier ]	4
+[complained ]	1
+[geoffrey ]	39
+[martel]	3
+[court ]	16
+[bouchard ]	3
+[seized ]	1
+[back ]	9
+[mill ]	2
+[brother]	1
+[bouchard]	2
+[consent]	1
+[earlier ]	12
+[bestowed ]	4
+[hearing]	1
+[finally ]	2
+[admit ]	1
+[abbot]	2
+[complaint ]	3
+[true]	2
+[pity ]	1
+[poverty]	1
+[prevailed ]	1
+[allow ]	3
+[possession ]	2
+[rest ]	4
+[life]	6
+[strictly ]	2
+[legal ]	13
+[weighing ]	1
+[wrongs ]	2
+[played ]	4
+[subordinate ]	1
+[role ]	7
+[outcome ]	1
+[judge ]	1
+[respects]	1
+[assertive ]	1
+[strength ]	3
+[pp. ]	3
+[187–8]	1
+[if ]	36
+[chose ]	4
+[conciliate ]	1
+[aristocratic ]	13
+[disputes ]	7
+[he ]	106
+[forced ]	6
+[resort ]	5
+[matters ]	3
+[crime]	1
+[powerful ]	6
+[refrained ]	1
+[tough ]	1
+[measures ]	1
+[against ]	31
+[supporters ]	2
+[essential ]	4
+[position]	4
+[geoffrey  ]	1
+[expressed ]	2
+[anger ]	2
+[knight ]	4
+[walter ]	3
+[killed ]	2
+[kinsmen]	1
+[accepted ]	2
+[two ]	17
+[mills ]	1
+[price ]	3
+[peace]	11
+[likewise ]	1
+[mixture ]	4
+[mockery ]	1
+[persuasion]	3
+[rather ]	23
+[bring ]	3
+[heel ]	1
+[injured ]	1
+[another ]	4
+[brawl]	1
+[outright ]	1
+[condemnation ]	1
+[rare ]	3
+[condign ]	1
+[punishment ]	3
+[criminal ]	4
+[high ]	10
+[standing]	1
+[delinquent ]	2
+[vassal ]	7
+[submit ]	1
+[himself ]	10
+[lord]	18
+[performed ]	3
+[act ]	4
+[self-abasement ]	1
+[which]	3
+[merited ]	1
+[courteous ]	1
+[handling]	1
+[system ]	3
+[worked ]	2
+[settled]	1
+[crimes ]	2
+[fully ]	4
+[atoned ]	1
+[accommodated ]	1
+[plastic ]	1
+[multifarious ]	1
+[notions ]	1
+[justice ]	16
+[obtaining ]	2
+[group ]	1
+[men]	10
+[known ]	5
+[youth ]	1
+[related ]	2
+[marriage]	3
+[reckon ]	1
+[continuing ]	1
+[live ]	1
+[neighbours ]	1
+[over]	1
+[personal ]	10
+[authority]	9
+[tact]	1
+[understanding]	1
+[hugh ]	9
+[achieved ]	5
+[reputation ]	2
+[attracted ]	4
+[many ]	14
+[court]	14
+[ties]	2
+[growing ]	9
+[expectation ]	2
+[ought ]	4
+[resolve ]	3
+[consequence]	6
+[feeble ]	3
+[met ]	5
+[requests ]	2
+[technical ]	1
+[difficulty ]	4
+[path ]	5
+[litigants]	1
+[courts ]	13
+[peripatetic]	1
+[preuil ]	1
+[1093]	1
+[convenient ]	2
+[excuse ]	1
+[summoned ]	6
+[defendants ]	1
+[1100]	1
+[vendôme ]	3
+[assured ]	1
+[ix ]	4
+[trying ]	2
+[answer ]	2
+[summons ]	1
+[every ]	4
+[messenger ]	1
+[place]	3
+[found ]	12
+[moved ]	4
+[on]	5
+[simple ]	6
+[truth]	2
+[may]	2
+[alternatively]	1
+[instance ]	1
+[use ]	14
+[delay ]	2
+[intelligent ]	1
+[reluctant ]	3
+[pleader]	1
+[jurisdiction ]	7
+[lack ]	2
+[muscle ]	1
+[enforce ]	1
+[parties ]	4
+[almost ]	10
+[automatically ]	3
+[exacerbated ]	2
+[instances ]	1
+[alternative ]	2
+[episcopal ]	6
+[infringements ]	1
+[of  ]	3
+[god]	7
+[procedural ]	1
+[uncertainties ]	1
+[minds ]	1
+[plaintiffs ]	1
+[judges]	2
+[yet ]	27
+[chance ]	2
+[problems ]	6
+[transcended]	1
+[operated ]	3
+[authoritarian ]	1
+[principles]	2
+[result]	1
+[arbitrary ]	4
+[capable ]	2
+[producing ]	3
+[rewards]	1
+[already ]	4
+[escaped ]	4
+[grasp ]	2
+[eleventh]	1
+[passed ]	2
+[squarely ]	1
+[hands ]	1
+[local ]	14
+[castellans]	5
+[exacted ]	1
+[fines ]	1
+[imposed ]	3
+[penalties ]	3
+[peasants ]	4
+[remorseless ]	1
+[vigour]	1
+[derived ]	5
+[solely ]	3
+[manorial ]	1
+[whose ]	18
+[held ]	14
+[sufficient ]	2
+[subordination ]	1
+[render ]	1
+[number ]	6
+[dwindled]	1
+[apparently ]	2
+[low ]	3
+[spasmodic ]	2
+[disparate ]	1
+[indications ]	1
+[development ]	1
+[opposite ]	1
+[direction]	1
+[martel ]	6
+[gilles ]	4
+[success ]	3
+[asserting ]	4
+[superiority ]	5
+[south]	5
+[remembered]	2
+[tradition ]	5
+[offences]	1
+[murder]	2
+[rape]	2
+[arson]	2
+[justiciable ]	2
+[higher ]	9
+[1091]	1
+[et ]	2
+[justicie ]	1
+[survival ]	3
+[represent ]	2
+[practice ]	7
+[count]	17
+[becoming ]	1
+[meaningful ]	1
+[concept]	1
+[fair ]	3
+[times ]	3
+[precedents ]	2
+[fired ]	1
+[philip ]	22
+[1 ]	2
+[son ]	12
+[louis ]	81
+[vi ]	19
+[policing ]	2
+[royal ]	82
+[less ]	17
+[visibly]	1
+[significantly]	2
+[confirming ]	3
+[agreements ]	1
+[advocates ]	2
+[communities ]	6
+[sway]	1
+[evolution ]	5
+[customary ]	7
+[law ]	9
+[across ]	11
+[whole ]	15
+[francia]	7
+[simply ]	9
+[confirmatory]	1
+[claimed ]	8
+[abolish ]	1
+[bad ]	1
+[customs]	3
+[conqueror ]	6
+[towards ]	7
+[securing ]	2
+[uniformity ]	3
+[custom ]	1
+[duchy]	5
+[trail ]	1
+[blazed ]	1
+[active ]	3
+[participation ]	1
+[iii]	2
+[resources]	2
+[exact ]	3
+[date ]	3
+[charter]	4
+[gave ]	3
+[full ]	5
+[details ]	1
+[service ]	12
+[owed ]	9
+[area ]	9
+[vendôme]	2
+[still ]	11
+[controversial]	1
+[authentic ]	1
+[document ]	3
+[nerra ]	1
+[charter ]	8
+[provides ]	4
+[surprisingly ]	1
+[well-worked-out ]	1
+[castle-guard ]	4
+[april]	2
+[june]	1
+[july ]	1
+[august]	1
+[responsibility]	1
+[paid ]	5
+[months ]	3
+[directly ]	6
+[treasury]	2
+[town ]	10
+[produced ]	19
+[tax ]	2
+[three]	1
+[year ]	2
+[covered]	1
+[month ]	1
+[time]	5
+[seven ]	1
+[return ]	11
+[fiefs ]	9
+[night]	1
+[five ]	1
+[needed]	1
+[three ]	7
+[gates ]	1
+[move ]	5
+[them]	18
+[responsibility ]	1
+[heavy]	2
+[obligation]	2
+[mercenary ]	2
+[forces ]	4
+[reckoning ]	1
+[pay ]	4
+[share ]	1
+[duty]	3
+[characteristic ]	4
+[treating ]	1
+[castle-guard]	2
+[goes ]	3
+[specify ]	1
+[surrounding ]	1
+[area]	3
+[obligations]	1
+[ost ]	2
+[chevauchée ]	3
+[long ]	17
+[short ]	6
+[expeditionary ]	1
+[presupposes ]	1
+[direct ]	6
+[mounted ]	3
+[warrior ]	2
+[fief]	6
+[unusually ]	3
+[specific ]	3
+[this]	6
+[indicative ]	1
+[well-developed ]	1
+[institutions]	1
+[under ]	17
+[angevin ]	15
+[control]	5
+[drawback ]	1
+[view ]	10
+[limited ]	3
+[duration]	1
+[does ]	3
+[mention ]	2
+[imprecise]	1
+[above ]	6
+[most]	1
+[usefulness ]	2
+[considerably]	1
+[contracts ]	1
+[sense ]	10
+[term ]	3
+[supplying ]	1
+[campaigning ]	2
+[pushing ]	3
+[argument ]	3
+[too ]	7
+[deny ]	2
+[significance ]	3
+[field]	2
+[conventum ]	1
+[v]	6
+[de ]	17
+[lusignan ]	2
+[entitled ]	2
+[chiliarchus ]	1
+[commander ]	1
+[thousand]	1
+[recorded ]	4
+[castellan ]	11
+[amboise]	7
+[army ]	5
+[numbered  ]	1
+[200 ]	2
+[1,000 ]	1
+[footsoldiers]	1
+[figures ]	2
+[inaccurate]	1
+[attest ]	1
+[impression ]	1
+[large]	2
+[emergency]	2
+[how ]	7
+[counted ]	1
+[members ]	7
+[lisiard ]	2
+[household ]	14
+[can]	1
+[determined]	1
+[expect ]	2
+[prince]	16
+[will ]	5
+[lived ]	3
+[permanently ]	1
+[gates]	2
+[closest ]	2
+[companions]	1
+[who]	3
+[several ]	4
+[years]	2
+[service]	10
+[hope ]	1
+[rewarded ]	2
+[fiefs]	1
+[possibly ]	1
+[enjoyed ]	9
+[came ]	7
+[described ]	2
+[money-fiefs]	1
+[regular ]	9
+[receipt ]	1
+[source ]	6
+[revenue ]	1
+[tenure ]	1
+[sort ]	1
+[regarded ]	7
+[exclusively ]	2
+[late ]	9
+[development]	1
+[roots ]	4
+[are ]	13
+[thought ]	4
+[old]	2
+[received ]	7
+[appearing ]	1
+[help ]	2
+[battle ]	5
+[thibaud ]	6
+[blois]	4
+[foot-soldiers ]	3
+[suggests ]	5
+[either ]	6
+[mercenaries]	1
+[presence ]	3
+[accounted ]	1
+[surviving ]	1
+[obligation ]	8
+[ban ]	3
+[whichever ]	1
+[argues ]	1
+[strategy ]	1
+[concerned ]	3
+[battles]	2
+[expeditions]	2
+[sieges]	1
+[chevauchées ]	1
+[dominate ]	1
+[locality]	2
+[pattern ]	2
+[future]	3
+[sizeable ]	2
+[level]	2
+[territories ]	1
+[dependent ]	3
+[ability ]	2
+[win ]	1
+[support ]	7
+[supplicius ]	5
+[refusal ]	2
+[assist ]	3
+[fulk]	3
+[enemy ]	1
+[homage]	6
+[straightforward.i ]	1
+[supported ]	1
+[invasions ]	1
+[1051]	2
+[campaign ]	3
+[planned ]	2
+[aggression ]	3
+[outside ]	7
+[principality]	1
+[grounds ]	2
+[assisting ]	3
+[hopes ]	1
+[booty ]	1
+[territorial ]	3
+[expedition ]	2
+[combined ]	5
+[prospect ]	3
+[gain ]	6
+[notable ]	7
+[adventure]	3
+[such ]	10
+[forays ]	1
+[spain ]	1
+[england]	8
+[widespread ]	4
+[prince ]	14
+[surrounded ]	5
+[vassals  ]	1
+[present ]	6
+[desire]	1
+[numbers ]	5
+[reason ]	3
+[being ]	7
+[do ]	10
+[ties ]	2
+[fidelity]	5
+[host ]	1
+[invasion ]	1
+[contingents ]	1
+[bretons ]	1
+[flemings]	1
+[could]	1
+[occasions ]	2
+[outrun ]	1
+[fees]	1
+[troops ]	5
+[fought ]	6
+[little ]	13
+[discussed ]	2
+[sources]	2
+[henry ]	41
+[insurance ]	1
+[treaty ]	3
+[1101 ]	2
+[invoked]	1
+[we ]	2
+[know ]	2
+[cost ]	1
+[£500 ]	1
+[sterling ]	1
+[year]	4
+[shows ]	4
+[money ]	3
+[decisive ]	5
+[element ]	2
+[warfare]	3
+[glimpse ]	3
+[fighters ]	1
+[expensively ]	1
+[equipped ]	1
+[encouraged ]	2
+[leave ]	1
+[periods]	1
+[corner ]	2
+[defenceless ]	1
+[totally ]	2
+[changed ]	3
+[character ]	11
+[twelfth]	1
+[i ]	13
+[hiring ]	2
+[probably ]	6
+[commoner]	1
+[has ]	13
+[conjectured ]	2
+[archers ]	1
+[hastings ]	1
+[bayeux ]	1
+[tapestry ]	1
+[fighting ]	3
+[pay]	2
+[population]	2
+[towns ]	16
+[manpower ]	1
+[conflicts ]	3
+[throughout ]	6
+[collect ]	2
+[odious ]	1
+[pillaging ]	1
+[crossed ]	1
+[unpopularity ]	1
+[consequence ]	5
+[heavy ]	1
+[burden ]	2
+[employers]	1
+[mere ]	6
+[existence ]	1
+[circulating ]	1
+[fast ]	2
+[western ]	4
+[europe]	1
+[implies ]	1
+[economy ]	1
+[immature ]	1
+[readily]	1
+[b]	2
+[innovation ]	1
+[eleventh-century ]	11
+[diplomatic ]	2
+[vocabulary ]	2
+[north ]	3
+[occasional ]	2
+[fevum ]	1
+[inexplicable ]	1
+[school ]	4
+[historians]	4
+[organization ]	3
+[the  ]	8
+[thirteenth ]	4
+[centuries]	3
+[nowadays ]	1
+[constitutes ]	1
+[convincing ]	1
+[believe ]	2
+[vassalage ]	3
+[insignificant ]	1
+[society ]	4
+[quarter ]	1
+[although ]	8
+[word ]	4
+[imply ]	2
+[importance ]	9
+[minor ]	1
+[institution]	2
+[reflect ]	2
+[intellectual ]	3
+[change]	5
+[dawning ]	1
+[awareness ]	3
+[need ]	3
+[greater ]	10
+[clarity ]	1
+[realm ]	2
+[relations]	1
+[written ]	17
+[fulbert ]	3
+[chartres ]	1
+[rehearsed ]	1
+[terms ]	6
+[deliberately ]	1
+[easily ]	4
+[remembered ]	1
+[warriors ]	2
+[read]	1
+[fulbert]	2
+[application ]	4
+[ideas ]	2
+[ancient ]	10
+[manuals ]	1
+[rhetoric]	1
+[ad ]	1
+[herennium ]	1
+[cicero]	1
+[inventione ]	1
+[entirely ]	3
+[vivid ]	2
+[illustration ]	1
+[churchmen ]	4
+[moulded ]	1
+[ethical ]	1
+[perceptions ]	1
+[letter]	1
+[used ]	8
+[words ]	6
+[fidelis ]	4
+[vassus ]	2
+[interchangeably]	1
+[sworn ]	5
+[fidelity ]	2
+[signs ]	2
+[contemporaries ]	2
+[saw ]	9
+[relationship ]	6
+[indeed]	3
+[william]	4
+[concern ]	2
+[matter ]	5
+[clash ]	1
+[iv ]	7
+[lusignan]	2
+[hugh]	1
+[embittered ]	2
+[failure ]	1
+[keep ]	6
+[word]	3
+[renounced ]	2
+[oath ]	2
+['s  ]	2
+[physical ]	1
+[safety ]	4
+[poitiers ]	3
+[concerned]	1
+[implied ]	6
+[grades ]	1
+[obliged ]	4
+[promote ]	3
+[interests ]	6
+[things]	1
+[bound ]	6
+[injure ]	2
+[him]	12
+[logic ]	2
+[distinction]	3
+[defined ]	4
+[fulfilling ]	2
+[close ]	3
+[make ]	11
+[sacrifices]	1
+[while ]	14
+[days]	2
+[journey ]	4
+[making ]	5
+[nuisance ]	1
+[relatively ]	1
+[painless ]	1
+[matter]	2
+[differences ]	2
+[perception ]	3
+[partly ]	2
+[distance]	1
+[variant ]	1
+[perspective ]	1
+[lordship ]	8
+[intensified ]	1
+[increased]	1
+[vassals ]	4
+[differences]	1
+[hubert ]	1
+[hongre]	1
+[mâconnais]	1
+[lent ]	3
+[uxelles ]	1
+[aid ]	2
+[counsel]	1
+[witnessed ]	1
+[charters]	7
+[testified ]	1
+[lawsuits]	1
+[acted ]	1
+[hostage ]	1
+[family]	15
+[entered ]	3
+[cluny]	3
+[clientage ]	1
+[monk]	2
+[life ]	6
+[up ]	17
+[relationship]	3
+[fief ]	5
+[possessed ]	1
+[allodial ]	1
+[230]	1
+[heavily ]	2
+[burdened ]	1
+[clearly ]	7
+[defined]	2
+[fulfilled]	1
+[masters]	2
+[can ]	11
+[seen]	1
+[involved ]	2
+[were]	5
+[then]	4
+[models ]	1
+[knightly ]	4
+[occasion]	4
+[extorted ]	1
+[might]	1
+[knight]	1
+[emphasize ]	4
+[dependence ]	3
+[herbert ]	1
+[maine ]	1
+[homage ]	10
+[anjou ]	13
+[recognized ]	9
+[everything ]	1
+[herbert]	1
+[no ]	31
+[bond ]	3
+[enforcing]	1
+[inferred ]	1
+[rubbed ]	1
+[castellany ]	2
+[by  ]	1
+[taking ]	5
+[castle]	1
+[scarcely ]	2
+[forget ]	3
+[conditional ]	1
+[nature ]	4
+[tenure]	2
+[weakening]	1
+[however ]	2
+[temporary]	1
+[dominance ]	1
+[serve ]	1
+[produce ]	3
+[normal ]	2
+[francia ]	2
+[whole]	2
+[loosely ]	1
+[subordinated ]	1
+[independent ]	5
+[bemy ]	1
+[mâconnais ]	1
+[remained ]	6
+[rarity]	1
+[nevertheless ]	8
+[claim ]	10
+[fortifications ]	3
+[best ]	3
+[spasmodically ]	1
+[enforced]	1
+[worst ]	1
+[absent ]	4
+[theory]	1
+[concession ]	3
+[universal ]	1
+[rebellion ]	4
+[inheritance]	4
+[harsh]	1
+[1070]	1
+[réchin]	8
+[content ]	1
+[disinheritance]	1
+[pulled ]	1
+[down ]	4
+[castle ]	4
+[tréves]	1
+[blinded ]	2
+[hardouin]	1
+[part]	1
+[contrived ]	1
+[convert ]	2
+[symbol ]	3
+[deference ]	1
+[willingness ]	1
+[perform ]	2
+[implications ]	1
+[purely ]	2
+[delegation]	1
+[duty ]	4
+[exercising ]	1
+[powers ]	7
+[privileges ]	7
+[swiftly ]	1
+[transmuted ]	1
+[something ]	1
+[rigid]	1
+[exactly ]	1
+[proximity]	1
+[ironically]	2
+[factor ]	3
+[preventing ]	1
+[precision ]	2
+[continuity ]	1
+[demands ]	4
+[ile ]	2
+[france ]	11
+[relaxed ]	1
+[way]	1
+[parthenay ]	1
+[although]	1
+[term]	6
+[manoeuvres ]	1
+[attained ]	1
+[objectives]	1
+[conferred ]	5
+[independence ]	4
+[double ]	1
+[allegiance ]	1
+[weapon]	2
+[amboise ]	3
+[231]	1
+[1090 ]	1
+[montpellier ]	2
+[exploited ]	6
+[successfully ]	1
+[rose ]	1
+[bishop ]	13
+[maguelonne]	1
+[worried ]	1
+[defection]	1
+[bribed ]	2
+[mouvance ]	3
+[extending ]	3
+[return]	3
+[required ]	6
+[recognize ]	3
+[since ]	12
+[better ]	3
+[man]	3
+[mount ]	2
+[scale ]	4
+[rank ]	2
+[underdog]	1
+[la ]	5
+[marche ]	1
+[périgueux ]	1
+[acceptance ]	3
+[duke]	2
+[person ]	6
+[property ]	2
+[breach ]	4
+[faith]	1
+[more]	2
+[assisted ]	2
+[campaigns]	2
+[pleasure ]	2
+[doing]	1
+[similar ]	6
+[obtained ]	7
+[family ]	12
+[boulogne]	1
+[capetians ]	3
+[old-established ]	1
+[families ]	4
+[france]	15
+[mâcon]	3
+[chalon]	2
+[meaux]	1
+[apex ]	3
+[pyramid ]	2
+[king ]	39
+[took ]	7
+[excluding ]	2
+[south ]	5
+[brittany]	3
+[helgaud ]	1
+[reported ]	1
+[pious ]	6
+[secretly ]	1
+[removed ]	1
+[relics ]	1
+[reliquary ]	1
+[primates ]	1
+[magnates]	1
+[take ]	7
+[oaths]	1
+[order ]	6
+[shield ]	1
+[committing ]	2
+[perjury]	1
+[tale]	1
+[showed ]	3
+[confidence ]	4
+[intention ]	4
+[abide ]	1
+[genuinely ]	1
+[dispute]	1
+[dudo ]	1
+[quentin ]	1
+[rollo ]	2
+[911 ]	1
+[gratitude ]	1
+[baptism]	1
+[mean]	1
+[successors]	2
+[rendered ]	2
+[services ]	4
+[none ]	1
+[elevated ]	2
+[robert]	3
+[question ]	1
+[benefice ]	1
+[you ]	3
+[me]	1
+[come ]	4
+[your ]	4
+[domain]	1
+[me ]	2
+[consent ]	1
+[my ]	3
+[ancestors]	1
+[eudes]	3
+[eyes]	3
+[champagne ]	9
+[hereditarily]	1
+[subject ]	8
+[king]	18
+[grant ]	5
+[grant]	2
+[differently ]	1
+[issues ]	1
+[moment]	1
+[imputed ]	1
+[guy ]	3
+[geoffrey]	2
+[thibaud]	1
+[irritation ]	1
+[orderic]	1
+[status ]	4
+[1106 ]	1
+[i. ]	2
+[opinion ]	1
+[lawyers ]	4
+[fundamental ]	3
+[monarchy]	2
+[equation ]	1
+[interestingly]	2
+[comfortable ]	1
+[independence]	5
+[absence ]	5
+[sought ]	7
+[authentication ]	1
+[gilles]	1
+[1079]	1
+[prepared ]	7
+[oust ]	1
+[brother ]	3
+[ceremony ]	4
+[shrine ]	1
+[chaise-dieu]	1
+[adoption ]	1
+[overlord ]	1
+[heaven ]	2
+[weight ]	1
+[doubtful ]	1
+[title ]	2
+[infringing ]	2
+[earthly ]	6
+[patron ]	4
+[saint ]	3
+[become ]	5
+[absorbed ]	2
+[world]	5
+[example ]	9
+[different ]	9
+[circumstances]	1
+[commend ]	1
+[capetians]	1
+[c]	2
+[families]	4
+[roucy ]	1
+[journeyed ]	1
+[rome]	2
+[fell ]	3
+[trap ]	1
+[laid ]	1
+[falco]	1
+[release]	1
+[daughter]	2
+[incident ]	1
+[force ]	6
+[play ]	2
+[creation ]	3
+[marriage ]	14
+[alliances ]	2
+[swashbuckling ]	1
+[approach ]	2
+[grew ]	10
+[rarer]	1
+[disappearance ]	1
+[ottonian ]	2
+[measure ]	1
+[excitement ]	1
+[drained ]	1
+[game]	1
+[neither ]	2
+[capetian ]	9
+[nor ]	3
+[salian ]	2
+[brides ]	1
+[cachet ]	1
+[predecessors]	2
+[result ]	2
+[emphasis ]	1
+[patrilineal ]	2
+[descent ]	2
+[noblest ]	1
+[wives ]	1
+[she ]	2
+[done ]	3
+[grandfather]	2
+[pious]	3
+[daughter ]	2
+[nevers ]	4
+[obvious ]	1
+[strengthened ]	3
+[hold ]	2
+[upon ]	2
+[advantage]	1
+[generations ]	2
+[connection]	1
+[behind ]	11
+[change ]	5
+[concentration ]	2
+[possession]	2
+[symbolic ]	2
+[decline ]	1
+[portions ]	1
+[husbands ]	1
+[wives]	2
+[correspondingly ]	1
+[avid ]	1
+[bride]	1
+[dowry]	1
+[dowries ]	2
+[prove ]	3
+[blessings]	1
+[heiress ]	2
+[rennes ]	2
+[hoël ]	1
+[nantes ]	1
+[transformed ]	1
+[otherwise ]	2
+[weak ]	4
+[landholder]	1
+[died ]	2
+[dowry ]	2
+[war ]	7
+[broke ]	2
+[1013–14 ]	1
+[retain ]	1
+[dead ]	1
+[wife]	2
+[richard]	1
+[sister]	4
+[attacked ]	1
+[death ]	14
+[countess]	1
+[married ]	1
+[auvergne]	3
+[forgotten]	2
+[retention]	1
+[gains]	2
+[create ]	4
+[territory ]	3
+[good ]	15
+[luck ]	1
+[failed ]	4
+[succession ]	8
+[father ]	5
+[generation ]	4
+[succeeded ]	3
+[annexing ]	1
+[gascony]	3
+[pleading ]	1
+[justification ]	1
+[father]	6
+[prisca]	1
+[kingdom ]	4
+[seen ]	9
+[preparatory ]	2
+[step ]	7
+[dealings ]	1
+[hainault ]	1
+[holland]	1
+[aragon]	1
+[barcelona]	1
+[navarre]	1
+[provence]	1
+[additional ]	1
+[advantage ]	4
+[earning ]	1
+[approval ]	1
+[pressure ]	6
+[canonists ]	1
+[unions ]	1
+[six ]	2
+[degrees ]	1
+[death-rate ]	1
+[high]	1
+[marriages ]	1
+[usually ]	5
+[short-term]	1
+[divorce ]	1
+[intervene]	1
+[prosperity ]	3
+[settled ]	3
+[conditions ]	2
+[barrenness ]	1
+[common ]	8
+[unusual ]	2
+[heirs]	1
+[arise ]	1
+[determining ]	1
+[competing ]	1
+[stated ]	3
+[principle ]	2
+[primogenital ]	1
+[observed ]	2
+[difference ]	1
+[accepting ]	2
+[eldest ]	1
+[succeed]	2
+[age ]	2
+[competent]	1
+[inviolable ]	1
+[rule]	3
+[usurpation ]	1
+[frisian]	3
+[facts ]	4
+[uncertain]	1
+[plight ]	1
+[generously ]	1
+[endowed ]	1
+[younger ]	4
+[sons ]	7
+[rufus ]	2
+[eon ]	1
+[penthièvre ]	1
+[arouse ]	1
+[sympathy ]	1
+[contemporaries]	3
+[besides]	5
+[contracted ]	1
+[offspring ]	1
+[various ]	2
+[1032 ]	1
+[occasion ]	4
+[energetic ]	1
+[opposition ]	4
+[accession ]	4
+[constance ]	1
+[arles ]	1
+[crisis]	3
+[driven ]	1
+[refuge ]	1
+[prevailed]	1
+[dispute ]	6
+[repercussions ]	1
+[primogeniture ]	3
+[accepted]	1
+[sort]	1
+[heirs ]	2
+[over-ambitious]	1
+[rebelled ]	1
+[fathers ]	2
+[dominion  ]	1
+[ahead ]	1
+[problematically]	1
+[headache ]	1
+[finding ]	1
+[adequate ]	1
+[patrimony]	1
+[drawbacks]	1
+[offer ]	3
+[rule ]	1
+[thumb ]	1
+[commanded ]	1
+[respect]	1
+[heir]	3
+[1060s ]	1
+[proved]	2
+[mature ]	1
+[surprising ]	3
+[acquiescence ]	1
+[1035]	1
+[child ]	1
+[bastard]	1
+[uniqueness ]	1
+[1180s]	1
+[lincoln ]	1
+[dared ]	4
+[tease ]	1
+[england ]	6
+[tanner]	1
+[blood ]	2
+[veins]	1
+[mother ]	2
+[herleva]	1
+[tanner ]	1
+[falaise]	1
+[strove ]	3
+[nobility ]	2
+[calling ]	1
+[emperor ]	6
+[brother-in-law ]	1
+[through ]	10
+[sister ]	1
+[agnes]	1
+[ascribing ]	1
+[connections ]	3
+[germany]	1
+[constantinople ]	1
+[mind ]	2
+[established]	1
+[history ]	9
+[mundane]	1
+[businesslike]	1
+[inheritance ]	1
+[bargaining ]	1
+[negotiation]	1
+[longer ]	1
+[open ]	4
+[manoeuvres]	1
+[harmony ]	2
+[evaded ]	2
+[achievements ]	3
+[outstanding ]	5
+[indeed ]	4
+[nous ]	1
+[distributed ]	1
+[unpalatable]	1
+[d]	2
+[courts]	4
+[aristocracy ]	6
+[open]	1
+[tranquillity ]	1
+[privacy ]	1
+[size ]	1
+[entourage ]	2
+[frequently ]	1
+[feed ]	1
+[count  ]	1
+[hundred ]	3
+[visit ]	2
+[viscount ]	1
+[ventadour]	1
+[animals]	1
+[expected ]	1
+[gilly]	1
+[germain-des-prés]	1
+[provide ]	5
+[food ]	2
+[dogs ]	1
+[lodging ]	1
+[horses ]	2
+[grooms]	1
+[few ]	6
+[places ]	7
+[afford ]	3
+[entertain ]	1
+[weeks ]	1
+[end]	3
+[march]	1
+[room ]	2
+[ceremonial]	3
+[preuilly ]	1
+[caught ]	3
+[hearing ]	2
+[plea]	1
+[sitting ]	2
+[table]	1
+[steward ]	1
+[huntsman ]	1
+[below]	2
+[carrying ]	2
+[falcon]	1
+[scene ]	1
+[lifestyle ]	1
+[familiar ]	1
+[franks ]	3
+[penetration ]	1
+[gaul]	1
+[informally]	1
+[confirmed ]	6
+[carpet ]	1
+[forester]	1
+[house]	5
+[dirty]	1
+[bloodstained]	1
+[exhausted ]	1
+[brutal ]	1
+[warriors]	3
+[primitive ]	3
+[wooden ]	1
+[castles ]	5
+[austere ]	1
+[refuges]	1
+[sights ]	1
+[roads]	1
+[if]	2
+[pillaged ]	1
+[or]	3
+[caravans ]	1
+[pilgrims ]	2
+[quick ]	1
+[ransoms]	1
+[surprised]	1
+[self-interest]	2
+[companionship ]	3
+[rarely ]	2
+[augustine]	1
+[dictum ]	1
+[bands ]	1
+[brigands ]	1
+[petty ]	2
+[kingdoms ]	1
+[city ]	6
+[god ]	2
+[iv]	4
+[4]	1
+[comprehended ]	1
+[breaks ]	1
+[itinerant ]	1
+[routine]	1
+[festivals ]	2
+[gatherings]	1
+[rich ]	2
+[feasts]	1
+[fine ]	2
+[dress]	2
+[celebrated ]	3
+[easter]	1
+[christmas]	1
+[whitsun ]	1
+[cathedral ]	2
+[centres ]	5
+[territories]	1
+[giving ]	1
+[advance ]	1
+[notice ]	1
+[foregather ]	1
+[christmas ]	1
+[omer]	2
+[dukes]	1
+[counts]	3
+[regions]	1
+[nobles ]	2
+[bishops]	1
+[company]	1
+[rituals ]	1
+[christian ]	3
+[worship ]	2
+[shed  ]	1
+[warm ]	2
+[glow ]	1
+[splendour ]	1
+[welcome]	1
+[special ]	3
+[prayers ]	2
+[genealogies ]	4
+[bertin ]	1
+[aubin]	2
+[suggest ]	3
+[occasionally ]	4
+[call ]	2
+[laudes ]	2
+[regiae ]	1
+[litany ]	2
+[addressed ]	3
+[triumphantly ]	1
+[victorious ]	1
+[christ ]	2
+[divinity ]	1
+[eternal ]	2
+[earth]	2
+[exemplar ]	1
+[guarantor ]	1
+[potentes ]	1
+[upheld ]	1
+[fabric ]	1
+[unitary ]	1
+[pope]	3
+[clergy]	1
+[magnates ]	2
+[served ]	1
+[alive ]	1
+[memory ]	3
+[true ]	6
+[christ]	2
+[representative ]	1
+[realities ]	1
+[bade ]	1
+[obliterate ]	1
+[ranks ]	5
+[powers]	1
+[presumed ]	2
+[explicit]	1
+[allowing ]	2
+[name ]	3
+[introduced ]	1
+[chant ]	1
+[congregation ]	1
+[saints ]	2
+[guarantee ]	3
+[perpetual ]	2
+[arrogance ]	1
+[soon ]	4
+[legitimated ]	2
+[caution ]	1
+[followers ]	2
+[possible ]	8
+[propaganda ]	2
+[portals ]	1
+[festival ]	1
+[days ]	1
+[ones]	2
+[seize ]	1
+[urge ]	1
+[councils]	1
+[abbots ]	2
+[press ]	2
+[protection]	5
+[charters ]	18
+[plentiful ]	2
+[clerical ]	1
+[available ]	3
+[draw ]	3
+[suitably ]	1
+[witnesses]	3
+[friends ]	3
+[allies ]	2
+[discuss ]	2
+[future ]	6
+[strategy]	1
+[consider ]	1
+[alliances]	1
+[disputes]	2
+[heightened ]	2
+[activity]	2
+[atmosphere ]	1
+[redolent ]	1
+[older]	1
+[grander]	1
+[disciplined ]	1
+[ways]	2
+[wore ]	2
+[returning ]	3
+[countryside ]	2
+[standard ]	4
+[living ]	3
+[train ]	1
+[exploit ]	4
+[opportunities]	1
+[revival ]	4
+[facilitated ]	3
+[acquisition ]	1
+[luxuries]	1
+[inevitably]	2
+[trains ]	1
+[lavish ]	2
+[hospitality ]	1
+[monasteries ]	3
+[visited]	2
+[thierry ]	5
+[his  ]	1
+[widow ]	1
+[cnut ]	1
+[denmark]	1
+[rudolph ]	1
+[cleansed ]	1
+[building]	1
+[hung ]	1
+[hangings ]	1
+[tapestries]	1
+[filled ]	2
+[carvings]	1
+[sculptures]	1
+[precious ]	1
+[objects]	1
+[turn ]	4
+[benedictine ]	2
+[environment ]	2
+[reception ]	2
+[magnificent ]	1
+[extravagance ]	1
+[placed ]	2
+[severe ]	1
+[strain ]	1
+[finances]	1
+[expense]	1
+[expectations]	2
+[fécamp]	1
+[bruges]	5
+[limoges]	1
+[chartres]	2
+[dijon ]	1
+[backdrops ]	1
+[displays ]	1
+[grandeur]	1
+[attracting ]	2
+[ostentation ]	1
+[sound ]	2
+[investment]	2
+[friends]	1
+[trusted ]	2
+[servants]	3
+[relied ]	2
+[households ]	6
+[retained ]	2
+[core ]	2
+[nerve-centre ]	1
+[victories ]	1
+[planned]	1
+[duchy ]	6
+[subordination]	2
+[ready ]	2
+[jerusalem ]	7
+[pilgrimage ]	1
+[impressed ]	1
+[byzantium]	2
+[alexius ]	1
+[comnenus]	1
+[martial ]	3
+[bearing ]	2
+[requested ]	1
+[west]	1
+[free ]	6
+[birth ]	4
+[recruits ]	1
+[unfree]	1
+[german ]	2
+[ministeriales ]	1
+[relatives ]	2
+[neighbouring ]	3
+[careers ]	1
+[ranks]	1
+[entourages ]	1
+[effective ]	3
+[melting-pots]	1
+[ceased ]	2
+[exclusive ]	2
+[distinguishing ]	2
+[households]	3
+[countess ]	3
+[adela ]	2
+[issued ]	2
+[noted ]	2
+[capellanus ]	1
+[clerici]	1
+[barones]	1
+[milites ]	1
+[servientes ]	1
+[chaplain ]	3
+[clerks]	6
+[barons]	1
+[chaplain]	1
+[minister ]	2
+[spiritual ]	3
+[letters]	3
+[stephen ]	3
+[wife  ]	1
+[crusade]	5
+[post-conquest ]	1
+[began ]	8
+[bishoprics ]	2
+[1060]	1
+[reminiscent ]	1
+[practice]	3
+[poitiers]	1
+[learned ]	11
+[literate ]	1
+[biographer]	1
+[master]	2
+[chaplains ]	2
+[regularly ]	1
+[combine ]	1
+[roles ]	2
+[secretary]	1
+[teacher]	1
+[propagandist ]	1
+[done]	2
+[explained ]	1
+[rise ]	1
+[officers]	3
+[income ]	2
+[expenditure]	1
+[charge ]	4
+[purse ]	1
+[responsible]	1
+[chamberlains ]	2
+[appeared ]	3
+[everywhere ]	6
+[butlers ]	1
+[stewards ]	1
+[satisfy ]	3
+[material ]	3
+[needs]	3
+[marshals ]	2
+[someone ]	1
+[discharged ]	1
+[duties]	1
+[pointed ]	2
+[developments]	3
+[firstly]	2
+[conscious ]	1
+[imitation ]	1
+[ways ]	3
+[charlemagne ]	3
+[seneschals ]	1
+[stewards]	2
+[secondly]	1
+[administration]	1
+[appointment ]	2
+[officers ]	2
+[reverence ]	1
+[past ]	3
+[respect ]	2
+[efficiency ]	1
+[degree ]	9
+[unparalleled ]	1
+[spreading]	1
+[champagne]	5
+[chamberlains]	1
+[butlers]	1
+[appearance]	1
+[co-operation ]	1
+[holders ]	1
+[status]	3
+[intimate ]	1
+[prominent]	1
+[discharge ]	1
+[governmental ]	1
+[commonest ]	1
+[witnesses ]	2
+[decades ]	3
+[task]	1
+[along ]	6
+[chaplains]	1
+[officials]	4
+[ladies ]	1
+[contingent ]	1
+[boys]	1
+[these]	3
+[involuntarily]	1
+[hostages ]	1
+[behaviour ]	3
+[example]	6
+[treaty]	1
+[allies]	2
+[sake ]	2
+[education ]	3
+[virtues]	1
+[meet ]	2
+[happiness ]	1
+[depend]	2
+[characteristics ]	1
+[english ]	11
+[public ]	10
+[schools ]	4
+[generations]	1
+[set ]	15
+[sporting ]	1
+[hunting]	1
+[combat]	2
+[riding ]	2
+[literacy]	2
+[acquire ]	3
+[learning ]	4
+[educated ]	3
+[ceremony]	1
+[business]	3
+[education]	2
+[sympathized ]	1
+[understood]	1
+[clerks ]	11
+[function ]	5
+[extol ]	1
+[deeds ]	7
+[but]	1
+[einhard]	1
+[assertion ]	1
+[loved ]	1
+[barbarian ]	1
+[poems]	2
+[surely ]	2
+[disconcerted ]	1
+[poitevin ]	1
+[centre ]	2
+[troubadour ]	1
+[poetry]	1
+[distinguished ]	7
+[poet ]	2
+[all]	4
+[dismissed ]	1
+[flemish ]	10
+[hedged ]	1
+[ditched]	1
+[chancellor ]	4
+[audited ]	1
+[accounts]	1
+[mercenary]	1
+[surprised ]	1
+[surprises ]	1
+[us]	2
+[sheer ]	1
+[variety ]	1
+[rhythms]	1
+[stately ]	1
+[ceremonial ]	1
+[buildings ]	1
+[standards]	2
+[unique ]	1
+[personality ]	1
+[sources ]	5
+[1108–1180]	1
+[twelfth ]	21
+[writing ]	2
+[blossomed]	1
+[élite ]	1
+[prerogative ]	2
+[spread ]	2
+[swelling ]	2
+[servants ]	5
+[ordinary ]	2
+[townsmen]	1
+[spread]	1
+[uses ]	1
+[diversified ]	1
+[twelfth-century ]	17
+[attempted ]	1
+[parts ]	1
+[book ]	3
+[17–26]	1
+[124–32]	1
+[impossible]	1
+[necessary]	1
+[renaissance ]	1
+[literary ]	4
+[forms ]	2
+[main ]	1
+[stream ]	1
+[european ]	1
+[cultural ]	2
+[writings ]	2
+[speak ]	1
+[themselves]	2
+[familiarity ]	1
+[deceptive]	1
+[restored ]	2
+[classical ]	5
+[lurk ]	1
+[assumptions ]	1
+[conceded ]	1
+[nineteenth-century ]	1
+[anthropological ]	1
+[interpretations ]	1
+[useful]	1
+[danger ]	1
+[narrowly ]	1
+[juridical ]	1
+[said ]	4
+[historian]	3
+[substantially ]	1
+[simplified ]	1
+[transformation]	1
+[section ]	1
+[attention ]	1
+[aspects ]	2
+[discussion ]	1
+[general ]	2
+[context]	1
+[revealing ]	3
+[culture ]	1
+[gesta ]	18
+[consulum ]	2
+[andegavorum ]	2
+[off ]	4
+[shoot ]	1
+[ambaziensium ]	2
+[dominorum ]	2
+[touraine ]	4
+[edification ]	1
+[skeleton ]	1
+[reliable ]	2
+[originally ]	1
+[compiled ]	2
+[rulers ]	3
+[commemorated ]	1
+[prayers]	1
+[adapted ]	1
+[purpose]	1
+[1109 ]	1
+[marmoutier]	4
+[version ]	4
+[series ]	2
+[biographies ]	1
+[form ]	5
+[liber ]	1
+[pontificalis ]	1
+[compilation ]	1
+[papal ]	3
+[lives ]	1
+[rome ]	1
+[pontificate ]	1
+[especially ]	4
+[adopted ]	1
+[model ]	6
+[dioceses ]	1
+[e.g. ]	1
+[auxerre]	1
+[framework ]	2
+[praise ]	1
+[lineage]	1
+[author ]	6
+[context ]	2
+[lengthy ]	5
+[fairly ]	1
+[conventional ]	2
+[genealogy ]	7
+[kings ]	12
+[tracing ]	1
+[origins ]	6
+[trojans ]	1
+[historians ]	2
+[merovingian ]	3
+[times]	5
+[blend ]	1
+[old-testament-inspired ]	1
+[legendary ]	2
+[vogue ]	1
+[eclectic ]	1
+[circles ]	3
+[period]	1
+[trojan ]	1
+[link ]	2
+[jumièges ]	1
+[boulogne ]	3
+[conceit]	1
+[1120]	1
+[non-royal ]	1
+[trace ]	1
+[ancestry ]	2
+[priam]	1
+[legend ]	2
+[originated ]	1
+[attempts ]	2
+[dark ]	1
+[give ]	2
+[masters ]	1
+[lineage ]	1
+[old ]	11
+[roman ]	11
+[emperors ]	1
+[displaced ]	1
+[continued ]	7
+[houses]	3
+[creates ]	1
+[sharp ]	3
+[contrast ]	4
+[lie ]	1
+[forester ]	2
+[reign ]	11
+[bald]	1
+[first]	1
+[choice ]	2
+[humble ]	3
+[puzzling]	1
+[werner ]	1
+[believes ]	1
+[italian ]	1
+[clear ]	4
+[knew ]	2
+[ingelgerus]	1
+[red]	1
+[indication ]	1
+[block ]	1
+[earlier]	2
+[looser ]	1
+[kinship ]	2
+[human ]	6
+[memory]	1
+[predecessor ]	1
+[imbued ]	1
+[sallustian ]	1
+[learning]	2
+[posit ]	1
+[line ]	2
+[choose ]	2
+[newness]	1
+[roots]	1
+[heroic ]	1
+[rise]	1
+[possible]	3
+[reading ]	1
+[marius]	1
+[contio ]	1
+[sallust]	1
+[associate ]	2
+[inertia]	1
+[virtue]	1
+[thirteenth-century ]	2
+[interesting]	1
+[one]	4
+[having ]	6
+[late-antique ]	1
+[latin ]	1
+[form]	1
+[associations ]	3
+[hunting ]	2
+[appropriate ]	2
+[skills]	1
+[author]	2
+[highlighted ]	3
+[individual ]	2
+[history]	4
+[modem ]	2
+[research ]	1
+[tended ]	1
+[discredit ]	1
+[idea ]	1
+[insist ]	2
+[blue ]	1
+[lines ]	2
+[ever-sharper ]	1
+[obliterating ]	1
+[considerations ]	3
+[forgotten ]	1
+[progress ]	1
+[quite ]	3
+[deeds]	1
+[clearest ]	3
+[comes ]	2
+[gesta]	1
+[treatment ]	2
+[grisegonelle]	3
+[nerra]	1
+[whereas]	1
+[account ]	4
+[preserved ]	4
+[tradition]	3
+[unremarkable ]	1
+[figure]	1
+[undergone ]	1
+[transmogrification]	1
+[chivalric ]	3
+[hero]	1
+[mighty ]	3
+[slayer ]	1
+[danes]	1
+[triumpher ]	1
+[single ]	1
+[victor ]	2
+[invading ]	2
+[hordes]	1
+[halphen]	1
+[edited ]	1
+[text]	1
+[believed ]	1
+[drawing ]	3
+[vernacular ]	1
+[epic]	1
+[manuscript ]	1
+[song ]	2
+[roland ]	1
+[featured ]	1
+[charlemagne]	2
+[standard-bearer]	1
+[figure ]	2
+[legend]	1
+[guise ]	1
+[pinpoints ]	1
+[built ]	2
+[myth]	1
+[apart ]	1
+[portrayed ]	2
+[albeit ]	1
+[colourfully ]	1
+[valiant ]	1
+[defenders ]	2
+[stern ]	3
+[criticism]	1
+[aim ]	5
+[work ]	8
+[demonstrate ]	1
+[fallen ]	1
+[ancestral ]	1
+[glories]	1
+[successors ]	2
+[rectify ]	1
+[errors]	1
+[earliest ]	3
+[finished ]	2
+[1109]	1
+[warning ]	1
+[v.]	1
+[1109. ]	1
+[material]	1
+[amplification]	1
+[thomas ]	1
+[loches]	1
+[bel]	7
+[additions ]	1
+[lies ]	1
+[largely ]	5
+[study ]	5
+[clerk ]	1
+[successor ]	5
+[breton ]	2
+[d'amboise]	1
+[influential ]	3
+[base ]	1
+[amplifications]	1
+[anonymous]	1
+[john ]	11
+[latter]	1
+[dedicated ]	3
+[prologue ]	1
+[bede]	1
+[preface ]	1
+[ceolwulf ]	1
+[people ]	5
+[blending ]	1
+[traditional ]	4
+[backgrounds]	1
+[authors ]	1
+[added ]	1
+[focus ]	2
+[good]	2
+[plagiarizing ]	1
+[martin ]	1
+[tours ]	1
+[saintly ]	1
+[layman ]	1
+[leper]	1
+[helped ]	2
+[sang ]	3
+[offices]	3
+[taunted ]	1
+[clerkly ]	1
+[tastes]	1
+[responded ]	2
+[illiterate ]	3
+[crowned ]	2
+[ass ]	1
+[cliché ]	2
+[favoured ]	2
+[circles]	1
+[sprang ]	2
+[layman]	1
+[adding ]	2
+[story]	1
+[continuators ]	1
+[till ]	3
+[slipping ]	1
+[detailed ]	2
+[events]	2
+[excursus ]	1
+[politics ]	2
+[1118]	1
+[original ]	3
+[epic ]	1
+[style ]	3
+[maintained ]	3
+[description ]	1
+[coronation ]	2
+[1131]	1
+[fulfilment ]	1
+[destiny]	1
+[union ]	1
+[traditions]	1
+[somewhat ]	2
+[daunting ]	1
+[exemplars ]	1
+[ancestors ]	2
+[formidable ]	3
+[portraits ]	1
+[distinctively ]	1
+[gerald ]	3
+[aurillac]	1
+[yearning ]	1
+[cloister]	1
+[sword ]	2
+[wielded ]	1
+[purposes ]	2
+[renown]	1
+[piety ]	2
+[mould]	2
+[obligations ]	2
+[duly ]	1
+[performed]	1
+[chief ]	10
+[functions ]	1
+[consules ]	1
+[weal]	1
+[gravitas ]	1
+[auctoritas ]	1
+[1155]	3
+[turn]	1
+[influenced ]	1
+[versions ]	1
+[canon ]	6
+[florent]	2
+[wrote ]	3
+[warn ]	1
+[repetition ]	1
+[supplicius]	1
+[acts ]	1
+[disloyalty ]	1
+[overlords ]	2
+[ruin ]	1
+[didactic ]	1
+[purpose ]	1
+[narrative]	1
+[immortalize ]	1
+[dynasty ]	3
+[valuable ]	1
+[crucial ]	3
+[domination ]	2
+[hold]	1
+[stratagems ]	1
+[second-rank ]	1
+[determined ]	3
+[maximize ]	2
+[piece ]	2
+[contrivance ]	1
+[device ]	1
+[contrasts ]	1
+[model]	3
+[together]	2
+[works ]	1
+[bear ]	1
+[witness ]	2
+[originality ]	2
+[liveliness ]	1
+[loire ]	2
+[valley ]	2
+[height ]	1
+[renaissance]	2
+[feoda ]	6
+[campanie ]	1
+[1172 ]	1
+[order]	4
+[liberal  ]	1
+[tidy ]	1
+[innovative ]	4
+[alert ]	1
+[potential ]	7
+[acquiring]	1
+[recording ]	1
+[categorizing ]	1
+[information]	2
+[discover ]	1
+[names ]	3
+[resident ]	1
+[county]	8
+[liege ]	3
+[inquest]	1
+[procedure ]	2
+[establishing ]	2
+[procuring ]	1
+[statements ]	3
+[oath]	1
+[domesday ]	1
+[inspiration]	1
+[eastern ]	2
+[collected ]	1
+[sorted]	1
+[results ]	2
+[list ]	4
+[treasury ]	2
+[etienne ]	1
+[troyes]	3
+[1190]	1
+[kept ]	3
+[up-to-date]	2
+[copy ]	2
+[outremer]	3
+[inhibited ]	1
+[changes ]	1
+[left ]	3
+[consulted ]	1
+[statement ]	1
+[custom]	1
+[record]	1
+[henry]	4
+[contains ]	1
+[1,900 ]	1
+[ranging ]	1
+[aristocrats ]	1
+[landless ]	1
+[grouped ]	1
+[headings ]	1
+[twenty-six ]	1
+[castellanies ]	3
+[grouping ]	1
+[demonstrates ]	1
+[conception ]	1
+[geography ]	1
+[double-listed ]	1
+[doubt ]	4
+[rightful ]	2
+[therefore]	4
+[heading ]	1
+[fief-holders ]	2
+[appear]	3
+[crystallize ]	1
+[castellanies]	1
+[inquest ]	7
+[clarified ]	1
+[internal ]	3
+[boundaries]	1
+[certainly ]	4
+[compelled ]	2
+[extent ]	2
+[perceived ]	2
+[truth ]	2
+[asking ]	1
+[questions ]	1
+[consolidating ]	2
+[respondents  ]	1
+[acknowledged ]	1
+[war]	4
+[noticeably ]	2
+[demanding]	1
+[adequately ]	1
+[defended]	1
+[correlation ]	1
+[total]	1
+[inquests ]	1
+[percentage]	1
+[liegelordship ]	1
+[superior ]	2
+[allegiances ]	1
+[must]	1
+[conflict]	3
+[yield]	1
+[advanced ]	2
+[completely ]	1
+[outclassed ]	1
+[recently ]	3
+[evergates]	1
+[betrays ]	1
+[liberal]	1
+[feudalism ]	1
+[contract ]	2
+[holder ]	1
+[specified ]	1
+[amount ]	2
+[privilege]	1
+[and]	1
+[cases ]	2
+[overriding]	1
+[embraced]	1
+[complicated ]	4
+[inhibiting ]	2
+[factor]	1
+[dispense ]	1
+[largess ]	1
+[acceptable ]	1
+[somehow ]	1
+[overcome ]	2
+[opposition]	1
+[capitalize ]	3
+[feoda]	1
+[makes ]	3
+[fees ]	1
+[seem ]	4
+[coincidental]	1
+[torigny ]	1
+[proceedings ]	4
+[thus]	1
+[processes ]	3
+[identical]	1
+[enough ]	3
+[method ]	3
+[assumption ]	2
+[cross-fertilization]	1
+[bureaucrats ]	1
+[willing ]	1
+[learn ]	1
+[lessons ]	1
+[fellows ]	1
+[boundaries ]	1
+[preparing ]	1
+[closer ]	1
+[integration ]	2
+[provinces ]	1
+[finally]	1
+[comment ]	2
+[proliferation ]	3
+[country]	2
+[increased ]	5
+[archives ]	1
+[cartularies ]	1
+[common]	2
+[notably ]	3
+[montpellier]	2
+[preserve ]	1
+[importantly]	1
+[incentives ]	1
+[judgements ]	3
+[enshrined ]	1
+[writing]	2
+[everywhere]	2
+[changes]	1
+[small]	3
+[strongly ]	2
+[fellows]	1
+[reliance ]	2
+[verbal ]	1
+[policy]	1
+[elasticity ]	1
+[interpretation ]	5
+[clearly-defined ]	1
+[limits]	1
+[now]	2
+[rising ]	1
+[mobility]	1
+[wider ]	2
+[processes]	2
+[contract]	2
+[bel ]	7
+[preamble ]	1
+[happens ]	1
+[ever ]	1
+[reach ]	3
+[next ]	2
+[unless ]	1
+[committed ]	2
+[communities]	5
+[towns]	8
+[groups ]	3
+[peasants]	2
+[won ]	4
+[struggles ]	2
+[properly ]	1
+[sealed ]	1
+[attested ]	2
+[vain]	1
+[nobody]	1
+[victory ]	1
+[prolonged]	1
+[underlying ]	1
+[actual ]	1
+[proceedings]	1
+[gradually ]	2
+[inclined ]	2
+[perceive ]	1
+[lying ]	1
+[precedent]	1
+[principle]	2
+[record ]	2
+[given ]	5
+[prima-facie ]	1
+[vierzon ]	1
+[florent ]	1
+[saumur ]	1
+[1105]	1
+[judges ]	2
+[confined ]	4
+[inspecting ]	1
+[documents ]	3
+[delivering ]	1
+[verdict ]	2
+[favour]	3
+[fear ]	3
+[forgery]	1
+[lawcourts ]	1
+[naturally ]	4
+[incentive ]	1
+[forge]	1
+[never ]	5
+[documentary ]	2
+[deficiency]	1
+[containing ]	1
+[easy ]	2
+[scriptoria ]	2
+[styles ]	1
+[spotting ]	1
+[inauthentic ]	1
+[scholar ]	1
+[fraud ]	1
+[out]	2
+[answer]	2
+[partial ]	1
+[insistence ]	2
+[proper ]	4
+[confirmation ]	4
+[legitimate ]	1
+[empire ]	3
+[chancery]	3
+[production]	1
+[chanceries ]	3
+[evolved ]	1
+[output ]	1
+[welcomed ]	3
+[population ]	3
+[formulae ]	2
+[assurance ]	1
+[authenticity]	1
+[demand ]	2
+[switched]	1
+[locally ]	1
+[attachment ]	1
+[seal]	1
+[office]	1
+[chancery ]	6
+[standardized ]	1
+[output]	1
+[streamlined ]	2
+[cutting ]	1
+[prologues]	1
+[business ]	1
+[succinctly ]	2
+[adapting ]	1
+[wares ]	1
+[evolving ]	1
+[anglo-norman ]	2
+[vanguard ]	1
+[writs ]	2
+[commands ]	1
+[king-duke]	3
+[instrument ]	1
+[central ]	3
+[localities ]	1
+[innovation]	2
+[throne ]	3
+[1154]	1
+[pyrenees ]	1
+[canche]	1
+[crisp ]	1
+[dispositive ]	2
+[displace ]	1
+[random ]	3
+[recordings]	1
+[legal]	1
+[administrative]	1
+[ease ]	1
+[lacking ]	1
+[writs]	2
+[letters ]	2
+[everyday ]	4
+[affairs]	2
+[language ]	1
+[intended ]	3
+[express ]	1
+[realities]	1
+[scribes ]	1
+[eyes ]	2
+[lawcourts]	1
+[current ]	1
+[situation]	3
+[tangible ]	1
+[concerns ]	1
+[definition]	2
+[government ]	7
+[world ]	4
+[understanding ]	1
+[pragmatism ]	1
+[bears ]	1
+[inbuilt ]	1
+[limitation]	1
+[productions ]	1
+[revealingly ]	1
+[note ]	1
+[self ]	1
+[justification]	1
+[expression ]	1
+[highly ]	3
+[flashed ]	1
+[commonplace]	1
+[formative ]	3
+[trends ]	1
+[power]	3
+[naming ]	1
+[heir ]	1
+[= ]	2
+[ludovicus ]	1
+[clovis]	1
+[consciously ]	1
+[aspired ]	1
+[glories ]	1
+[destiny ]	1
+[mapped ]	1
+[forcefully ]	1
+[reminded ]	2
+[decade ]	2
+[reign]	7
+[adviser ]	3
+[suger]	12
+[denis ]	7
+[1122 ]	1
+[1151]	1
+[consumed ]	1
+[passionate ]	1
+[devotion ]	2
+[monarchy ]	2
+[suger ]	16
+[louis]	10
+[bishop]	2
+[chapter]	1
+[beauvais ]	1
+[began]	1
+[heavenly ]	1
+[franks]	3
+[matched ]	1
+[confident ]	2
+[will]	1
+[inaugurated ]	2
+[investiture ]	1
+[greeting ]	1
+[doubly ]	1
+[remarkable]	1
+[head ]	3
+[pen ]	1
+[benedict ]	1
+[aniane]	1
+[benedict]	1
+[austerity ]	1
+[reforming ]	1
+[zeal ]	1
+[missing ]	2
+[counterpart]	3
+[commitment ]	2
+[abstract ]	7
+[notion ]	4
+[undivided ]	1
+[imperial ]	3
+[s ]	1
+[sharper ]	1
+[terrestrial ]	1
+[hierarchy]	3
+[for]	2
+[pseudo-dionysius]	2
+[ordering ]	2
+[pseudo-dionysians ]	1
+[translated ]	1
+[abstractions ]	1
+[concepts ]	3
+[directly  ]	1
+[secondly ]	1
+[proclaimed ]	2
+[views ]	1
+[vii]	17
+[x ]	4
+[protest ]	1
+[meddling ]	1
+[words]	1
+[auvergne ]	4
+[fault]	1
+[holds ]	1
+[you]	1
+[belief ]	1
+[offices ]	1
+[counties ]	2
+[intermediary]	1
+[reasserting ]	2
+[supremacy ]	1
+[deaf ]	1
+[grapple ]	1
+[practical ]	2
+[consequences ]	1
+[illogical ]	1
+[any]	1
+[persuaded ]	1
+[begin ]	1
+[completed ]	1
+[augustus ]	2
+[extricating ]	1
+[bonds ]	3
+[realm]	7
+[considered ]	1
+[preliminary ]	1
+[sovereignty]	1
+[depriving ]	1
+[risked ]	1
+[isolating ]	1
+[solution ]	3
+[problem ]	2
+[creative ]	1
+[intelligence ]	1
+[work]	1
+[denis]	5
+[oldest ]	1
+[revered ]	1
+[burial ]	1
+[ground ]	3
+[kings]	6
+[exception ]	2
+[buried ]	1
+[confines]	1
+[devoted ]	3
+[rebuilding ]	2
+[abbey ]	10
+[hailed ]	2
+[prototype ]	1
+[gothic ]	1
+[architecture]	2
+[fit ]	1
+[mausoleum]	1
+[insight ]	1
+[grandeur ]	1
+[foolhardy ]	1
+[abelard ]	1
+[apostle ]	1
+[martyr ]	1
+[gauls]	1
+[sixth-century ]	1
+[syrian ]	1
+[mystic]	1
+[famous  ]	1
+[writings]	1
+[celestial ]	1
+[hierarchies ]	2
+[theory ]	3
+[integrating ]	2
+[structure ]	1
+[influence]	2
+[step]	1
+[surprisingly]	2
+[ingenious ]	1
+[cover-up ]	1
+[wholly ]	1
+[honest ]	1
+[self-enrichment]	1
+[ceded ]	1
+[vexin ]	2
+[français]	1
+[natural ]	3
+[bulwark ]	1
+[hostile ]	1
+[formed ]	4
+[simon ]	1
+[crépy]	1
+[state ]	2
+[216]	1
+[reclaimed ]	1
+[crown ]	12
+[origin ]	1
+[bypassed ]	1
+[granting ]	1
+[1119 ]	1
+[secured]	1
+[1122]	1
+[reinterpreted ]	1
+[vexin]	1
+[both]	1
+[liegeman]	1
+[saint]	1
+[1124]	4
+[threat ]	1
+[invasion]	2
+[bore ]	3
+[troops]	2
+[later]	2
+[owe ]	1
+[dimension ]	1
+[essentially ]	2
+[kingship ]	4
+[stage]	1
+[scepticism ]	1
+[historical ]	1
+[our ]	4
+[vi]	9
+[inescapable ]	1
+[outpourings ]	1
+[indulgent ]	1
+[smile]	1
+[cloistered ]	1
+[academic]	1
+[1152]	2
+[many  ]	1
+[impress ]	1
+[theories ]	1
+[dare ]	1
+[scoff]	1
+[doctrine ]	2
+[timely]	1
+[movement ]	5
+[new]	2
+[divide ]	1
+[temporal ]	3
+[spiritual]	1
+[forcing ]	1
+[authorities ]	1
+[redefine ]	1
+[self-image]	1
+[frederick ]	2
+[barbarossa]	1
+[theocracy ]	1
+[develop ]	1
+[inherent ]	2
+[fewer ]	2
+[go ]	1
+[far]	2
+[vision ]	2
+[divinely ]	1
+[harmony]	1
+[below ]	3
+[martyrs ]	2
+[rung ]	2
+[serried ]	1
+[enveloped ]	1
+[offended ]	1
+[whiff ]	1
+[mortal]	1
+[gate ]	1
+[susceptibilities ]	1
+[reformers]	2
+[happy ]	3
+[fresh]	1
+[imitated ]	2
+[histories ]	1
+[successor]	1
+[odo ]	1
+[deuil ]	1
+[established ]	7
+[norms ]	1
+[historiography]	1
+[light ]	1
+[image ]	4
+[projected ]	1
+[consistently ]	1
+[conservative]	1
+[dynasty]	2
+[holy ]	3
+[preservers ]	1
+[kingdom]	2
+[integrity]	1
+[faithful ]	1
+[battlers ]	1
+[tyrants]	1
+[deeply ]	1
+[irritating ]	1
+[rivals]	2
+[nonsense]	1
+[touched ]	1
+[scrofula]	1
+[guibert ]	2
+[nogent ]	1
+[disapproved ]	2
+[flocked ]	1
+[for  ]	1
+[cure]	1
+[holiness]	1
+[sign ]	1
+[helgaud]	1
+[miracle-worker ]	1
+[charisma ]	1
+[pillar ]	1
+[kingship]	2
+[bolstered ]	1
+[mundane ]	1
+[vigour ]	2
+[annual ]	1
+[average ]	1
+[12.1 ]	1
+[3.6 ]	1
+[philip]	2
+[recipients]	1
+[permitting ]	1
+[uniformity]	1
+[note]	1
+[geographical ]	1
+[expanded ]	3
+[including ]	2
+[before]	1
+[eleanor]	2
+[duchess ]	1
+[meant ]	2
+[poitou ]	1
+[endeavours ]	1
+[resulted ]	3
+[berry ]	2
+[thirdly]	1
+[traditionally ]	1
+[records ]	3
+[command]	1
+[mandements ]	1
+[returned ]	1
+[practices]	1
+[energy ]	2
+[outran ]	1
+[revitalization ]	1
+[son]	3
+[dramatic ]	2
+[extension ]	3
+[visitations ]	1
+[pretexts ]	1
+[visiting ]	1
+[various]	1
+[specifically ]	1
+[reclaim ]	1
+[hospitality]	2
+[said]	1
+[splendid ]	1
+[procession ]	1
+[inauguration ]	1
+[repeat ]	1
+[southerners ]	1
+[mark ]	3
+[as  ]	3
+[bordeaux]	1
+[penetrated ]	1
+[issue ]	1
+[rave ]	1
+[lasting ]	1
+[friendships ]	1
+[reap ]	1
+[benefits]	1
+[compostela]	1
+[equally ]	4
+[unprecedented]	1
+[fruitful]	1
+[contact ]	1
+[brother-in-law]	1
+[narbonne ]	1
+[province]	3
+[1173]	2
+[diploma ]	1
+[bringing ]	2
+[agde ]	1
+[interventions ]	1
+[forceful]	1
+[expeditions ]	3
+[1166 ]	1
+[1171 ]	2
+[undertaken ]	2
+[protect ]	3
+[suppress ]	3
+[schismatics]	1
+[anti-pope ]	1
+[resistance ]	2
+[relief ]	1
+[skill]	1
+[considerable ]	3
+[incidental ]	1
+[profit]	1
+[unvisited ]	1
+[nevers]	6
+[mâcon ]	1
+[heel]	1
+[burgundian ]	2
+[appealed ]	1
+[mediation ]	1
+[quarrels ]	1
+[theirs]	1
+[forez]	1
+[emperor]	1
+[forez ]	1
+[benefits ]	1
+[acquired ]	5
+[wily ]	1
+[diplomacy]	1
+[perceptive ]	1
+[gauge ]	1
+[influence ]	3
+[avoided ]	1
+[bullying ]	1
+[tactics ]	2
+[employ]	1
+[modest ]	3
+[pursuits ]	2
+[remarkable ]	2
+[augustus]	4
+[domineering ]	1
+[interventions]	1
+[expand ]	2
+[circle ]	1
+[fideles ]	3
+[objective ]	3
+[oaths ]	1
+[loyalty ]	1
+[crown]	3
+[unrealistic ]	1
+[aspiration]	1
+[succeed ]	1
+[rear-vassals]	1
+[suggested ]	3
+[dramatically ]	1
+[increase  ]	1
+[persons ]	2
+[achievement ]	3
+[enter ]	1
+[garde ]	1
+[clermont]	2
+[puy]	1
+[mende ]	1
+[category]	1
+[massif ]	2
+[opened ]	2
+[bishopric ]	1
+[arras ]	1
+[patronage ]	2
+[1128 ]	1
+[inglorious ]	1
+[succession]	2
+[1180]	4
+[oppressors]	1
+[closely ]	1
+[connected ]	1
+[extend]	1
+[inauspiciously]	1
+[customary]	1
+[scruples ]	1
+[overcome]	1
+[objection ]	1
+[changing ]	1
+[meaning]	1
+[1106]	1
+[orderic ]	1
+[vii ]	12
+[imposing ]	1
+[1158]	1
+[swore ]	1
+[equivocation ]	1
+[allowed ]	8
+[consolidation]	1
+[gascony ]	1
+[included ]	1
+[rouergue]	1
+[gothia]	3
+[provence ]	2
+[effortlessly ]	1
+[extended ]	2
+[glory ]	1
+[holding ]	1
+[assemblies ]	4
+[whole  ]	1
+[because]	2
+[unlike ]	1
+[face ]	3
+[corporate ]	2
+[body ]	3
+[provide]	1
+[gatherings ]	1
+[assembly ]	2
+[orléans ]	2
+[1077]	1
+[meetings ]	1
+[1155 ]	3
+[attended ]	1
+[troyes ]	1
+[addition ]	2
+[legislating ]	1
+[do]	1
+[regnum ]	1
+[ambiguous ]	1
+[mean ]	1
+[accordance ]	3
+[twentieth ]	1
+[lateran ]	4
+[council ]	2
+[1139]	1
+[violation ]	2
+[consented ]	1
+[dominions ]	1
+[necessarily ]	2
+[toto ]	1
+[alteration]	1
+[action ]	2
+[lacked ]	2
+[forceful ]	2
+[capitularies]	1
+[whereby ]	1
+[moral ]	2
+[norms]	1
+[commoner ]	2
+[coordinating ]	1
+[plans ]	1
+[when]	1
+[debate ]	1
+[battle-lines]	1
+[abandon ]	1
+[campaign]	1
+[1124 ]	2
+[united]	1
+[wars ]	5
+[command ]	2
+[excuses ]	1
+[failures ]	1
+[attend ]	1
+[abounded]	2
+[irregular ]	1
+[incidence ]	2
+[attendance]	1
+[golden ]	1
+[dissemination ]	1
+[propaganda]	1
+[public]	1
+[288]	1
+[depict ]	1
+[campaigns ]	5
+[defence ]	3
+[precedent ]	1
+[mints ]	1
+[circulate ]	1
+[admittedly]	1
+[circulation ]	1
+[rivals ]	1
+[powerful]	1
+[restoration ]	1
+[inside ]	3
+[impressive ]	1
+[operating ]	2
+[296]	1
+[acting]	1
+[capacity]	1
+[frontiers]	1
+[failing ]	1
+[get ]	1
+[1153]	1
+[langres ]	2
+[four ]	2
+[summonses ]	1
+[excuses]	1
+[default ]	1
+[long-term ]	3
+[conflict ]	2
+[achieved]	2
+[still]	3
+[important]	1
+[council]	4
+[right]	2
+[assembly]	1
+[prosecuting ]	1
+[violence ]	2
+[rank]	1
+[1108–9]	1
+[led ]	3
+[bourbon]	1
+[submission ]	1
+[arbitrate]	1
+[employing ]	1
+[persuasion ]	1
+[according ]	5
+[involved]	1
+[agreed ]	2
+[quarrel ]	3
+[ended ]	1
+[arbitration]	1
+[success]	1
+[teams ]	1
+[mediators]	1
+[methods ]	2
+[conclusions ]	1
+[set]	1
+[second]	1
+[vézelay]	4
+[to  ]	1
+[participate ]	2
+[settlement]	1
+[insisted ]	2
+[failed]	1
+[treated ]	1
+[punished ]	2
+[accordingly]	1
+[drag ]	1
+[reigns ]	2
+[turning-point ]	1
+[decline]	1
+[steps ]	1
+[restoration]	1
+[limoges ]	2
+[c.1137 ]	1
+[ended]	1
+[despise ]	1
+[orders ]	1
+[lose ]	1
+[incur ]	1
+[displeasure]	1
+[threat]	1
+[displeasure ]	1
+[worthy ]	1
+[consideration]	1
+[inevitable ]	1
+[justified ]	2
+[innovations ]	1
+[resumptions]	1
+[lurked ]	1
+[applied ]	1
+[immunity ]	2
+[respecters ]	1
+[entrenched ]	1
+[vested ]	1
+[interests]	4
+[whereas ]	1
+[static]	1
+[elastic]	1
+[skilful ]	1
+[manipulation ]	1
+[grew]	1
+[expedition]	2
+[mentioned]	1
+[1171]	1
+[monastery ]	2
+[respond ]	1
+[1119]	2
+[seek ]	1
+[violate ]	1
+[immunity]	3
+[turned ]	2
+[distant ]	2
+[guardianship]	1
+[unwillingly]	1
+[discipline ]	3
+[mâcunnais ]	1
+[memories ]	1
+[950]	1
+[effectively]	1
+[stressing ]	1
+[evil]	1
+[subdued ]	1
+[toured ]	1
+[castles]	2
+[remind ]	1
+[long-forgotten ]	1
+[monopoly ]	3
+[authorities]	2
+[new  ]	1
+[pariage ]	2
+[agreement ]	3
+[chapter ]	2
+[enclave ]	2
+[nucleus]	1
+[1239]	1
+[annexed ]	1
+[lordship]	3
+[stake]	1
+[unmistakable]	1
+[illustrated ]	1
+[expanding ]	3
+[bishoprics]	1
+[looks ]	1
+[regain ]	1
+[1150 ]	1
+[conservative ]	1
+[complaints ]	2
+[secure ]	4
+[foothold ]	1
+[equally]	3
+[disputed ]	1
+[election ]	1
+[1138 ]	1
+[1179]	1
+[caries ]	1
+[sets ]	2
+[tooth]	2
+[enamel ]	1
+[spreads ]	1
+[rot ]	1
+[appeal ]	5
+[trigger ]	2
+[decay ]	1
+[autonomy]	2
+[opportunism ]	1
+[leading ]	1
+[1146 ]	1
+[asked ]	1
+[confirm ]	1
+[trinité ]	1
+[inserted ]	1
+[clause ]	1
+[designed ]	1
+[deter ]	1
+[causing ]	2
+[depredations]	1
+[reservation ]	1
+[procuration]	1
+[no  ]	1
+[hithertofore ]	1
+[there]	1
+[quid ]	1
+[pro ]	1
+[quo ]	1
+[habit ]	1
+[inserting ]	1
+[prohibition ]	2
+[religious ]	1
+[theft]	1
+[motive ]	1
+[desire ]	1
+[law]	10
+[1139 ]	1
+[forbidden ]	1
+[corporal ]	1
+[capital ]	1
+[penalties]	1
+[high-minded]	1
+[served]	1
+[disappearing ]	1
+[consolidated ]	2
+[masked ]	1
+[weak]	1
+[aggression]	1
+[systematic ]	2
+[pursuit ]	1
+[self-interest ]	1
+[seemed ]	1
+[break ]	1
+[trends]	1
+[clearer ]	1
+[broader ]	1
+[canvas ]	2
+[drew ]	3
+[achievements]	1
+[effected ]	2
+[during ]	2
+[corona ]	2
+[describe ]	2
+[intact ]	1
+[generation]	4
+[impersonal ]	2
+[durable ]	1
+[phrase ]	2
+[regni ]	1
+[pretension ]	1
+[dear ]	1
+[heart ]	1
+[map]	2
+[reflecting ]	1
+[namesake ]	1
+[deep ]	1
+[depression]	1
+[1108 ]	1
+[marking ]	1
+[turning-point]	1
+[vi  ]	1
+[beneficial ]	1
+[responsible ]	1
+[direction ]	1
+[nineteenth- ]	1
+[twentieth-century ]	1
+[luchaire]	1
+[communes ]	1
+[burghers ]	2
+[spurred ]	1
+[concur ]	1
+[wholeheartedly ]	1
+[terminology ]	1
+[arguments ]	1
+[luchaire ]	1
+[school]	1
+[correct ]	1
+[premise]	1
+[juridically ]	1
+[coutumes ]	1
+[broadened ]	1
+[previously ]	1
+[broadening ]	1
+[nature]	1
+[rural ]	3
+[cleared ]	1
+[territory]	2
+[isolated ]	1
+[tillers ]	2
+[soil ]	1
+[neighbours]	3
+[ecclesiastical]	1
+[colonized ]	1
+[villages ]	3
+[replaced ]	1
+[hamlets]	1
+[villages]	1
+[rochelle]	1
+[1130]	1
+[port ]	1
+[export ]	1
+[gascon ]	1
+[wines ]	1
+[employment ]	2
+[immigrants]	1
+[settlement ]	3
+[rapidly ]	4
+[mary ]	1
+[magdalen]	1
+[thronged ]	1
+[programme ]	1
+[carried ]	1
+[resulting ]	1
+[finest ]	1
+[romanesque ]	1
+[sculpture ]	1
+[pilgrims]	1
+[walls ]	2
+[innkeepers]	1
+[victuallers ]	1
+[sorts]	1
+[mercers]	1
+[money-changers]	1
+[similarly ]	1
+[cities ]	5
+[languedoc]	1
+[regained ]	1
+[truly ]	1
+[urban ]	8
+[character]	2
+[pared ]	1
+[walls]	3
+[market ]	1
+[townsmen ]	1
+[outnumbered ]	1
+[clerics]	1
+[streets ]	1
+[roads ]	1
+[levelled ]	2
+[prevent ]	2
+[rubbish ]	1
+[blocking ]	1
+[entrances ]	1
+[stone ]	2
+[churches ]	2
+[entrance ]	1
+[trades ]	1
+[diversified]	1
+[immigrants ]	1
+[poured ]	1
+[in]	1
+[cloth ]	2
+[urban-based ]	1
+[industry]	1
+[transformation ]	2
+[ghent]	3
+[ypres]	1
+[lille ]	1
+[greatest ]	2
+[northern ]	1
+[europe ]	1
+[startling]	1
+[congregations ]	1
+[units]	1
+[suffice]	1
+[foundations]	1
+[famous]	1
+[earliest]	1
+[laon ]	2
+[wine ]	2
+[laon]	3
+[irritated ]	1
+[servile ]	3
+[taxes]	1
+[sum ]	1
+[archdeacons]	1
+[nobles]	1
+[privilege ]	3
+[commune ]	2
+[association ]	1
+[self-protection]	1
+[1112]	2
+[gaudry ]	1
+[commune]	2
+[nogent]	1
+[raconteur]	1
+[26 ]	1
+[day ]	1
+[burghers]	3
+[resentment ]	1
+[boiled ]	1
+[rebellion]	1
+[slaughter ]	1
+[followed]	2
+[slain]	1
+[punish ]	2
+[1128]	2
+[sum]	1
+[recognition ]	2
+[association]	1
+[confraternity ]	1
+[self-government]	1
+[charges ]	1
+[serfs]	2
+[guaranteed ]	2
+[foundation ]	1
+[liberties]	4
+[revolution ]	1
+[commonest]	1
+[disturbance ]	1
+[speedy ]	1
+[results]	1
+[classic ]	1
+[1127]	2
+[informed ]	1
+[galbert]	1
+[notary ]	1
+[events ]	1
+[occurred]	1
+[betraying ]	1
+[humanity ]	1
+[reflectiveness ]	1
+[dean ]	1
+[donatian]	2
+['s]	1
+[ex ]	1
+[officio ]	1
+[erembalds]	2
+[risen ]	1
+[prominence ]	2
+[route ]	1
+[aroused ]	2
+[jealousy ]	1
+[refused ]	2
+[erembalds ]	1
+[accusers]	1
+[lowly ]	3
+[barred ]	2
+[allegation ]	2
+[sympathetic ]	1
+[murdered ]	1
+[chaos ]	1
+[charles  ]	1
+[cousins ]	1
+[roughly ]	1
+[equal ]	2
+[intervened ]	1
+[behalf ]	1
+[clito]	2
+[curthose]	4
+[claimant ]	1
+[looked ]	1
+[clito ]	5
+[candidacy ]	1
+[feared ]	3
+[unassailable ]	1
+[risk ]	1
+[antagonizing ]	1
+[cared ]	2
+[take]	1
+[disruption ]	1
+[wool ]	1
+[1125]	1
+[ypres ]	2
+[excuse]	1
+[ghent ]	2
+[bruges ]	3
+[pressing ]	1
+[alsace]	1
+[aid]	1
+[wounds ]	1
+[thierry]	2
+[upheld]	1
+[lesson ]	1
+[emerge ]	2
+[affected ]	2
+[outside]	1
+[precocity ]	1
+[displayed ]	1
+[candidate ]	1
+[industrial ]	2
+[rulers]	2
+[allying ]	1
+[1127–8 ]	1
+[importance]	1
+[endeavour ]	1
+[issuing ]	1
+[aire-sur-lys]	1
+[omer ]	1
+[survives]	1
+[included]	1
+[clauses ]	1
+[freedom ]	1
+[dwellers ]	1
+[abolition ]	1
+[duel]	1
+[unpopular ]	1
+[merchants]	1
+[enlarged ]	1
+[competence ]	3
+[échevins ]	4
+[boni ]	5
+[homines ]	5
+[scabini ]	1
+[re-established ]	1
+[alsace ]	6
+[safely ]	1
+[ensconced ]	1
+[subvert ]	3
+[well]	1
+[fix ]	1
+[community]	3
+[emancipation ]	1
+[external ]	2
+[slow]	1
+[steady ]	1
+[accumulation]	1
+[shrank ]	1
+[emerged ]	1
+[1120 ]	1
+[figures]	1
+[enhanced ]	1
+[salvamenta ]	1
+[movement]	3
+[uniting ]	1
+[day-to-day ]	3
+[management ]	1
+[his]	1
+[talage]	1
+[unlimited ]	1
+[loans ]	2
+[1147]	3
+[accumulate ]	1
+[shocked ]	1
+[resumption ]	1
+[provoked ]	3
+[1189]	1
+[establishment ]	1
+[consulate ]	1
+[city]	1
+[final ]	2
+[cities]	2
+[commercial ]	1
+[launched ]	3
+[privileges]	2
+[leaders ]	1
+[why ]	3
+[weaving ]	1
+[concentrated ]	1
+[necessary ]	4
+[cottage ]	1
+[industry ]	1
+[1196]	1
+[dowager ]	1
+[matilda]	1
+[ensured ]	4
+[barriers ]	1
+[obstruct ]	1
+[competent ]	3
+[wished ]	2
+[formal ]	2
+[broken]	1
+[town  ]	1
+[governors]	1
+[literacy ]	2
+[cope ]	1
+[challenges]	1
+[supplemented ]	2
+[skills ]	1
+[notaries ]	1
+[galbert ]	1
+[complex ]	1
+[administration ]	1
+[repairing ]	1
+[water ]	1
+[supplies]	1
+[ejecting ]	1
+[waste]	1
+[punishing ]	2
+[offenders]	1
+[streets]	1
+[supplied]	1
+[culminating ]	1
+[diverse ]	1
+[activity ]	1
+[erected ]	1
+[belfries ]	1
+[bells ]	1
+[rival ]	1
+[summoning ]	1
+[flock ]	1
+[meet]	1
+[smaller ]	1
+[generally ]	1
+[couched ]	1
+[negative ]	1
+[defining ]	1
+[prevented ]	1
+[exactions]	1
+[prohibitions ]	2
+[limitations ]	1
+[overlord]	2
+[citizens]	1
+[montfalcon ]	1
+[serf ]	1
+[tried ]	2
+[bourges]	3
+[native ]	1
+[assumed ]	2
+[binding ]	1
+[bourges ]	2
+[community ]	3
+[vital ]	1
+[sense]	1
+[rules ]	5
+[inhabitants]	1
+[making]	1
+[areas]	1
+[contributory ]	1
+[vines ]	1
+[outskirts ]	1
+[unpredictable ]	1
+[seigneurial ]	3
+[exactions ]	1
+[intolerable ]	1
+[agriculture ]	1
+[planning ]	1
+[essential]	1
+[bestow]	1
+[lorris ]	2
+[parishioner ]	1
+[consumption ]	1
+[grain ]	1
+[grown ]	1
+[labour]	1
+[exempt ]	1
+[etampes]	2
+[orléans]	2
+[milly]	1
+[melun]	1
+[return  ]	1
+[home ]	2
+[day]	3
+[labour ]	2
+[twice ]	2
+[burgesses ]	1
+[exempted ]	1
+[tailles ]	1
+[concessions]	1
+[ideally ]	1
+[suited ]	1
+[publicity ]	1
+[lorris]	2
+[privileged ]	3
+[haphazard ]	1
+[seem]	1
+[strong]	3
+[paris]	1
+[self-government ]	3
+[limited]	1
+[rouen ]	1
+[1160 ]	1
+[1170]	1
+[empire]	1
+[permitted ]	1
+[mayor ]	2
+[submitted ]	1
+[protected ]	2
+[exert]	1
+[condition ]	1
+[interplay ]	1
+[factors ]	1
+[complex]	1
+[institutions ]	1
+[tight]	1
+[authority ]	9
+[negligible]	1
+[clashes ]	1
+[vicecomital ]	1
+[self-determination ]	1
+[franchises ]	2
+[perpetuity]	1
+[exaction]	1
+[explosive ]	1
+[amenable ]	1
+[bargaining]	1
+[needed ]	4
+[concessions ]	2
+[suffered ]	2
+[extortion]	1
+[recover ]	1
+[losing ]	1
+[condition  ]	1
+[community']	1
+[extremes ]	1
+[coming ]	1
+[serfdom ]	1
+[rigours]	1
+[safeguards ]	1
+[exploitative ]	1
+[non-existent]	1
+[pragmatic ]	3
+[franchise ]	1
+[game ]	1
+[preserving ]	1
+[subverting ]	1
+[embarrassing ]	1
+[alphonse ]	2
+[jourdain ]	2
+[rebellious ]	3
+[tallage ]	1
+[outweighed ]	1
+[appreciated ]	1
+[possibilities ]	1
+[consummate ]	1
+[skill ]	4
+[limiting ]	2
+[favouring ]	1
+[elsewhere ]	2
+[remarked]	2
+[cynical ]	1
+[suppression ]	1
+[revolt ]	1
+[rebels]	3
+[ponce ]	2
+[unyielding ]	1
+[maintain ]	3
+[self-interested ]	1
+[neighbourhood]	1
+[autun]	1
+[hoped ]	1
+[reabsorb ]	1
+[resented ]	1
+[legalistic ]	1
+[literal ]	2
+[intransigence ]	1
+[forbidding ]	1
+[isolation ]	1
+[vulnerable]	2
+[assistance]	1
+[reduction ]	1
+[betrayed ]	1
+[modifications ]	1
+[moreover]	1
+[inconsistent ]	1
+[amiens]	1
+[vézelay ]	1
+[benefited ]	2
+[vigorous ]	1
+[communal ]	2
+[raised ]	2
+[problem]	1
+[self-governing ]	3
+[merely ]	3
+[franchised]	1
+[constituted ]	3
+[seeking ]	1
+[clarify ]	1
+[define]	1
+[anomalous ]	1
+[lordships ]	1
+[bent ]	1
+[network]	1
+[anomalies ]	1
+[reduced ]	1
+[where]	1
+[virtually ]	1
+[strong ]	2
+[standardization ]	1
+[modifying ]	1
+[persuading ]	1
+[wholesale ]	1
+[existing ]	1
+[patchwork ]	1
+[entities ]	1
+[slowly ]	3
+[yielded ]	1
+[blocks]	2
+[separate ]	1
+[survived]	1
+[ages]	3
+[pays ]	2
+[droit ]	2
+[coutumier ]	1
+[consist ]	1
+[sixty ]	1
+[similarities ]	1
+[saintonge]	1
+[southern ]	1
+[fringes ]	1
+[central]	1
+[things ]	2
+[differently]	1
+[modified ]	1
+[framework]	2
+[offences ]	1
+[in  ]	1
+[castellan]	2
+[mediterranean ]	1
+[contacts ]	2
+[welcome ]	2
+[bolognese ]	1
+[academic ]	1
+[effect]	1
+[1170s ]	1
+[1180s ]	1
+[cited ]	1
+[authoritatively ]	1
+[écrit ]	1
+[emerging]	1
+[encompassing ]	1
+[achieve ]	2
+[homogeneity ]	1
+[north]	1
+[emergence ]	1
+[government]	1
+[distinguishes ]	1
+[unremitting ]	1
+[governed ]	2
+[subjected ]	1
+[fixed ]	2
+[rules]	1
+[arguable ]	1
+[nobody ]	1
+[nineteenth ]	1
+[foolish ]	1
+[intermission ]	1
+[desirable ]	1
+[reborn]	1
+[ill]	1
+[fully-developed ]	1
+[sphere ]	1
+[competence]	2
+[beneath ]	1
+[rod]	1
+[evoked ]	1
+[admiration ]	1
+[envy ]	1
+[laymen]	1
+[accustomed ]	1
+[deference]	1
+[scheme ]	1
+[wished]	1
+[explicitly ]	1
+[challenge ]	1
+[picture]	1
+[pro-imperialists ]	1
+[germans ]	1
+[contented ]	1
+[pointing ]	1
+[protecting ]	1
+[sword]	2
+[well-being ]	1
+[zonnebeke ]	1
+[declared]	1
+[argument]	1
+[involve ]	1
+[ancestor ]	1
+[arnoul ]	2
+[bowed]	1
+[anacletan ]	1
+[schism ]	1
+[imagery ]	1
+[bearer ]	2
+[triggered ]	1
+[associations]	1
+[recalled ]	1
+[augustinian ]	2
+[enemies]	2
+[king-duke ]	2
+[wary ]	1
+[claiming ]	1
+[peace-keeping ]	2
+[accident ]	1
+[repressive ]	1
+[advocacy ]	1
+[coercion ]	2
+[soil]	1
+[weapon-carrying ]	1
+[markets ]	1
+[lighting ]	1
+[beacons ]	1
+[signal ]	1
+[start ]	1
+[private ]	1
+[seriously ]	1
+[enlarging ]	1
+[jurisdiction]	1
+[epitaph ]	1
+[tomb]	1
+[refocused ]	1
+[function]	2
+[effect ]	3
+[1140 ]	1
+[monk ]	1
+[gratian ]	1
+[bologna ]	1
+[decretum ]	1
+[concordance ]	1
+[discordant ]	1
+[canons ]	1
+[demonstrated ]	2
+[techniques ]	2
+[critical ]	1
+[examination]	1
+[authoritative ]	1
+[councils ]	1
+[harmonized ]	1
+[yield ]	2
+[principles ]	2
+[approach]	1
+[seeds ]	1
+[scholasticism]	1
+[reality]	1
+[attainable ]	1
+[endeavour]	1
+[optimistic ]	1
+[humanism ]	1
+[conduct ]	1
+[trials ]	1
+[judge]	2
+[intellectual]	1
+[chess-game]	1
+[1140]	1
+[diocese ]	1
+[sorting ]	1
+[parish ]	1
+[priests ]	1
+[pressed ]	1
+[satisfy]	1
+[sapped ]	1
+[kind ]	2
+[ordeal ]	1
+[rare]	1
+[classes ]	1
+[curiosity]	1
+[oath-helpers ]	1
+[swear ]	1
+[accused]	1
+[significant]	1
+[swift ]	1
+[embrace ]	1
+[this  ]	1
+[trial]	1
+[susceptible ]	2
+[gothia ]	1
+[survived ]	1
+[longest]	1
+[others]	3
+[necessitated ]	3
+[professionalism ]	1
+[ousted ]	1
+[running ]	1
+[non-franchised ]	1
+[knowledge ]	1
+[revert ]	1
+[happen ]	1
+[ability]	1
+[salisbury ]	3
+[gathered ]	1
+[band ]	1
+[advisers]	1
+[counsellors ]	1
+[pronouncements ]	1
+[subjects ]	3
+[peace-keepers]	1
+[upholders ]	1
+[definers ]	1
+[dictated ]	1
+[delegation ]	2
+[official]	1
+[revoked ]	1
+[break]	1
+[close]	1
+[unable ]	1
+[arbitrate ]	1
+[seneschal ]	1
+[baugé ]	1
+[tithes ]	1
+[1146]	1
+[acknowledged]	1
+[setting ]	1
+[forth ]	2
+[ends]	1
+[ferment ]	1
+[exalted ]	1
+[executors ]	1
+[flattered ]	1
+[comparison ]	1
+[aims ]	1
+[classics]	1
+[unfortified ]	1
+[reference ]	2
+[potent ]	2
+[weapon ]	1
+[strengthening ]	1
+[theologians]	1
+[meaning ]	2
+[bible ]	1
+[himself]	1
+[concept ]	2
+[person]	1
+[punisher ]	1
+[injuries]	1
+[distributor ]	1
+[equity]	1
+[scholarly ]	1
+[reinvigorated ]	1
+[identical ]	1
+[satirized ]	1
+[disillusionments ]	1
+[goliardic ]	2
+[scholars ]	1
+[trained ]	1
+[amply ]	1
+[demonstrated]	1
+[unreasonably ]	1
+[intellectuals ]	2
+[invoke ]	1
+[emancipated ]	1
+[intervention]	1
+[ordeal]	1
+[await ]	1
+[vindication ]	1
+[disillusionment ]	1
+[fruit ]	3
+[response ]	1
+[vaguely ]	1
+[expectations ]	1
+[intellectuals]	2
+[belief]	1
+[salisbury]	2
+[strive ]	1
+[fulfil ]	1
+[ideal]	2
+[intentions]	1
+[defended ]	1
+[hang ]	2
+[devil ]	1
+[incarnate]	1
+[prevail ]	1
+[cry ]	1
+[murderer ]	1
+[myself]	1
+[incarceration ]	1
+[cîteaux ]	1
+[equivalent ]	1
+[crucifixion]	1
+[criminal]	1
+[satisfied ]	1
+[everyone]	1
+[temperance ]	1
+[mercy ]	1
+[birth]	1
+[360]	1
+[286]	1
+[subjecting ]	1
+[colombière]	1
+[nephew ]	1
+[niece ]	1
+[bayeaux]	1
+[behaved ]	1
+[previous ]	1
+[reconciling ]	1
+[arranging ]	1
+[vent ]	1
+[brook ]	1
+[interference ]	1
+[tore ]	1
+[beneficiary]	1
+[bellay]	2
+[infuriated ]	1
+[349]	1
+[justify ]	2
+[coercive ]	1
+[stood ]	1
+[suffer ]	1
+[disturbed ]	1
+[vindicate ]	1
+[embittered]	1
+[significant ]	1
+[presages ]	1
+[contribution ]	1
+[mixed ]	2
+[blessing ]	1
+[theorizing]	1
+[producing  ]	1
+[accounts ]	1
+[regularized]	1
+[inventing ]	1
+[efficiency]	2
+[rudimentary ]	1
+[bureaucracy ]	1
+[administrations]	1
+[formative]	1
+[bureaucracies ]	2
+[momentum ]	1
+[own]	2
+[shortly ]	1
+[policraticus ]	3
+[discursive ]	1
+[unanalytical ]	1
+[criticizing ]	1
+[mores ]	1
+[state]	2
+[putting ]	1
+[forward ]	1
+[code ]	1
+[conduct]	1
+[relying ]	1
+[bible]	1
+[classics ]	1
+[explain ]	1
+[be]	1
+[experience ]	1
+[primarily ]	1
+[commentary ]	1
+[princeps ]	1
+[ruler ]	2
+[provincia ]	1
+[organic ]	1
+[commonwealth]	1
+[head]	1
+[soul]	1
+[senate ]	1
+[heart]	1
+[soldiers ]	1
+[arms]	2
+[legs ]	1
+[recognized]	1
+[rebirth ]	1
+[striking ]	1
+[attributed ]	1
+[provincial ]	1
+[governors ]	1
+[ears ]	1
+[tongue ]	1
+[politic]	1
+[hands]	2
+[stomach ]	1
+[intestines]	1
+[john]	1
+[readers ]	1
+[identifications]	1
+[baillis ]	2
+[bureaucracy]	1
+[levels]	1
+[john  ]	1
+[alone ]	1
+[believing ]	1
+[class ]	1
+[dire ]	1
+[instruction]	1
+[lest ]	1
+[administrators ]	2
+[interested ]	1
+[erembald ]	1
+[alleged ]	1
+[opponents ]	1
+[origin]	1
+[ascent ]	1
+[uncommonly ]	1
+[sharp]	1
+[recent ]	1
+[traced ]	1
+[usefulness]	1
+[cleer ]	1
+[distinction ]	1
+[performance ]	1
+[guessed]	1
+[sensitivity ]	1
+[relationships ]	1
+[depended]	1
+[newcomers]	1
+[sauce ]	2
+[goose ]	1
+[gander]	1
+[composed ]	1
+[individuals]	1
+[articulate ]	1
+[application]	1
+[exceptions ]	1
+[dispensation]	1
+[viewpoint ]	1
+[liable ]	2
+[scale]	1
+[affect ]	1
+[springing ]	1
+[administrators]	1
+[mainier]	1
+[lawyer]	1
+[prefaced ]	1
+[magister ]	1
+[licentia ]	1
+[docendi ]	1
+[licence ]	1
+[teach]	1
+[uncertain ]	1
+[peter ]	1
+[vernacular]	1
+[schooling]	1
+[indirectly]	1
+[incipient ]	1
+[scholastic ]	1
+[methods]	1
+[categorization ]	1
+[nouns]	1
+[search ]	1
+[system]	2
+[pioneered]	1
+[promoting ]	1
+[spur ]	1
+[accounting ]	1
+[systems]	1
+[survey ]	1
+[arithmetic ]	1
+[exchequer ]	2
+[instituted ]	1
+[tally]	1
+[chequered ]	1
+[cloth]	1
+[abacus ]	1
+[posed ]	1
+[numerals ]	1
+[subtraction]	1
+[expedients]	1
+[ends ]	2
+[rolls ]	1
+[debts ]	1
+[due ]	1
+[unit ]	1
+[1187 ]	1
+[grote ]	2
+[bref ]	2
+[different]	1
+[expenditures ]	1
+[rough ]	1
+[estimate ]	1
+[total ]	1
+[mentioned ]	1
+[account]	1
+[exciting ]	1
+[existed ]	1
+[check ]	1
+[another]	1
+[h ]	1
+[threateningly ]	1
+[vernone ]	1
+[achieving ]	1
+[bribery ]	1
+[unpopular]	1
+[sophisticated ]	1
+[map ]	1
+[poets  ]	1
+[enormous ]	2
+[un ]	1
+[cheated ]	1
+[loyal ]	1
+[deserved]	1
+[calculated ]	1
+[endear ]	1
+[retribution ]	1
+[unjust ]	1
+[tells ]	1
+[dressed ]	1
+[rustic ]	1
+[listened ]	1
+[rapacity]	1
+[sums ]	1
+[extorted]	1
+[defraud ]	1
+[peasantry]	1
+[untrue]	1
+[tale ]	1
+[illustrates ]	1
+[prevailing ]	1
+[ambivalence]	1
+[distanced ]	1
+[relied]	2
+[warfare ]	2
+[crusades]	1
+[marbod ]	1
+[latin]	1
+[vengeance ]	1
+[befall ]	1
+[wicked ]	1
+[poem ]	1
+[highlights ]	1
+[crime ]	1
+[peace-keeping]	1
+[siege-engines ]	2
+[read ]	1
+[vegetius]	1
+[re ]	1
+[militari ]	1
+[investing ]	1
+[ascribed  ]	1
+[advice ]	1
+[firebombs]	1
+[perceiving ]	1
+[vulnerability ]	1
+[battering-rams ]	1
+[catapults]	1
+[1100 ]	1
+[structures]	1
+[skilled ]	2
+[operators]	1
+[supply ]	2
+[unskilled ]	1
+[labourers ]	1
+[materials]	1
+[effectively ]	1
+[restricted ]	1
+[wealthy ]	1
+[incontrovertible]	1
+[improvements ]	1
+[fortification ]	1
+[withstand ]	1
+[thick ]	1
+[inner ]	1
+[outer ]	1
+[defences ]	1
+[incomes ]	1
+[net ]	1
+[dedication]	1
+[alphonse-jourdain ]	1
+[subdue ]	1
+[build ]	1
+[impregnable ]	1
+[sustained ]	1
+[attack]	1
+[chinon]	1
+[situated]	1
+[halls]	1
+[chambers]	1
+[tower]	1
+[curtain ]	1
+[walling]	1
+[strategic ]	1
+[loire]	1
+[copied ]	1
+[nearly ]	1
+[concentrate ]	1
+[especially]	1
+[fortresses ]	1
+[gaul ]	1
+[similarly]	1
+[field ]	1
+[burden]	1
+[stipulated ]	1
+[supplied ]	3
+[horse ]	1
+[represented ]	2
+[armour ]	1
+[elaborate ]	2
+[costly ]	1
+[ones ]	2
+[money-fiefs ]	1
+[away ]	1
+[base]	1
+[useless ]	1
+[their  ]	1
+[plundering ]	2
+[backing ]	1
+[archers]	1
+[foot]	1
+[numerous ]	1
+[infantrymen]	1
+[usual ]	2
+[militias ]	1
+[mentions ]	1
+[rheims]	1
+[châlons]	1
+[soissons]	1
+[paris ]	1
+[mercenaries ]	1
+[countries]	1
+[careers]	1
+[faithful]	1
+[brabanters]	1
+[freebooting ]	1
+[dangerous ]	1
+[heretics]	1
+[barbarossa ]	1
+[expel ]	1
+[shields ]	1
+[shelter ]	1
+[charge]	1
+[hatred ]	1
+[brutally ]	1
+[slaughtered ]	2
+[captured ]	1
+[afterwards]	1
+[grand ]	2
+[resemblance ]	1
+[feuds ]	2
+[divergence ]	1
+[sharpened ]	1
+[theoretical ]	1
+[theology]	1
+[amplified ]	1
+[reference]	1
+[pronounced ]	1
+[aggressors ]	1
+[re-establishing ]	1
+[interest]	2
+[condemned ]	1
+[infractions ]	1
+[mid ]	1
+[enabled ]	1
+[liberal ]	1
+[reapplication ]	1
+[definition ]	1
+[declare ]	1
+[impugned]	1
+[persuade ]	1
+[discretion ]	1
+[1184]	1
+[hesitated ]	1
+[commit ]	1
+[melt ]	1
+[united ]	1
+[front ]	1
+[marked]	1
+[banner ]	1
+[respectability ]	1
+[cause]	1
+[cripplingly ]	1
+[expensive ]	1
+[savage]	1
+[explaining ]	2
+[banners ]	1
+[angevin]	1
+[aragonese]	1
+[revolts ]	1
+[ramifications]	1
+[characterized]	1
+[protracted ]	1
+[wars]	1
+[smouldered ]	1
+[short]	1
+[bouts ]	1
+[covered ]	1
+[outlived ]	1
+[catalan ]	1
+[subsumed]	1
+[caused ]	2
+[problems]	1
+[circumstances ]	1
+[unpredictable]	1
+[offered]	1
+[preparation]	1
+[tactic ]	1
+[march ]	1
+[enemy]	1
+[looting]	1
+[fortified ]	1
+[easy]	1
+[retreat ]	1
+[technique ]	1
+[immediate ]	1
+[environs ]	1
+[mobilization ]	1
+[auxiliaries ]	1
+[join ]	1
+[highly-trained ]	1
+[constantly]	1
+[linch ]	1
+[pin ]	1
+[offers ]	1
+[household]	1
+[level ]	2
+[training ]	1
+[up  ]	1
+[infancy ]	1
+[knighted ]	1
+[rouen]	2
+[crowd ]	1
+[pomp]	1
+[feast]	1
+[youths ]	1
+[tournament]	1
+[honours]	1
+[chivalry ]	1
+[flourished]	1
+[identify]	1
+[honour]	1
+[debated ]	1
+[relative ]	1
+[merits ]	1
+[roland]	1
+[oliver]	1
+[displaying ]	1
+[loyalty]	1
+[finer ]	1
+[points ]	1
+[jousting]	1
+[tournaments ]	1
+[ecclesiastics]	1
+[bloody ]	1
+[dangerous]	1
+[instruction ]	1
+[arts ]	1
+[compatible ]	1
+[maintenance ]	2
+[outlet ]	1
+[competitive ]	1
+[instincts ]	1
+[claustrophobic ]	1
+[confines ]	1
+[flourished ]	1
+[ardres ]	1
+[eye ]	1
+[ida ]	1
+[exploits]	1
+[lustre ]	1
+[performances ]	1
+[show ]	1
+[background ]	1
+[crusading]	3
+[magnetism ]	1
+[cross ]	1
+[thousands]	1
+[launching ]	1
+[crusade ]	4
+[clermont ]	1
+[1095]	2
+[squabbles ]	1
+[unimpeachable]	1
+[churches]	1
+[muslim ]	1
+[guardianship ]	1
+[places]	1
+[fullest ]	1
+[battles ]	1
+[vermandois ]	1
+[call]	1
+[test ]	1
+[terrible ]	1
+[dangers]	1
+[enjoy ]	1
+[daring ]	1
+[stuff ]	1
+[chansons ]	1
+[geste ]	1
+[shared]	1
+[participants ]	1
+[fervent ]	2
+[devotion]	1
+[conviction ]	1
+[sins ]	1
+[forgiven]	1
+[certain]	1
+[leap ]	1
+[imagination]	1
+[millenarian ]	1
+[vision]	1
+[challenging ]	1
+[deserving ]	1
+[activities]	1
+[hero ]	1
+[disgraced ]	1
+[escaping ]	1
+[siege ]	1
+[antioch]	2
+[gallant]	1
+[lifetime ]	1
+[impress]	1
+[prestige ]	2
+[soared ]	1
+[skies]	1
+[antioch ]	1
+[bravery ]	1
+[expunged ]	1
+[usurpation]	1
+[harped ]	1
+[enemies ]	1
+[roger ]	1
+[sicily ]	1
+[bohemond ]	1
+[stretched ]	1
+[colonies]	1
+[ensuring ]	1
+[travellers ]	1
+[homeland ]	1
+[parts]	1
+[shaky ]	1
+[attaining ]	1
+[attached ]	1
+[crusaders ]	1
+[remote ]	1
+[godfrey ]	1
+[bouillon]	1
+[sybilla ]	1
+[jerusalem]	3
+[outremer ]	4
+[viewed ]	1
+[feelings]	1
+[expecting ]	1
+[fearing ]	1
+[ambitions]	1
+[newly ]	1
+[conquered  ]	1
+[byzantine ]	1
+[elevation ]	1
+[1204]	1
+[costs ]	1
+[repeated ]	1
+[absences ]	1
+[reform]	1
+[products ]	1
+[exchequers ]	1
+[product ]	1
+[divided ]	1
+[attentions]	1
+[balance]	1
+[materially ]	1
+[as]	1
+[arguably]	1
+[typical]	1
+[sacrifice ]	2
+[domestic ]	1
+[departure ]	1
+[home]	1
+[lured ]	1
+[elder ]	1
+[bertrand ]	1
+[tripoli ]	1
+[grandson ]	1
+[youth]	1
+[thereby ]	1
+[freeing ]	1
+[necessity ]	1
+[interrupting ]	1
+[career ]	1
+[principality ]	1
+[disintegrated ]	1
+[altogether]	1
+[devaluation ]	1
+[stable ]	1
+[currency]	1
+[mortgage ]	1
+[cover ]	1
+[expenses ]	1
+[mulling ]	1
+[dissuade ]	1
+[embarking ]	1
+[1145]	1
+[anything]	1
+[stronger ]	1
+[princely]	1
+[trencavels]	1
+[devotees ]	1
+[absences]	1
+[shipwrecks]	1
+[abroad ]	1
+[plagued ]	1
+[marche]	1
+[1177]	1
+[not]	1
+[accompanying ]	1
+[joint ]	2
+[venture]	1
+[links]	1
+[spin-offs ]	1
+[calculate ]	1
+[glance ]	1
+[gainer ]	1
+[irony ]	1
+[counter-productive ]	1
+[relations ]	1
+[deaths ]	1
+[participants]	1
+[non-aristocratic ]	1
+[regency ]	1
+[leadership ]	1
+[re-emerged ]	1
+[credible ]	1
+[gesture ]	1
+[appeased ]	1
+[appalled ]	1
+[obstinacy ]	1
+[archbishopric ]	1
+[disasters ]	1
+[befell ]	1
+[paradoxically ]	1
+[charisma]	1
+[barons ]	2
+[look ]	1
+[saviour]	1
+[friendship ]	1
+[fellow ]	1
+[warrior]	1
+[reversed ]	1
+[trend ]	1
+[crowds ]	1
+[burgundians ]	1
+[fringed ]	1
+[1147 ]	2
+[apparent ]	1
+[cohesion  ]	1
+[leaderships]	1
+[friction]	1
+[achievement]	1
+[francorum ]	2
+[dei ]	1
+[per ]	1
+[francos ]	1
+[chroniclers ]	1
+[ringing ]	1
+[rex ]	1
+[decisively ]	1
+[hastened ]	1
+[french]	1
+[EOF]	3

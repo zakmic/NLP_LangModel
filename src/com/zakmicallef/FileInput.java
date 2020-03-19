@@ -11,15 +11,13 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Random;
 
 import static com.zakmicallef.Main.training;
 import static com.zakmicallef.Main.test;
 
 public class FileInput {
-
-    public static ArrayList<Integer> Docs = new ArrayList<>();
-
 
     static void listFiles(String path) {
         File folder = new File(path);
@@ -29,7 +27,7 @@ public class FileInput {
         try {
             for (File file : files) {
                 if (file.isFile()) {
-                    if (new Random().nextDouble() < 0.5) {
+                    if (new Random().nextDouble() < 0.75) {
                         training.addAll(parseFile(file));
                     } else {
                         test.addAll(parseFile(file));
@@ -45,8 +43,8 @@ public class FileInput {
         }
 
         try {
-            writeToFile(training, "training.txt");
-            writeToFile(test, "test.txt");
+            writeToFile(training, "SampleModelOutput/training.txt");
+            writeToFile(test, "SampleModelOutput/test.txt");
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -88,10 +86,12 @@ public class FileInput {
                     allWords.add(eElement.getElementsByTagName("w").item(j).getTextContent().toLowerCase());
                 }
             }
-            allWords.add(".");
+            allWords.add("EOS");
         }
 
-        Docs.add(allWords.size());
+        allWords.add("EOF");
+        allWords.add("EOF");
+        allWords.add("EOF");
 
         return allWords;
     }
@@ -113,7 +113,7 @@ public class FileInput {
         }
 
 
-        bw.write("Total " + allWords.size());
+        System.out.println("Total " + allWords.size());
 
         try {
             bw.close();
@@ -123,4 +123,31 @@ public class FileInput {
 
     }
 
+    public static void writeNgramsToFile(ArrayList<Ngram> ngrams, String path) throws IOException {
+        System.out.println("Printing to: " + path + "\t" + java.time.LocalTime.now());
+
+        File OutFile = new File(path);
+
+        if (!OutFile.exists()) {
+            OutFile.createNewFile();
+        }
+
+        FileWriter fw = new FileWriter(OutFile);
+        BufferedWriter bw = new BufferedWriter(fw);
+
+        for (Ngram ngram : ngrams) {
+            bw.write(Arrays.toString(ngram.n_gram));
+            bw.write("\t" + ngram.count);
+            bw.write("\n");
+        }
+
+        System.out.println("Total: " + ngrams.size());
+
+        try {
+            bw.close();
+        } catch (Exception ex) {
+            System.out.println("Error in closing the BufferedWriter" + ex);
+        }
+
+    }
 }

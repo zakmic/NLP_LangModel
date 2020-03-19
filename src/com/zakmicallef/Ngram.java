@@ -1,13 +1,16 @@
 package com.zakmicallef;
 
 public class Ngram {
-    final String[] n_gram;
+    String[] n_gram;
     int count;
     double smoothProbability;
 
-    public Ngram(int count) {
-        this.count = count;
-        n_gram = new String[count];
+    public Ngram(final int words) {
+        this.count = 1;
+        n_gram = new String[words];
+    }
+
+    public Ngram() {
     }
 
     public String[] getN_gram() {
@@ -28,5 +31,14 @@ public class Ngram {
 
     public void setSmoothProbability(double smoothProbability) {
         this.smoothProbability = smoothProbability;
+    }
+
+    @Override
+    public Ngram clone() {
+        Ngram n = new Ngram();
+        n.n_gram = this.n_gram.clone();
+        n.count = this.count;
+        n.smoothProbability = this.smoothProbability;
+        return n;
     }
 }
