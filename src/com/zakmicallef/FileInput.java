@@ -136,9 +136,8 @@ public class FileInput {
         BufferedWriter bw = new BufferedWriter(fw);
 
         for (Ngram ngram : ngrams) {
-            bw.write(Arrays.toString(ngram.n_gram));
-            bw.write("\t" + ngram.count);
-            bw.write("\n");
+            bw.write(Arrays.toString(ngram.n_gram)
+                    + "\t" + ngram.count + "\t" + ngram.probability + "\n");
         }
 
         System.out.println("Total: " + ngrams.size());

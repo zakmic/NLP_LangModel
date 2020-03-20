@@ -3,11 +3,12 @@ package com.zakmicallef;
 public class Ngram {
     String[] n_gram;
     int count;
-    double smoothProbability;
+    double probability;
 
     public Ngram(final int words) {
         this.count = 1;
         n_gram = new String[words];
+        probability = 0;
     }
 
     public Ngram() {
@@ -25,12 +26,12 @@ public class Ngram {
         this.count = count;
     }
 
-    public double getSmoothProbability() {
-        return smoothProbability;
+    public double getProbability() {
+        return probability;
     }
 
-    public void setSmoothProbability(double smoothProbability) {
-        this.smoothProbability = smoothProbability;
+    public void setProbability(double probability) {
+        this.probability = probability;
     }
 
     @Override
@@ -38,7 +39,7 @@ public class Ngram {
         Ngram n = new Ngram();
         n.n_gram = this.n_gram.clone();
         n.count = this.count;
-        n.smoothProbability = this.smoothProbability;
+        n.probability = this.probability;
         return n;
     }
 }
