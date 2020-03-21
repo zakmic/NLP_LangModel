@@ -14,8 +14,8 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Random;
 
-import static com.zakmicallef.Main.training;
-import static com.zakmicallef.Main.test;
+import static com.zakmicallef.Model.training;
+import static com.zakmicallef.Model.test;
 
 public class FileInput {
 
@@ -116,6 +116,29 @@ public class FileInput {
         System.out.println("Total " + allWords.size());
 
         try {
+            bw.close();
+        } catch (Exception ex) {
+            System.out.println("Error in closing the BufferedWriter" + ex);
+        }
+
+    }
+
+    static void writeStringToFile(String str, String path) throws IOException {
+        File OutFile = new File(path);
+
+        if (!OutFile.exists()) {
+            OutFile.createNewFile();
+        }
+
+        FileWriter fw = new FileWriter(OutFile);
+        BufferedWriter bw = new BufferedWriter(fw);
+
+
+        bw.write(str);
+
+
+        try {
+            bw.flush();
             bw.close();
         } catch (Exception ex) {
             System.out.println("Error in closing the BufferedWriter" + ex);

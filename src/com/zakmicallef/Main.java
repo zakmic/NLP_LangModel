@@ -1,32 +1,98 @@
 package com.zakmicallef;
 
-import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Scanner;
+
+import static com.zakmicallef.Model.*;
+import static com.zakmicallef.Probabilities.*;
 
 public class Main {
 
-    public static ArrayList<String> test = new ArrayList<>();
-    public static ArrayList<String> training = new ArrayList<>();
-    public static ArrayList<String> trainingUNK = new ArrayList<>();
-
-
-    public static ArrayList<Ngram> unigrams = new ArrayList<>();
-    public static ArrayList<Ngram> bigrams = new ArrayList<>();
-    public static ArrayList<Ngram> trigrams = new ArrayList<>();
-
-    public static ArrayList<Ngram> unigramsLP = new ArrayList<>();
-    public static ArrayList<Ngram> bigramsLP = new ArrayList<>();
-    public static ArrayList<Ngram> trigramsLP = new ArrayList<>();
-
-    public static ArrayList<Ngram> unigramsUNK = new ArrayList<>();
-    public static ArrayList<Ngram> bigramsUNK = new ArrayList<>();
-    public static ArrayList<Ngram> trigramsUNK = new ArrayList<>();
-
-    public static int index = 0;
+    private static String word_i;
 
     public static void main(String[] args) {
-        FileInput.listFiles("sample");
+//        FileInput.listFiles("sample");
+//
+//        BuildModel();
+
+        loadModel();
+
+
+        Scanner kb = new Scanner(System.in);
+        String option = "0";
+
+        do {
+            System.out.println("\n1. Generate rest of sentence" + "\n2. Calculate Probability" + "\n 3. Exit");
+            option = kb.nextLine();
+            switch (Integer.parseInt(option)) {
+                case 1: {
+
+                    System.out.println("Choose 1.Vanilla 2.Laplace 3.UNK Version");
+                    String flavourStr = kb.nextLine();
+                    int flavour = Integer.parseInt(flavourStr);
+                    System.out.println("Choose 1.Unigram 2.Bigram 3.Trigram 4.Linear Interpolation");
+                    String typeStr = kb.nextLine();
+                    int type = Integer.parseInt(typeStr);
+
+                    System.out.println("Enter Text: ");
+                    String input = kb.nextLine();
+
+                    String[] textAr = input.toLowerCase().split(" ");
+                    ArrayList<String> text = new ArrayList<String>(Arrays.asList(textAr));
+
+                    System.out.println("How many words to generate: ");
+                    String count = kb.nextLine();
+
+
+                    for (int i = 0; i < Integer.parseInt(count); i++) {
+                        String nextWord = generateText(text, flavour, type);
+                        text.add(nextWord);
+                    }
+
+                    for (String word : text) {
+                        System.out.println(word);
+                    }
+
+                    break;
+                }
+                case 2: {
+
+                    System.out.println("Choose 1.Vanilla 2.Laplace 3.UNK Version");
+                    String flavourStr = kb.nextLine();
+                    int flavour = Integer.parseInt(flavourStr);
+
+                    System.out.println("Choose 1.Unigram 2.Bigram 3.Trigram 4.Linear Interpolation");
+                    String typeStr = kb.nextLine();
+                    int type = Integer.parseInt(typeStr);
+
+                    System.out.println("Please enter the text you would like the program to detect the probability.");
+                    String input = kb.nextLine();
+
+                    String[] textAr = input.toLowerCase().split(" ");
+                    ArrayList<String> text = new ArrayList<String>(Arrays.asList(textAr));
+
+                    System.out.println(probability(text, flavour, type));
+                    break;
+                }
+                case 3: {
+                    System.exit(0);
+                    break;
+                }
+                default:
+                    throw new IllegalStateException("Unexpected value: " + Integer.parseInt(option));
+            }
+        } while (Integer.parseInt(option) != 3);
+        System.out.println("Program is terminating");
+    }
+
+    public static ArrayList<Ngram> uni = new ArrayList<>();
+    public static ArrayList<Ngram> bi = new ArrayList<>();
+    public static ArrayList<Ngram> tri = new ArrayList<>();
+
+    private static void BuildModel() {
+        JSONCreator.printSingleJSONString(training, "JSON/training.json");
+        JSONCreator.printSingleJSONString(test, "JSON/test.json");
 
         calcUnigram();
         calcBigram();
@@ -40,6 +106,8 @@ public class Main {
         printNgram(bigrams, "SampleModelOutput/vanilla/bigram.txt");
         printNgram(trigrams, "SampleModelOutput/vanilla/trigram.txt");
 
+        JSONCreator.printJSON(unigrams, bigrams, trigrams, "JSON/vanilla/unigram.json", "JSON/vanilla/bigram.json", "JSON/vanilla/trigram.json");
+
         cloneArrays();
 
         laPlaceSmoothing();
@@ -52,340 +120,190 @@ public class Main {
         printNgram(bigramsLP, "SampleModelOutput/laplace/LPbigrams.txt");
         printNgram(trigramsLP, "SampleModelOutput/laplace/LPtrigrams.txt");
 
+        JSONCreator.printJSON(unigramsLP, bigramsLP, trigramsLP, "JSON/laplace/unigramLP.json", "JSON/laplace/bigramLP.json", "JSON/laplace/trigramLP.json");
+
         unkVersion();
 
         printNgram(unigramsUNK, "SampleModelOutput/unk/UNKunigrams.txt");
         printNgram(bigramsUNK, "SampleModelOutput/unk/UNKbigrams.txt");
         printNgram(trigramsUNK, "SampleModelOutput/unk/UNKtrigrams.txt");
+
+        JSONCreator.printJSON(unigramsUNK, bigramsUNK, trigramsUNK, "JSON/unk/unigramUNK.json", "JSON/unk/bigramUNK.json", "JSON/unk/trigramUNK.json");
+        JSONCreator.printSingleJSONString(trainingUNK, "JSON/trainingUNK.json");
+
+        linearInterpolation("vanilla");
     }
 
-    private static void printNgram(ArrayList<Ngram> unigrams, String path) {
-        try {
-            FileInput.writeNgramsToFile(unigrams, path);
-        } catch (IOException e) {
-            e.getMessage();
-            e.printStackTrace();
+    private static double probability(ArrayList<String> sentence, int flavour, int type) {
+
+
+        setNgram(flavour);
+
+
+        double probability = 0;
+
+
+        if (flavour == 2) {
+            if (type == 1) {
+                for (int i = 1; i < sentence.size(); i++) {
+                    probability += CalcLaplaceUnigramProbability(sentence.get(i));
+                }
+            } else if (type == 2) {
+                for (int i = 1; i < sentence.size(); i++) {
+                    probability += CalcLaplaceBigramProbability(sentence.get(i - 1), sentence.get(i));
+                }
+            } else if (type == 3) {
+                for (int i = 2; i < sentence.size(); i++) {
+                    probability += CalcLaplaceTrigramProbability(sentence.get(i - 2), sentence.get(i - 1), sentence.get(i));
+                }
+            }
+
+        } else {
+            if (type == 1) {
+                for (int i = 1; i < sentence.size(); i++) {
+                    probability += CalcUnigramProbability(sentence.get(i));
+                }
+            } else if (type == 2) {
+                for (int i = 1; i < sentence.size(); i++) {
+                    probability += CalcBigramProbability(sentence.get(i - 1), sentence.get(i));
+                }
+            } else if (type == 3) {
+                for (int i = 2; i < sentence.size(); i++) {
+                    probability += CalcTrigramProbability(sentence.get(i - 2), sentence.get(i - 1), sentence.get(i));
+                }
+            }
         }
+
+        return probability;
     }
 
-    private static void calcUnigram() {
-        System.out.println("Calculating Unigram " + java.time.LocalTime.now());
 
-        for (String word : training) {
-            if (exists(new String[]{word}, unigrams)) {
-                unigrams.get(index).count++;
+    private static String generateText(ArrayList<String> text, int flavour, int type) {
+        String word2, word1; //word1 is word n-1
+        String word = null;
+
+        setNgram(flavour);
+
+        if (type == 4) {
+            tri = linearInterpolation;
+        }
+
+
+        if (text.size() == 1) {   // If the user has only entered one word
+            word1 = text.get(0);
+
+            ArrayList<Ngram> bigramMatches = new ArrayList<>();
+            bigramMatches = findBigramMatches(word1);
+
+            // If no matching bi are found, back off to unigram model
+            if (bigramMatches.size() == 0 || type == 1) {
+                System.out.println("Using the Unigram model");
+                word = uni.get(probabilisticChoice(uni)).n_gram[0];
             } else {
-                Ngram unigram = new Ngram(1);
-                unigram.n_gram[0] = word;
-                unigrams.add(unigram);
+                System.out.println("Using the Bigram model");
+                word = bigramMatches.get(probabilisticChoice(bigramMatches)).n_gram[1];
             }
-        }
-    }
+        } else {                        // If the user has entered 2 or more words
+            word2 = text.get(text.size() - 2);
+            word1 = text.get(text.size() - 1);
 
-    private static void calcBigram() {
-        System.out.println("Calculating Bigram " + java.time.LocalTime.now());
-        for (int i = 0; i < training.size() - 1; i++) {
-            if (valid(training.get(i)) && (valid(training.get(i + 1)))) {
-                String word = training.get(i);
-                String word2 = training.get(i + 1);
+            // finding all tri which start with the last 2 words of the entered sentence
+            ArrayList<Ngram> trigramMatches = new ArrayList<>();
+            trigramMatches = findTrigramMatches(word2, word1);
 
-                if (exists(new String[]{word, word2}, bigrams)) {
-                    bigrams.get(index).count++;
+
+            ArrayList<Ngram> bigramMatches = new ArrayList<>();
+            if (type != 1) {
+                // if no matching tri are found (back off)
+                if (trigramMatches.size() == 0 || type != 3) {
+                    bigramMatches = findBigramMatches(word1);
                 } else {
-                    Ngram bigram = new Ngram(2);
-                    bigram.n_gram[0] = training.get(i);
-                    bigram.n_gram[1] = training.get(i + 1);
-                    bigrams.add(bigram);
-                }
-            }
-        }
-
-
-    }
-
-    private static void calcTrigram() {
-        System.out.println("Calculating Trigram " + java.time.LocalTime.now());
-
-        for (int i = 0; i < training.size() - 2; i++) {
-            if (valid(training.get(i)) && valid(training.get(i + 1)) && valid(training.get(i + 2))) {
-                String word = training.get(i);
-                String word2 = training.get(i + 1);
-                String word3 = training.get(i + 2);
-
-                if (exists(new String[]{word, word2, word3}, trigrams)) {
-                    trigrams.get(index).count++;
-                } else {
-                    Ngram trigram = new Ngram(3);
-                    trigram.n_gram[0] = training.get(i);
-                    trigram.n_gram[1] = training.get(i + 1);
-                    trigram.n_gram[2] = training.get(i + 2);
-                    trigrams.add(trigram);
-                }
-            }
-        }
-    }
-
-    private static boolean valid(String word) {
-        if (word.isBlank() || word.equals("EOS") || word.equals("EOF")) {
-            return false;
-        }
-        return true;
-    }
-
-    private static boolean exists(String[] words, ArrayList<Ngram> ngrams) {
-        for (int i = 0; i < ngrams.size(); i++) {
-            // comparing 2 arrays to check if their size and contents are identical
-            if (Arrays.equals(words, ngrams.get(i).n_gram)) {
-                index = i;
-                return true;
-            }
-        }
-        return false;
-    }
-
-    public static void laPlaceSmoothing() {
-        System.out.println("LaPlace Smoothing " + java.time.LocalTime.now());
-
-
-        for (Ngram ngram : unigramsLP) {
-            ngram.count++;
-        }
-
-        for (Ngram ngram : bigramsLP) {
-            ngram.count++;
-        }
-
-        for (Ngram ngram : trigramsLP) {
-            ngram.count++;
-        }
-
-    }
-
-    private static void unkVersion() {
-        System.out.println("UNKVersion " + java.time.LocalTime.now());
-        String unkToken = "<UNK>";
-
-        for (int i = 0; i < trainingUNK.size() - 3; i++) {
-            if (unigramCount(trainingUNK.get(i)) == 1) {
-                trainingUNK.set(i, unkToken);
-            }
-        }
-
-        calcUnigramsUNK();
-        calcBigramUNK();
-        calcTrigramUNK();
-    }
-
-
-    public static void unigramProbability() {
-        System.out.println("Unigram Probability" + java.time.LocalTime.now());
-
-        for (Ngram unigram : unigrams) {
-            int count = unigramCount(unigram.n_gram[0]);
-            unigram.probability = (double) (unigram.count) / count;
-        }
-    }
-
-
-    public static void bigramProbability() {
-        System.out.println("Bigram Probability" + java.time.LocalTime.now());
-
-        for (Ngram bigram : bigrams) {
-            int count = unigramCount(bigram.n_gram[0]);
-            bigram.probability = (double) (bigram.count) / count;
-        }
-    }
-
-    public static void trigramProbability() {
-        System.out.println("Trigram Probability" + java.time.LocalTime.now());
-
-        for (Ngram trigram : trigrams) {
-            int count = bigramCount(new String[]{trigram.n_gram[0], trigram.n_gram[1]});
-            trigram.probability = (double) (trigram.count) / count;
-        }
-    }
-
-    private static int unigramCount(String word) {
-        for (Ngram unigram : unigrams) {
-            if (word.equals(unigram.n_gram[0])) {
-                return unigram.count;
-            }
-        }
-        return -1;
-    }
-
-    private static int bigramCount(String[] strings) {
-        for (Ngram bigram : bigrams) {
-            if (Arrays.equals(strings, bigram.n_gram)) {
-                return bigram.count;
-            }
-        }
-        return -1;
-    }
-
-    public static void laplaceUnigramProbability() {
-        System.out.println("Laplace Unigram Probability " + java.time.LocalTime.now());
-
-        int totalCount = 0;
-        int vocabSize = unigramsLP.size();
-
-        for (int i = 0; i < unigramsLP.size(); i++) {
-            totalCount += unigramsLP.get(i).count;
-        }
-
-
-        for (int i = 0; i < unigramsLP.size(); i++) {
-            unigramsLP.get(i).probability = (double) (unigramsLP.get(i).count + 1) / (totalCount + vocabSize);
-        }
-    }
-
-    public static void laplaceBigramProbability() {
-        System.out.println("Laplace Bigram Probability " + java.time.LocalTime.now());
-
-        int vocabSize = unigramsLP.size();
-
-        for (int i = 0; i < bigramsLP.size(); i++) {
-            int count_word = 0;
-            for (int j = 0; j < unigramsLP.size(); j++) {
-                if (bigramsLP.get(i).n_gram[0].equals(unigramsLP.get(j).n_gram[0])) {
-                    count_word = unigramsLP.get(j).count;
+                    System.out.println("Using the Trigram model");
+                    word = trigramMatches.get(probabilisticChoice(trigramMatches)).n_gram[2];
                 }
             }
 
-            bigramsLP.get(i).probability = (double) (bigramsLP.get(i).count + 1) / (count_word + vocabSize);
-        }
-    }
-
-    public static void laplaceTrigramProbability() {
-        System.out.println("Laplace Trigram Probability " + java.time.LocalTime.now());
-
-        int vocabSize = unigramsLP.size();
-
-        for (int i = 0; i < trigramsLP.size(); i++) {
-            // Finding the count of word_n-2,word_n-1
-            int countWords = 0;
-            for (int j = 0; j < bigramsLP.size(); j++) {
-                if (Arrays.equals(new String[]{trigramsLP.get(i).n_gram[0], trigramsLP.get(i).n_gram[1]}, bigramsLP.get(j).n_gram)) {
-                    countWords = bigramsLP.get(j).count;
-                }
-            }
-            // (count(Wn-2,Wn-1,Wn) + 1) / (count(Wn-2,Wn-1) + V)
-            trigramsLP.get(i).probability = (double) (trigramsLP.get(i).count + 1) / (countWords + vocabSize);
-        }
-    }
-
-    private static void cloneArrays() {
-        System.out.println("Cloning Arrays " + java.time.LocalTime.now());
-
-        for (Ngram ngram : unigrams) {
-            unigramsLP.add(ngram.clone());
-        }
-
-        for (Ngram ngram : bigrams) {
-            bigramsLP.add(ngram.clone());
-        }
-
-        for (Ngram ngram : trigrams) {
-            trigramsLP.add(ngram.clone());
-        }
-
-        for (Ngram ngram : unigrams) {
-            unigramsUNK.add(ngram.clone());
-        }
-
-        for (Ngram ngram : bigrams) {
-            bigramsUNK.add(ngram.clone());
-        }
-
-        for (Ngram ngram : trigrams) {
-            trigramsUNK.add(ngram.clone());
-        }
-
-        trainingUNK.addAll(training);
-    }
-
-    private static void calcUnigramsUNK() {
-        System.out.println("Calculating unigramsUNK " + java.time.LocalTime.now());
-
-        for (String word : trainingUNK) {
-            if (exists(new String[]{word}, unigramsUNK)) {
-                unigramsUNK.get(index).count++;
-            } else {
-                Ngram unigram = new Ngram(1);
-                unigram.n_gram[0] = word;
-                unigramsUNK.add(unigram);
+            // if no matching tri or bi are found, back off to unigram model
+            if (trigramMatches.size() == 0 && bigramMatches.size() == 0 || type == 1) {
+                System.out.println("Using the Unigram model");
+                word = uni.get(probabilisticChoice(uni)).n_gram[0];
+            } else if (trigramMatches.size() == 0 && bigramMatches.size() != 0) {
+                System.out.println("Using the Bigram model");
+                word = bigramMatches.get(probabilisticChoice(bigramMatches)).n_gram[1];
             }
         }
-        unigramProbabilityUNK();
+
+        return word;
     }
 
-    private static void calcBigramUNK() {
-        System.out.println("Calculating BigramUNK " + java.time.LocalTime.now());
-        for (int i = 0; i < trainingUNK.size() - 1; i++) {
-            if (valid(trainingUNK.get(i)) && (valid(trainingUNK.get(i + 1)))) {
-                String word = trainingUNK.get(i);
-                String word2 = trainingUNK.get(i + 1);
+    // Returns an ArrayList of tri, for which words_im2 and word_im1 are the last words in the input sentence
 
-                if (exists(new String[]{word, word2}, bigramsUNK)) {
-                    bigramsUNK.get(index).count++;
-                } else {
-                    Ngram bigram = new Ngram(2);
-                    bigram.n_gram[0] = trainingUNK.get(i);
-                    bigram.n_gram[1] = trainingUNK.get(i + 1);
-                    bigramsUNK.add(bigram);
-                }
+    private static ArrayList<Ngram> findTrigramMatches(String word_im2, String word_im1) {
+        ArrayList<Ngram> trigramMatches = new ArrayList<>();
+
+        for (Ngram trigram : tri) {
+            if (trigram.n_gram[0].equals(word_im2) && trigram.n_gram[1].equals(word_im1)) {
+                trigramMatches.add(trigram);
             }
         }
-        bigramProbabilityUNK();
+
+        return trigramMatches;
     }
+    // Returns an ArrayList of bi, for which word_im1 is the last word in the input sentence
 
-    private static void calcTrigramUNK() {
-        System.out.println("Calculating TrigramUNK " + java.time.LocalTime.now());
+    private static ArrayList<Ngram> findBigramMatches(String word_im1) {
+        ArrayList<Ngram> bigramMatches = new ArrayList<>();
 
-        for (int i = 0; i < trainingUNK.size() - 2; i++) {
-            if (valid(trainingUNK.get(i)) && valid(trainingUNK.get(i + 1)) && valid(trainingUNK.get(i + 2))) {
-                String word = trainingUNK.get(i);
-                String word2 = trainingUNK.get(i + 1);
-                String word3 = trainingUNK.get(i + 2);
-
-                if (exists(new String[]{word, word2, word3}, trigramsUNK)) {
-                    trigramsUNK.get(index).count++;
-                } else {
-                    Ngram trigram = new Ngram(3);
-                    trigram.n_gram[0] = trainingUNK.get(i);
-                    trigram.n_gram[1] = trainingUNK.get(i + 1);
-                    trigram.n_gram[2] = trainingUNK.get(i + 2);
-                    trigramsUNK.add(trigram);
-                }
+        for (Ngram bigram : bi) {
+            if (bigram.n_gram[0].equals(word_im1)) {
+                bigramMatches.add(bigram);
             }
         }
-        trigramProbabilityUNK();
+
+        return bigramMatches;
     }
 
-    public static void unigramProbabilityUNK() {
-        System.out.println("Calculating unigramUNK Probability " + java.time.LocalTime.now());
-        for (Ngram unigram : unigramsUNK) {
-            int count = unigramCount(unigram.n_gram[0]);
-            unigram.probability = (double) (unigram.count) / count;
+    private static void setNgram(int flavour) {
+        if (flavour == 1) {
+            //Vanilla
+            uni = unigrams;
+            bi = bigrams;
+            tri = trigrams;
+        } else if (flavour == 2) {
+            //LaPlace
+            uni = unigramsLP;
+            bi = bigramsLP;
+            tri = trigramsLP;
+        } else if (flavour == 3) {
+            //UNK
+            uni = unigramsUNK;
+            bi = bigramsUNK;
+            tri = trigramsUNK;
         }
     }
 
 
-    public static void bigramProbabilityUNK() {
-        System.out.println("Calculating BigramUNK Probability " + java.time.LocalTime.now());
+    private static void loadModel() {
 
-        for (Ngram bigram : bigramsUNK) {
-            int count = unigramCount(bigram.n_gram[0]);
-            bigram.probability = (double) (bigram.count) / count;
-        }
+        training = JSONCreator.loadStringFile("JSON/training.json");
+        trainingUNK = JSONCreator.loadStringFile("JSON/trainingUNK.json");
+        test = JSONCreator.loadStringFile("JSON/test.json");
+
+        unigrams = JSONCreator.loadNgramFile("JSON/vanilla/unigram.json", true);
+        bigrams = JSONCreator.loadNgramFile("JSON/vanilla/bigram.json", false);
+        trigrams = JSONCreator.loadNgramFile("JSON/vanilla/trigram.json", false);
+
+        unigramsLP = JSONCreator.loadNgramFile("JSON/laplace/unigramLP.json", true);
+        bigramsLP = JSONCreator.loadNgramFile("JSON/laplace/bigramLP.json", false);
+        trigramsLP = JSONCreator.loadNgramFile("JSON/laplace/trigramLP.json", false);
+
+        unigramsUNK = JSONCreator.loadNgramFile("JSON/unk/unigramUNK.json", true);
+        bigramsUNK = JSONCreator.loadNgramFile("JSON/unk/bigramUNK.json", false);
+        trigramsUNK = JSONCreator.loadNgramFile("JSON/unk/trigramUNK.json", false);
+
+        linearInterpolation = JSONCreator.loadNgramFile("JSON/linearInterpolation.json", false);
+        System.out.println("Successfully Loaded Language Model");
     }
 
-    public static void trigramProbabilityUNK() {
-        System.out.println("Calculating TrigramUNK Probability " + java.time.LocalTime.now());
 
-        for (Ngram trigram : trigramsUNK) {
-            int count = bigramCount(new String[]{trigram.n_gram[0], trigram.n_gram[1]});
-            trigram.probability = (double) (trigram.count) / count;
-        }
-    }
 }
