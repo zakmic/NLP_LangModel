@@ -12,18 +12,21 @@ public class Main {
     private static String word_i;
 
     public static void main(String[] args) {
-//        FileInput.listFiles("sample");
-//
-//        BuildModel();
+//        To Build the Model from XML Corpus
+        FileInput.listFiles("corpus");
+        BuildModel();
 
-        loadModel();
+//        loadModel();
 
+//        menu();
+    }
 
+    private static void menu() {
         Scanner kb = new Scanner(System.in);
         String option = "0";
 
         do {
-            System.out.println("\n1. Generate rest of sentence" + "\n2. Calculate Probability" + "\n 3. Exit");
+            System.out.println("\n1. Generate rest of sentence" + "\n2. Calculate Probability" + "\n3. Exit");
             option = kb.nextLine();
             switch (Integer.parseInt(option)) {
                 case 1: {
@@ -41,17 +44,18 @@ public class Main {
                     String[] textAr = input.toLowerCase().split(" ");
                     ArrayList<String> text = new ArrayList<String>(Arrays.asList(textAr));
 
-                    System.out.println("How many words to generate: ");
+                    System.out.println("How many words to attempt to generate: ");
                     String count = kb.nextLine();
 
 
                     for (int i = 0; i < Integer.parseInt(count); i++) {
-                        String nextWord = generateText(text, flavour, type);
+                        String nextWord = generateSequence(text, flavour, type);
                         text.add(nextWord);
                     }
 
                     for (String word : text) {
-                        System.out.println(word);
+                        if (word != null)
+                            System.out.print(word + " ");
                     }
 
                     break;
@@ -70,6 +74,11 @@ public class Main {
                     String input = kb.nextLine();
 
                     String[] textAr = input.toLowerCase().split(" ");
+
+                    for (int i = 0; i < textAr.length; i++) {
+                        textAr[i] = textAr[i].replaceAll(" ", "");
+                    }
+
                     ArrayList<String> text = new ArrayList<String>(Arrays.asList(textAr));
 
                     System.out.println(probability(text, flavour, type));
@@ -131,21 +140,19 @@ public class Main {
         JSONCreator.printJSON(unigramsUNK, bigramsUNK, trigramsUNK, "JSON/unk/unigramUNK.json", "JSON/unk/bigramUNK.json", "JSON/unk/trigramUNK.json");
         JSONCreator.printSingleJSONString(trainingUNK, "JSON/trainingUNK.json");
 
-        linearInterpolation("vanilla");
+        linearInterpolation();
+
     }
 
     private static double probability(ArrayList<String> sentence, int flavour, int type) {
-
-
         setNgram(flavour);
-
 
         double probability = 0;
 
 
         if (flavour == 2) {
             if (type == 1) {
-                for (int i = 1; i < sentence.size(); i++) {
+                for (int i = 0; i < sentence.size(); i++) {
                     probability += CalcLaplaceUnigramProbability(sentence.get(i));
                 }
             } else if (type == 2) {
@@ -160,7 +167,7 @@ public class Main {
 
         } else {
             if (type == 1) {
-                for (int i = 1; i < sentence.size(); i++) {
+                for (int i = 0; i < sentence.size(); i++) {
                     probability += CalcUnigramProbability(sentence.get(i));
                 }
             } else if (type == 2) {
@@ -178,89 +185,105 @@ public class Main {
     }
 
 
-    private static String generateText(ArrayList<String> text, int flavour, int type) {
+    private static String generateSequence(ArrayList<String> text, int flavour, int type) {
         String word2, word1; //word1 is word n-1
         String word = null;
 
         setNgram(flavour);
 
         if (type == 4) {
-            tri = linearInterpolation;
+            if (flavour == 1) {
+                tri = linearInterpolation;
+            } else if (flavour == 2) {
+                tri = linearInterpolationLP;
+            } else if (flavour == 3) {
+                tri = linearInterpolationUNK;
+            }
+            type = 3;
         }
 
 
-        if (text.size() == 1) {   // If the user has only entered one word
+        if (text.size() == 1) {   // Only one word
+            if (type == 3) {
+                System.out.println("Using bigram/unigram model since only 1 word is available");
+            }
             word1 = text.get(0);
 
-            ArrayList<Ngram> bigramMatches = new ArrayList<>();
-            bigramMatches = findBigramMatches(word1);
+            ArrayList<Ngram> equalBigrams = new ArrayList<>();
+            equalBigrams = searchBigrams(word1);
 
             // If no matching bi are found, back off to unigram model
-            if (bigramMatches.size() == 0 || type == 1) {
-                System.out.println("Using the Unigram model");
-                word = uni.get(probabilisticChoice(uni)).n_gram[0];
+            if (equalBigrams.size() == 0 || type == 1) {
+                System.out.println("Unigram");
+                word = uni.get(rouletteWheel(uni)).n_gram[0];
             } else {
-                System.out.println("Using the Bigram model");
-                word = bigramMatches.get(probabilisticChoice(bigramMatches)).n_gram[1];
+                word = equalBigrams.get(rouletteWheel(equalBigrams)).n_gram[1];
             }
-        } else {                        // If the user has entered 2 or more words
+
+        } else {                        // 2+ words
             word2 = text.get(text.size() - 2);
             word1 = text.get(text.size() - 1);
 
-            // finding all tri which start with the last 2 words of the entered sentence
-            ArrayList<Ngram> trigramMatches = new ArrayList<>();
-            trigramMatches = findTrigramMatches(word2, word1);
+            // Trigram Model Search
+            ArrayList<Ngram> equalTrigrams = new ArrayList<>();
+            equalTrigrams = searchTrigrams(word2, word1);
 
 
-            ArrayList<Ngram> bigramMatches = new ArrayList<>();
+            ArrayList<Ngram> equalBigrams = new ArrayList<>();
             if (type != 1) {
-                // if no matching tri are found (back off)
-                if (trigramMatches.size() == 0 || type != 3) {
-                    bigramMatches = findBigramMatches(word1);
+                if (equalTrigrams.size() == 0 || type != 3) {
+                    //Bigram Model Search
+                    equalBigrams = searchBigrams(word1);
                 } else {
-                    System.out.println("Using the Trigram model");
-                    word = trigramMatches.get(probabilisticChoice(trigramMatches)).n_gram[2];
+                    //Trigram Model Search
+                    System.out.println("Unigram");
+                    word = equalTrigrams.get(rouletteWheel(equalTrigrams)).n_gram[2];
                 }
             }
 
-            // if no matching tri or bi are found, back off to unigram model
-            if (trigramMatches.size() == 0 && bigramMatches.size() == 0 || type == 1) {
-                System.out.println("Using the Unigram model");
-                word = uni.get(probabilisticChoice(uni)).n_gram[0];
-            } else if (trigramMatches.size() == 0 && bigramMatches.size() != 0) {
-                System.out.println("Using the Bigram model");
-                word = bigramMatches.get(probabilisticChoice(bigramMatches)).n_gram[1];
+            if (word == null) {
+                if (equalTrigrams.size() == 0 && equalBigrams.size() == 0 || type == 1) {
+                    //Unigram Model Search
+                    word = uni.get(rouletteWheel(uni)).n_gram[0];
+                } else if (equalTrigrams.size() == 0) {
+                    //Bigram Model Search
+                    word = equalBigrams.get(rouletteWheel(equalBigrams)).n_gram[1];
+                } else if (equalBigrams.size() == 0) {
+                    word = uni.get(rouletteWheel(uni)).n_gram[0];
+                }
             }
         }
 
         return word;
     }
 
-    // Returns an ArrayList of tri, for which words_im2 and word_im1 are the last words in the input sentence
-
-    private static ArrayList<Ngram> findTrigramMatches(String word_im2, String word_im1) {
-        ArrayList<Ngram> trigramMatches = new ArrayList<>();
+    private static ArrayList<Ngram> searchTrigrams(String word_im2, String word_im1) {
+        ArrayList<Ngram> trigramEquals = new ArrayList<>();
 
         for (Ngram trigram : tri) {
+            trigram.n_gram[0] = trigram.n_gram[0].replaceAll(" ", "");
+            trigram.n_gram[1] = trigram.n_gram[1].replaceAll(" ", "");
+            trigram.n_gram[2] = trigram.n_gram[2].replaceAll(" ", "");
             if (trigram.n_gram[0].equals(word_im2) && trigram.n_gram[1].equals(word_im1)) {
-                trigramMatches.add(trigram);
+                trigramEquals.add(trigram);
             }
         }
 
-        return trigramMatches;
+        return trigramEquals;
     }
-    // Returns an ArrayList of bi, for which word_im1 is the last word in the input sentence
 
-    private static ArrayList<Ngram> findBigramMatches(String word_im1) {
-        ArrayList<Ngram> bigramMatches = new ArrayList<>();
+    private static ArrayList<Ngram> searchBigrams(String word_im1) {
+        ArrayList<Ngram> bigramEquals = new ArrayList<>();
 
         for (Ngram bigram : bi) {
+            bigram.n_gram[0] = bigram.n_gram[0].replaceAll(" ", "");
+            bigram.n_gram[1] = bigram.n_gram[1].replaceAll(" ", "");
             if (bigram.n_gram[0].equals(word_im1)) {
-                bigramMatches.add(bigram);
+                bigramEquals.add(bigram);
             }
         }
 
-        return bigramMatches;
+        return bigramEquals;
     }
 
     private static void setNgram(int flavour) {
@@ -285,6 +308,8 @@ public class Main {
 
     private static void loadModel() {
 
+        System.out.println("Loading Model Files (should take under a minute)");
+
         training = JSONCreator.loadStringFile("JSON/training.json");
         trainingUNK = JSONCreator.loadStringFile("JSON/trainingUNK.json");
         test = JSONCreator.loadStringFile("JSON/test.json");
@@ -302,7 +327,10 @@ public class Main {
         trigramsUNK = JSONCreator.loadNgramFile("JSON/unk/trigramUNK.json", false);
 
         linearInterpolation = JSONCreator.loadNgramFile("JSON/linearInterpolation.json", false);
+        linearInterpolationLP = JSONCreator.loadNgramFile("JSON/linearInterpolationLP.json", false);
+        linearInterpolationUNK = JSONCreator.loadNgramFile("JSON/linearInterpolationUNK.json", false);
         System.out.println("Successfully Loaded Language Model");
+
     }
 
 

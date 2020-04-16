@@ -24,6 +24,9 @@ public class Model {
     public static ArrayList<Ngram> trigramsUNK = new ArrayList<>();
 
     public static ArrayList<Ngram> linearInterpolation = new ArrayList<>();
+    public static ArrayList<Ngram> linearInterpolationLP = new ArrayList<>();
+    public static ArrayList<Ngram> linearInterpolationUNK = new ArrayList<>();
+
 
     public static final double unigramWeight = 0.1;
     public static final double bigramWeight = 0.3;
@@ -45,12 +48,14 @@ public class Model {
         System.out.println("Calculating Unigram " + java.time.LocalTime.now());
 
         for (String word : training) {
-            if (exists(new String[]{word}, unigrams)) {
-                unigrams.get(index).count++;
-            } else {
-                Ngram unigram = new Ngram(1);
-                unigram.n_gram[0] = word;
-                unigrams.add(unigram);
+            if (valid(word)) {
+                if (exists(new String[]{word}, unigrams)) {
+                    unigrams.get(index).count++;
+                } else {
+                    Ngram unigram = new Ngram(1);
+                    unigram.n_gram[0] = word;
+                    unigrams.add(unigram);
+                }
             }
         }
     }
@@ -146,39 +151,24 @@ public class Model {
         calcTrigramUNK();
     }
 
-    public static void linearInterpolation(String flavour) {
-        System.out.println("Calculating Linear Interpolation (" + flavour + ")" + java.time.LocalTime.now());
+    public static void linearInterpolation() {
+        System.out.println("Calculating Linear Interpolation " + java.time.LocalTime.now());
 
-        ArrayList<Ngram> uni = new ArrayList<>();
-        ArrayList<Ngram> bi = new ArrayList<>();
-        ArrayList<Ngram> tri = new ArrayList<>();
+//        calcLinearInterpolation(unigrams, bigrams, trigrams, linearInterpolation, "JSON/linearInterpolation.json");
+        calcLinearInterpolation(unigramsLP, bigramsLP, trigramsLP, linearInterpolationLP, "JSON/linearInterpolationLP.json");
+//        calcLinearInterpolation(unigramsUNK, bigramsUNK, trigramsUNK, linearInterpolationUNK, "JSON/linearInterpolationUNK.json");
 
-        if (flavour.equalsIgnoreCase("vanilla")) {
-            uni = unigrams;
-            bi = bigrams;
-            tri = trigrams;
-        } else if (flavour.equalsIgnoreCase("laplace")) {
-            uni = unigramsLP;
-            bi = bigramsLP;
-            tri = trigramsLP;
-        } else if (flavour.equalsIgnoreCase("unk")) {
-            uni = unigramsUNK;
-            bi = bigramsUNK;
-            tri = trigramsUNK;
-        } else {
-            System.out.println("Error");
-            System.exit(1);
-        }
+    }
 
-
+    private static void calcLinearInterpolation(ArrayList<Ngram> uni, ArrayList<Ngram> bi, ArrayList<Ngram> tri, ArrayList<Ngram> dest, String path) {
         for (Ngram trigram : tri) {
 
             double trigramProbability = trigram.probability;
 
-            exists(new String[]{trigram.n_gram[0], trigram.n_gram[1]}, bi);
+            exists(new String[]{trigram.n_gram[1], trigram.n_gram[2]}, bi);
             double bigramProbability = bi.get(index).probability;
 
-            exists(new String[]{trigram.n_gram[0]}, uni);
+            exists(new String[]{trigram.n_gram[2]}, uni);
             double unigramProbability = uni.get(index).probability;
 
             double linearInterpolationProbability = (trigramWeight * trigramProbability) + (bigramWeight * bigramProbability) + (unigramWeight * unigramProbability);
@@ -187,20 +177,20 @@ public class Model {
             ngram.n_gram = trigram.n_gram;
             ngram.count = trigram.count;
             ngram.probability = linearInterpolationProbability;
-            linearInterpolation.add(ngram);
+            dest.add(ngram);
         }
 
-        printNgram(linearInterpolation, "SampleModelOutput/linearInterpolation.txt");
-        JSONCreator.printSingleJSON(linearInterpolation, "JSON/linearInterpolation.json");
+        JSONCreator.printSingleJSON(dest, path);
     }
 
 
     public static void unigramProbability() {
         System.out.println("Unigram Probability" + java.time.LocalTime.now());
 
+        int vocabSize = unigrams.size();
+
         for (Ngram unigram : unigrams) {
-            int count = unigramCount(unigram.n_gram[0]);
-            unigram.probability = (double) (unigram.count) / count;
+            unigram.probability = (double) (unigram.count) / vocabSize;
         }
     }
 
@@ -251,9 +241,8 @@ public class Model {
             totalCount += ngram.count;
         }
 
-
         for (Ngram ngram : unigramsLP) {
-            ngram.probability = (double) (ngram.count + 1) / (totalCount + vocabSize);
+            ngram.probability = (double) (ngram.count) / (totalCount + vocabSize);
         }
     }
 
@@ -270,7 +259,7 @@ public class Model {
                 }
             }
 
-            ngram.probability = (double) (ngram.count + 1) / (count_word + vocabSize);
+            ngram.probability = (double) (ngram.count) / (count_word + vocabSize);
         }
     }
 
@@ -287,8 +276,7 @@ public class Model {
                     countWords = value.count;
                 }
             }
-            // (count(Wn-2,Wn-1,Wn) + 1) / (count(Wn-2,Wn-1) + V)
-            ngram.probability = (double) (ngram.count + 1) / (countWords + vocabSize);
+            ngram.probability = (double) (ngram.count) / (countWords + vocabSize);
         }
     }
 

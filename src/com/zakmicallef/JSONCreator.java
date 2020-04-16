@@ -138,7 +138,6 @@ public class JSONCreator {
             Object obj = jsonParser.parse(reader);
 
             JSONArray allWords = (JSONArray) obj;
-            System.out.println(allWords);
 
             for (Object wordJSON : allWords) {
                 strs.add(wordJSON.toString());
@@ -164,12 +163,10 @@ public class JSONCreator {
             JSONArray ngramListJson = (JSONArray) obj;
 
             if (singleValue) {
-//                ngramListJson.forEach(ngram -> parseUnigram((JSONObject) ngram));
                 for (Object object : ngramListJson) {
                     ngramList.add(parseUnigram((JSONObject) object));
                 }
             } else {
-//                ngramListJson.forEach(ngram -> parseNgram((JSONObject) ngram));
                 for (Object object : ngramListJson) {
                     ngramList.add(parseNgram((JSONObject) object));
                 }
